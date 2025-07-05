@@ -1,0 +1,18 @@
+# File: config/bluesky_config.yaml
+# Configuration for Bluesky activity fetcher
+
+bluesky:
+  profile_handle: "digthatdata.bsky.social"
+  max_posts_per_run: 200  # Safety limit to prevent runaway fetching
+  include_reply_context: true  # Fetch original posts when replying
+  fetch_followers: true  # Collect follower metadata
+  followers_limit: 1000  # Max followers to process per run
+  lookback_hours: 168  # Fallback: fetch posts from last N hours if no previous data (7 days)
+
+storage:
+  data_directory: "data/bluesky"
+  keep_files: 30  # Number of timestamped files to keep
+
+logging:
+  level: "INFO"
+  format: "{time:YYYY-MM-DD HH:mm:ss} | {level} | {message}"
