@@ -11,7 +11,6 @@ from atproto import Client
 from loguru import logger
 from omegaconf import DictConfig, OmegaConf
 
-
 class BlueskyActivityFetcher:
     """Fetches and stores Bluesky social activity data."""
     
@@ -22,8 +21,30 @@ class BlueskyActivityFetcher:
         self.data_dir = Path(self.config.storage.data_directory)
         self.data_dir.mkdir(parents=True, exist_ok=True)
         
+        # Authenticate the client
+        self._authenticate_client()
+        
+    def _authenticate_client(self) -> None:
+        """Authenticate the Bluesky client with credentials."""
+        username = self.config.bluesky.get('username', '')
+        password = self.config.bluesky.get('password', '')
+        
+        if not username or not password:
+            logger.error("Bluesky username and password must be provided via environment variables")
+            logger.error("Set BLUESKY_USERNAME and BLUESKY_PASSWORD environment variables")
+            raise ValueError("Missing Bluesky authentication credentials")
+        
+        try:
+            logger.info(f"Authenticating with Bluesky as {username}")
+            self.client.login(username, password)
+            logger.info("Successfully authenticated with Bluesky")
+        except Exception as e:
+            logger.error(f"Failed to authenticate with Bluesky: {e}")
+            logger.error("Make sure your username and app password are correct")
+            raise
+        
     def _load_config(self) -> DictConfig:
-        """Load configuration from YAML file."""
+        """Load configuration from YAML file with environment variable resolution."""
         if not self.config_path.exists():
             logger.error(f"Config file not found: {self.config_path}")
             raise FileNotFoundError(f"Config file not found: {self.config_path}")
