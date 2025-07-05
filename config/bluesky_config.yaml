@@ -2,8 +2,11 @@
 # Configuration for Bluesky activity fetcher
 
 bluesky:
+  # auth
   username: ${oc.env:BLUESKY_USERNAME}
   password: ${oc.env:BLUESKY_PASSWORD} 
+  # scrape target
+  profile_handle: ${.username}
   max_posts_per_run: 200  # Safety limit to prevent runaway fetching
   include_reply_context: true  # Fetch original posts when replying
   fetch_followers: true  # Collect follower metadata
