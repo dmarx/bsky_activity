@@ -10,7 +10,7 @@ bluesky:
   max_posts_per_run: 200  # Safety limit to prevent runaway fetching
   include_reply_context: true  # Fetch original posts when replying
   fetch_followers: true  # Collect follower metadata
-  followers_limit: 1000  # Max followers to process per run
+  followers_limit: 100  # Max followers to process per run
   lookback_hours: 168  # Fallback: fetch posts from last N hours if no previous data (7 days)
 
 storage:
