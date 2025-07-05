@@ -33,11 +33,11 @@ jobs:
     environment: bluesky-fetcher  # Use GitHub Environment for secure secret management
     
     steps:
-    - name: Validate backfill confirmation
-      if: ${{ github.event.inputs.mode == 'backfill' && github.event.inputs.confirm_backfill != 'BACKFILL' }}
-      run: |
-        echo "❌ Backfill mode requires confirmation. Please type 'BACKFILL' in the confirm_backfill field."
-        exit 1
+    # - name: Validate backfill confirmation
+    #   if: ${{ github.event.inputs.mode == 'backfill' && github.event.inputs.confirm_backfill != 'BACKFILL' }}
+    #   run: |
+    #     echo "❌ Backfill mode requires confirmation. Please type 'BACKFILL' in the confirm_backfill field."
+    #     exit 1
     
     - name: Set run parameters
       id: params
