@@ -7,15 +7,59 @@ on:
   schedule:
     # Run every 6 hours
     - cron: '0 */6 * * *'
-  workflow_dispatch:  # Allow manual triggering
-  push:
+  workflow_dispatch:  # Allow manual triggering with options
+    inputs:
+      mode:
+        description: 'Fetch mode'
+        required: true
+        default: 'incremental'
+        type: choice
+        options:
+          - incremental
+          - backfill
+      # cleanup:
+      #   description: 'Enable cleanup (remove old timestamped files)'
+      #   required: false
+      #   default: false
+      #   type: boolean
+      # confirm_backfill:
+      #   description: 'For backfill mode: type "BACKFILL" to confirm'
+      #   required: false
+      #   default: ''
 
 jobs:
   fetch-activity:
     runs-on: ubuntu-latest
-    environment: bsky-fetcher  # Use GitHub Environment for secure secret management
+    environment: bluesky-fetcher  # Use GitHub Environment for secure secret management
     
     steps:
+    - name: Validate backfill confirmation
+      if: ${{ github.event.inputs.mode == 'backfill' && github.event.inputs.confirm_backfill != 'BACKFILL' }}
+      run: |
+        echo "❌ Backfill mode requires confirmation. Please type 'BACKFILL' in the confirm_backfill field."
+        exit 1
+    
+    - name: Set run parameters
+      id: params
+      run: |
+        if [ "${{ github.event.inputs.mode }}" = "backfill" ]; then
+          echo "🔄 Running in BACKFILL mode - fetching complete history"
+          echo "mode_flag=--backfill" >> $GITHUB_OUTPUT
+          echo "commit_prefix=Complete backfill" >> $GITHUB_OUTPUT
+        else
+          echo "📈 Running in INCREMENTAL mode - fetching new posts only"
+          echo "mode_flag=" >> $GITHUB_OUTPUT
+          echo "commit_prefix=Update" >> $GITHUB_OUTPUT
+        fi
+        
+        # if [ "${{ github.event.inputs.cleanup }}" = "true" ]; then
+        #   echo "🧹 Cleanup enabled - will remove old timestamped files"
+        #   echo "cleanup_flag=--cleanup" >> $GITHUB_OUTPUT
+        # else
+        #   echo "📚 Archive mode - preserving all timestamped files"
+        #   echo "cleanup_flag=" >> $GITHUB_OUTPUT
+        # fi
+    
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
@@ -39,7 +83,7 @@ jobs:
         BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
         BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
       run: |
-        python scripts/fetch_bluesky_activity.py run
+        python scripts/fetch_bluesky_activity.py run ${{ steps.params.outputs.mode_flag }} # ${{ steps.params.outputs.cleanup_flag }}
     
     - name: Commit and push changes
       run: |
@@ -49,6 +93,6 @@ jobs:
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Update Bluesky activity data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "${{ steps.params.outputs.commit_prefix }} Bluesky activity data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git push
         fi
