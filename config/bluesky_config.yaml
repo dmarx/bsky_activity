@@ -2,7 +2,8 @@
 # Configuration for Bluesky activity fetcher
 
 bluesky:
-  profile_handle: "digthatdata.bsky.social"
+  username: ${oc.env:BLUESKY_USERNAME}
+  password: ${oc.env:BLUESKY_PASSWORD} 
   max_posts_per_run: 200  # Safety limit to prevent runaway fetching
   include_reply_context: true  # Fetch original posts when replying
   fetch_followers: true  # Collect follower metadata
