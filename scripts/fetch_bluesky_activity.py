@@ -1,6 +1,3 @@
-# File: scripts/fetch_bluesky_activity.py
-# Fetches social activity from Bluesky and stores it locally
-import os
 import json
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -70,7 +67,7 @@ class BlueskyActivityFetcher:
         latest_file = self._get_latest_filename()
         
         if not latest_file.exists():
-            logger.info("No previous data found, will fetch from lookback period")
+            logger.info("No previous data found, will fetch from account creation date")
             return None
             
         try:
@@ -79,7 +76,7 @@ class BlueskyActivityFetcher:
             
             posts = previous_data.get('posts', [])
             if not posts:
-                logger.info("No posts in previous data, will fetch from lookback period")
+                logger.info("No posts in previous data, will fetch from account creation date")
                 return None
             
             # Find the most recent post timestamp
@@ -97,13 +94,26 @@ class BlueskyActivityFetcher:
                 return None
                 
         except Exception as e:
-            logger.warning(f"Error reading previous data: {e}, will fetch from lookback period")
+            logger.warning(f"Error reading previous data: {e}, will fetch from account creation date")
             return None
     
-    def _get_fallback_timestamp(self) -> datetime:
-        """Get fallback timestamp based on configured lookback hours."""
+    def _get_fallback_timestamp(self, profile_handle: str) -> datetime:
+        """Get fallback timestamp - preferably account creation date, or lookback period."""
+        try:
+            # Try to get account creation date from profile
+            profile = self.client.get_profile(profile_handle)
+            if hasattr(profile, 'created_at') and profile.created_at:
+                account_created = datetime.fromisoformat(profile.created_at.replace('Z', '+00:00'))
+                logger.info(f"Using account creation date as fallback: {account_created}")
+                return account_created
+        except Exception as e:
+            logger.warning(f"Could not get account creation date: {e}")
+        
+        # Fall back to lookback period if account creation date unavailable
         lookback_hours = self.config.bluesky.get('lookback_hours', 168)  # 7 days default
-        return datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
+        fallback_time = datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
+        logger.info(f"Using lookback period as fallback: {fallback_time} ({lookback_hours} hours ago)")
+        return fallback_time
     
     def fetch_reply_context(self, reply_uri: str) -> dict[str, Any] | None:
         """Fetch the original post that this is a reply to."""
@@ -140,7 +150,7 @@ class BlueskyActivityFetcher:
             
             # Determine the cutoff time
             if since_timestamp is None:
-                since_timestamp = self._get_fallback_timestamp()
+                since_timestamp = self._get_fallback_timestamp(handle)
                 logger.info(f"No timestamp provided, using fallback: {since_timestamp}")
             
             # Fetch posts with pagination to get all posts since timestamp
@@ -321,8 +331,12 @@ class BlueskyActivityFetcher:
                 "follow_date": None,
             }
     
-    def fetch_activity(self) -> dict[str, Any]:
-        """Fetch all configured social activity incrementally."""
+    def fetch_activity(self, backfill: bool = False) -> dict[str, Any]:
+        """Fetch all configured social activity incrementally.
+        
+        Args:
+            backfill: If True, fetch from account creation date regardless of existing data
+        """
         activity_data = {
             "fetch_timestamp": datetime.now(timezone.utc).isoformat(),
             "profile_handle": self.config.bluesky.profile_handle,
@@ -331,8 +345,8 @@ class BlueskyActivityFetcher:
         }
         
         try:
-            # Get the timestamp of the last fetched post
-            last_timestamp = self._get_last_fetch_timestamp()
+            # Get the timestamp of the last fetched post (unless backfilling)
+            last_timestamp = None if backfill else self._get_last_fetch_timestamp()
             
             # Fetch posts incrementally
             posts = self.fetch_profile_posts(
@@ -345,7 +359,8 @@ class BlueskyActivityFetcher:
             activity_data["incremental_fetch"] = {
                 "last_post_timestamp": last_timestamp.isoformat() if last_timestamp else None,
                 "new_posts_count": len(posts),
-                "is_initial_fetch": last_timestamp is None
+                "is_initial_fetch": last_timestamp is None,
+                "is_backfill": backfill
             }
             
             # Fetch follower metadata if configured
@@ -379,45 +394,56 @@ class BlueskyActivityFetcher:
         logger.info(f"Saved activity data to {timestamped_file} and {latest_file}")
         return timestamped_file, latest_file
     
-    def cleanup_old_files(self, keep_count: int | None = None) -> None:
-        """Remove old timestamped files, keeping only the most recent ones."""
-        if keep_count is None:
-            keep_count = self.config.storage.get("keep_files", 10)
+    # def cleanup_old_files(self, keep_count: int | None = None) -> None:
+    #     """Remove old timestamped files, keeping only the most recent ones."""
+    #     if keep_count is None:
+    #         keep_count = self.config.storage.get("keep_files", 10)
         
-        # Find all timestamped files
-        pattern = "bluesky_activity_*.json"
-        files = list(self.data_dir.glob(pattern))
+    #     # Find all timestamped files
+    #     pattern = "bluesky_activity_*.json"
+    #     files = list(self.data_dir.glob(pattern))
         
-        # Exclude the latest file from cleanup
-        latest_file = self._get_latest_filename()
-        files = [f for f in files if f.name != latest_file.name]
+    #     # Exclude the latest file from cleanup
+    #     latest_file = self._get_latest_filename()
+    #     files = [f for f in files if f.name != latest_file.name]
         
-        # Sort by modification time (newest first)
-        files.sort(key=lambda x: x.stat().st_mtime, reverse=True)
+    #     # Sort by modification time (newest first)
+    #     files.sort(key=lambda x: x.stat().st_mtime, reverse=True)
         
-        # Remove old files
-        files_to_remove = files[keep_count:]
-        for file_path in files_to_remove:
-            file_path.unlink()
-            logger.info(f"Removed old file: {file_path}")
+    #     # Remove old files
+    #     files_to_remove = files[keep_count:]
+    #     for file_path in files_to_remove:
+    #         file_path.unlink()
+    #         logger.info(f"Removed old file: {file_path}")
         
-        if files_to_remove:
-            logger.info(f"Cleaned up {len(files_to_remove)} old files")
+    #     if files_to_remove:
+    #         logger.info(f"Cleaned up {len(files_to_remove)} old files")
     
-    def run(self, cleanup: bool = True) -> None:
-        """Main execution method."""
+    def run(self, cleanup: bool = False, backfill: bool = False) -> None:
+        """Main execution method.
+        
+        Args:
+            cleanup: Whether to clean up old files after fetching (default: False - preserve all data)
+            backfill: If True, fetch from account creation date regardless of existing data
+        """
         logger.info("Starting Bluesky activity fetch")
+        
+        if backfill:
+            logger.info("Backfill mode enabled - will fetch from account creation date")
         
         try:
             # Fetch activity data
-            activity_data = self.fetch_activity()
+            activity_data = self.fetch_activity(backfill=backfill)
             
             # Save the data
             timestamped_file, latest_file = self.save_activity_data(activity_data)
             
-            # Cleanup old files if requested
-            if cleanup:
-                self.cleanup_old_files()
+            # Cleanup old files if explicitly requested
+            # if cleanup:
+            #     logger.info("Cleanup requested - removing old timestamped files")
+            #     self.cleanup_old_files()
+            # else:
+            #     logger.info("Preserving all timestamped files for historical archive")
             
             logger.info("Bluesky activity fetch completed successfully")
             
