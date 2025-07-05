@@ -1,6 +1,6 @@
 # File: scripts/fetch_bluesky_activity.py
 # Fetches social activity from Bluesky and stores it locally
-
+import os
 import json
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -28,6 +28,9 @@ class BlueskyActivityFetcher:
         """Authenticate the Bluesky client with credentials."""
         username = self.config.bluesky.get('username', '')
         password = self.config.bluesky.get('password', '')
+
+        username = username if username else os.getenv('BLUESKY_USERNAME')
+        password = password if password else os.getenv('BLUESKY_PASSWORD')
         
         if not username or not password:
             logger.error("Bluesky username and password must be provided via environment variables")
