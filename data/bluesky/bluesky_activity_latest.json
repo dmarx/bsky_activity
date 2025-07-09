@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2025-07-09T12:21:55.313405+00:00",
+  "fetch_timestamp": "2025-07-09T18:15:53.765892+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -13,6 +13,19 @@
         "handle": "justmask.bsky.social",
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:iqul6qzvtraqvjbpanqzqaxv",
+        "handle": "rolandrgv.bsky.social",
+        "display_name": "",
+        "created_at": "2025-07-09T15:50:16.497Z",
         "description": null,
         "followers_count": 0,
         "follows_count": 0,
@@ -137,19 +150,6 @@
         "i_follow_them": true,
         "mutual_follow": true,
         "follow_date": "2023-05-13T03:43:16.641Z"
-      },
-      {
-        "did": "did:plc:mx6rytey7k2tvqby4kawji6e",
-        "handle": "kaitlinkallee.bsky.social",
-        "display_name": "Kaitlin Kal Lee",
-        "created_at": "2024-11-14T01:26:47.815Z",
-        "description": "✞. Singer, Songwriter & Dancer. ♡believer. 4B.🩷 Indigenous. Activist. Rape and abuse survivor. Therapist. Women only page. 🩷✊🏽🏳️‍🌈",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       },
       {
         "did": "did:plc:waxygai6xe7pcrqtcu74dnyd",
@@ -1257,10 +1257,10 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-09T12:21:55.719951+00:00"
+    "fetch_timestamp": "2025-07-09T18:15:54.196244+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-09T07:48:11.032000+00:00",
+    "last_post_timestamp": "2025-07-09T17:38:22.142000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
