@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2025-07-09T18:15:53.765892+00:00",
+  "fetch_timestamp": "2025-07-10T00:55:54.046249+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:sy3ux5yop7zhdrvn6qzgu2hx",
+        "handle": "sherribells.bsky.social",
+        "display_name": "Sherri",
+        "created_at": "2023-11-27T18:19:01.315Z",
+        "description": "Paying attention and sharing information. Clear eyed and dead set against republicans and republicanism. If you’re not blaming republicans you’re doing it wrong.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1242,25 +1255,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:rtf3bjc3w2yn4syxtm4r7jt2",
-        "handle": "ronent.bsky.social",
-        "display_name": "Ronen Tamari",
-        "created_at": "2023-04-11T21:56:03.289Z",
-        "description": "Researcher & entrepreneur | Building a collective sensemaking layer for research @cosmik.network | Stigmergic cognition | https://ronentk.github.io/  | Prev- Open Science Fellow @asterainstitute.bsky.social",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-09T18:15:54.196244+00:00"
+    "fetch_timestamp": "2025-07-10T00:55:54.430087+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-09T17:38:22.142000+00:00",
+    "last_post_timestamp": "2025-07-10T00:33:57.594000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
