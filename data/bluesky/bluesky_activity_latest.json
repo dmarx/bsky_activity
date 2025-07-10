@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2025-07-10T00:55:54.046249+00:00",
+  "fetch_timestamp": "2025-07-10T06:18:04.754233+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 1164,
+    "total_followers_count": 1166,
     "total_following_count": 1908,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:zxtu7f5qm5pogrbwtj7tjeg2",
+        "handle": "maosbot.bsky.social",
+        "display_name": "M A Osborne",
+        "created_at": "2023-07-03T10:35:16.229Z",
+        "description": "Parent, spouse, Australian, Professor of Machine Learning in Oxford. Long Covid, trans rights, music, reggae on Fridays, AI must be good for humans, https://www.robots.ox.ac.uk/~mosb",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:74n2meprvekiqt2rfbjpx334",
+        "handle": "chronicallykyla.bsky.social",
+        "display_name": "",
+        "created_at": "2023-08-22T02:58:45.483Z",
+        "description": "Former educator/trauma expert. Now just your average disabled progressive mom working to keep myself and my fellow folks at the bottom alive as long as possible.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1242,25 +1268,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:trnnoa2pe4ywsnlsgcqcybho",
-        "handle": "nulondonphilos.bsky.social",
-        "display_name": "NU London Philosophers",
-        "created_at": "2024-11-14T15:14:07.757Z",
-        "description": "Unofficial account for Philosophy at Northeastern University London \n\nAll thoughts are our own. \nFind out about our degrees on our website👇\n\nwww.nulondon.ac.uk",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-10T00:55:54.430087+00:00"
+    "fetch_timestamp": "2025-07-10T06:18:05.515378+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-10T00:33:57.594000+00:00",
+    "last_post_timestamp": "2025-07-10T05:34:34.924000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
