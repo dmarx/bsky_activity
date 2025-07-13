@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2025-07-13T12:19:56.286004+00:00",
+  "fetch_timestamp": "2025-07-13T18:14:28.870691+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 1167,
+    "total_followers_count": 1168,
     "total_following_count": 1910,
     "followers": [
       {
@@ -13,6 +13,19 @@
         "handle": "justmask.bsky.social",
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:4zy7buurmsw542huqx72kbfn",
+        "handle": "mariejoseph31.bsky.social",
+        "display_name": "",
+        "created_at": "2025-07-12T18:08:29.298Z",
         "description": null,
         "followers_count": 0,
         "follows_count": 0,
@@ -39,7 +52,7 @@
         "handle": "scbfinance.org",
         "display_name": "Alesha Moore",
         "created_at": "2024-12-31T12:56:13.413Z",
-        "description": "🎨 Art lover 💻 Full-time work-from-home mom.\nI’m here to share love and art 🌌\nFollow along for mindful inspiration\nlove my art ? support me here 🥰👉 https://aleshamoore.gumroad.com/l/opjyv",
+        "description": "🎨 Art lover 💻 Full-time work-from-home mom.\nI’m here to share love and art 🌌\nFollow along for mindful inspiration\nget 300 of my artwork for free here 👉 https://www.stockscom.org/work",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1255,25 +1268,12 @@
         "i_follow_them": true,
         "mutual_follow": true,
         "follow_date": "2024-02-18T18:12:39.818Z"
-      },
-      {
-        "did": "did:plc:23znfzkxo3w72edq2u6huiw6",
-        "handle": "cathywu.bsky.social",
-        "display_name": "Cathy Wu",
-        "created_at": "2024-11-25T19:18:03.008Z",
-        "description": "AI & Transportation | MIT Associate Professor\n\nInterests: AI for good, sociotechnical systems, machine learning, optimization, reinforcement learning, public policy, gov tech, open science.\n\nScience is messy and beautiful.\nhttp://www.wucathy.com",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": true,
-        "mutual_follow": true,
-        "follow_date": "2024-11-25T19:18:03.008Z"
       }
     ],
-    "fetch_timestamp": "2025-07-13T12:19:56.615326+00:00"
+    "fetch_timestamp": "2025-07-13T18:14:29.533711+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-13T11:51:25.778000+00:00",
+    "last_post_timestamp": "2025-07-13T15:03:06.096000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
