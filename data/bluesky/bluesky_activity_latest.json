@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2025-07-13T18:14:28.870691+00:00",
+  "fetch_timestamp": "2025-07-14T00:59:38.063693+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 1168,
+    "total_followers_count": 1170,
     "total_following_count": 1910,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:5sufvz6v3spgkfhkzwm2vqwd",
+        "handle": "bcrossman.bsky.social",
+        "display_name": "Brent Crossman",
+        "created_at": "2023-05-30T18:52:59.176Z",
+        "description": "Mainer, ex-banker, ex-distressed debt private equity, probably staring at a spreadsheet right now.  Here's a little game I made http://reelationshipsgame.com",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:uofles3zugzkok2okvtjvzzv",
+        "handle": "kheiden-com.bsky.social",
+        "display_name": "Kurt Heiden",
+        "created_at": "2025-07-13T19:15:04.198Z",
+        "description": "https://kheiden.com",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -845,7 +871,7 @@
         "handle": "weibac.bsky.social",
         "display_name": "Milan Weibel🔹",
         "created_at": "2024-12-30T01:07:41.212Z",
-        "description": "computer and political science student\nweibac.github.io | 🏳️‍🌈\nclarity is a public good\nrunning AI safety @ UC Chile aisuc.dev",
+        "description": "computer and political science student | intern @ LatAmGPT project | neonliberal | 🏳️‍🌈 \nclarity is a public good\nweibac.github.io",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1131,7 +1157,7 @@
         "handle": "sharonk.bsky.social",
         "display_name": "Sharon",
         "created_at": "2023-04-13T22:29:27.076Z",
-        "description": "political theologian at the ministry for the future\n\ninterests: classics, philosophy, conflict + IR, economics, foreign policy, climate change, east asia (korea + japan)\n\nwords: Foreign Policy + LiberalCurrents",
+        "description": "political theologian at the ministry for the future\n\ninterests: classics, history, philosophy, conflict + IR, economics, foreign policy, climate change, east asia (korea + japan)\n\nwords: Foreign Policy + LiberalCurrents",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1242,38 +1268,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:5jvdxcatms3iouqxlk4e74hb",
-        "handle": "sebdarses.bsky.social",
-        "display_name": "Sébastien Darses",
-        "created_at": "2025-01-31T13:52:16.813Z",
-        "description": "Math Assoc. Prof. at Aix-Marseille (France)\nCurrently on Sabbatical at CRM-CNRS, Université de Montréal\nTeaching Project (non-profit): https://www.highkholle.fr/\nhttps://sites.google.com/view/sebastien-darses/welcome ",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:3wuu3mpcftvm23adtqbq7l2f",
-        "handle": "physfoley.bsky.social",
-        "display_name": "Sam Foley",
-        "created_at": "2024-02-18T18:12:39.818Z",
-        "description": "Physics of membranes and self-assembly || Biophysics postdoc at Johns Hopkins || Previously Penn State -> Carnegie Mellon || views are now yours, good luck || /dʒɪf/ ||\nwww.samuelfoley.com",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": true,
-        "mutual_follow": true,
-        "follow_date": "2024-02-18T18:12:39.818Z"
       }
     ],
-    "fetch_timestamp": "2025-07-13T18:14:29.533711+00:00"
+    "fetch_timestamp": "2025-07-14T00:59:38.740212+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-13T15:03:06.096000+00:00",
+    "last_post_timestamp": "2025-07-14T00:25:48.527000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
