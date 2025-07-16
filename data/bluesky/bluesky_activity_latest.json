@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2025-07-16T12:22:24.038334+00:00",
+  "fetch_timestamp": "2025-07-16T18:16:25.939178+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 1174,
+    "total_followers_count": 1176,
     "total_following_count": 1916,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:tyaenxzmiwn7ls3p6zfec5ah",
+        "handle": "benusa.bsky.social",
+        "display_name": "Fuck Trump",
+        "created_at": "2024-11-16T00:47:59.702Z",
+        "description": "Fuck Trump and his enablers.\nMy posts offend me too.\nEffective Altruist, Egalitarian, Feminist.\n\nFollow/repost/like ≠ endorsement.\nMy posts: https://bsky.app/profile/did:plc:tyaenxzmiwn7ls3p6zfec5ah/feed/herewego",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:drhnxhvhdxumiocdswimoapo",
+        "handle": "thaisrc.bsky.social",
+        "display_name": "Thais Rodrigues Cons",
+        "created_at": "2024-12-09T22:18:22.258Z",
+        "description": "PhD student in  Rhet & Comp |Latina |M.A. Linguistics |TPC |Writing Centers |L2 Writing Identity & Tech",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -455,7 +481,7 @@
         "handle": "adriapadilla.net",
         "display_name": "A.",
         "created_at": "2023-10-23T15:03:38.950Z",
-        "description": "Normie Wannabe.",
+        "description": "(Phd) Comunicación Audiovisual, Publicidad y RRPP (UAB). Profesor en EUNCET (UPC). Normie Wannabe.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1242,38 +1268,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:fgd4h4fwusrcfukesl7axe5e",
-        "handle": "xenofy.bsky.social",
-        "display_name": "Hexapod (Light-cone Associate)",
-        "created_at": "2023-05-27T19:58:22.866Z",
-        "description": "Extrasolar LGBTESCREAL specter trying to beget a curative posthuman world model, emitting node of enlightenment and agentic competency in the noosphere.  Actual technolibertarian.\nTranshumanist • Posthumanist • Futurist memeplex lightworker",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:kkyydu6asmal4et5k7w2smwr",
-        "handle": "kevinslote.bsky.social",
-        "display_name": "Kevin Slote (looking for postdoc)",
-        "created_at": "2023-08-07T16:26:08.109Z",
-        "description": "Applied Mathematician\nMacro data refinement scientist \nhttps://kslote1.github.io\nEveryone should care.\n\nMy opinions are my own",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-16T12:22:24.403990+00:00"
+    "fetch_timestamp": "2025-07-16T18:16:26.671882+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-16T10:14:06.179000+00:00",
+    "last_post_timestamp": "2025-07-16T17:28:40.157000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
