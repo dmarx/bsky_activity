@@ -1,7 +1,384 @@
 {
-  "fetch_timestamp": "2025-07-18T12:22:19.707912+00:00",
+  "fetch_timestamp": "2025-07-18T12:22:09.978107+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3lu7udf53bk2n",
+      "cid": "bafyreihnmnzunrn5pt7qbqtcq32s3wsxxnlste65i2docdiahfl7stjqui",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "@linas.org",
+      "created_at": "2025-07-18T06:52:44.278Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2025-07-18T06:52:45.909Z",
+      "reply_context": {
+        "uri": "at://did:plc:4sforn5o5soqsndnny42aerw/app.bsky.feed.post/3lu5nysqjc22g",
+        "cid": "bafyreicpyjrumlnz64gnglfwwi4btt3kmdnhuvqcxohwje42h36ivtyz44",
+        "author": {
+          "did": "did:plc:4sforn5o5soqsndnny42aerw",
+          "handle": "manlius.bsky.social",
+          "display_name": "Manlio De Domenico"
+        },
+        "text": "How far can you compress a complex system? \n\n🚨 In our latest paper we collapse high-dim compartmental models (from epidemics to ecosystems) into a single 1-D equation using quantum-inspired math, exposing universal phase transitions #ComplexSystems ‪👇👇👇\n\njournals.aps.org/prx/abstract...",
+        "created_at": "2025-07-17T09:54:07.500Z",
+        "indexed_at": "2025-07-17T09:54:15.407Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3lu7sz2drmc2s",
+      "cid": "bafyreigkekhf3n4cfwfzesh2hncsl4l2o4ply7y54mreqax24woex2bp24",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "www.romper.com/p/all-the-cr...",
+      "created_at": "2025-07-18T06:29:03.677Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 12,
+      "indexed_at": "2025-07-18T06:29:06.802Z",
+      "reply_context": {
+        "uri": "at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3lu7rdl7nd22b",
+        "cid": "bafyreicqqmgbcnevngwat4bysvzqz2bmv3sz3g2xfzrp2exyebolkt2oxm",
+        "author": {
+          "did": "did:plc:vszw3ess46odfhnzdsy4huae",
+          "handle": "segyges.bsky.social",
+          "display_name": "SE Gyges"
+        },
+        "text": "at this point i am convinced that the stuff the man says about his daughter is so horrifying that it causes people to memory hole it. there's a long history there that is extremely clear",
+        "created_at": "2025-07-18T05:59:09.429Z",
+        "indexed_at": "2025-07-18T05:59:10.107Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:ucjqs5d4mfb2bii7ta7cpur2/app.bsky.feed.post/3lu4qya4pr22q",
+      "cid": "bafyreig3adns4o22ebrewzfe62k4nonzlaoard3isgvuzfmxcwe3brtq7u",
+      "author": {
+        "did": "did:plc:ucjqs5d4mfb2bii7ta7cpur2",
+        "handle": "shriram.bsky.social",
+        "display_name": "Shriram Krishnamurthi"
+      },
+      "text": "I am super-pleased to be serving on the PC of the excellent and much-needed \"Undone Science in CS\" 2026: \"to provide an opportunity to pause and reflect on the epistemological and ethical aspects of computer science\". For much more information, please see:\nwww.undonecs.org/2026/",
+      "created_at": "2025-07-17T01:14:49.483Z",
+      "reply_count": 0,
+      "repost_count": 8,
+      "like_count": 38,
+      "indexed_at": "2025-07-17T01:14:49.607Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3lu7jd4isjc2x",
+      "cid": "bafyreiewaitccqluapdgnf22tqmdanwdenwxjds45be44hmgscv46g5onu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "it didn't take long for this administration to reach WWE levels of performativity.",
+      "created_at": "2025-07-18T03:35:44.065Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2025-07-18T03:35:44.602Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:7prh6raya2ntwnpyzte5u5hc/app.bsky.feed.post/3lu7i6wysrm2e",
+      "cid": "bafyreieevzjsjyzl2g24dir6s6xlwqtrnftwqgg24iq5qfbq64gvosr2pm",
+      "author": {
+        "did": "did:plc:7prh6raya2ntwnpyzte5u5hc",
+        "handle": "juddlegum.bsky.social",
+        "display_name": "Judd Legum"
+      },
+      "text": "Trump is trying to convince people that Obama and Biden made up fake evidence implicating him in the Epstein case, inserted it in the file, and then KEPT IT COMPLETELY SECRET\n\nIt’s completely nonsensical",
+      "created_at": "2025-07-18T03:15:30.290Z",
+      "reply_count": 47,
+      "repost_count": 160,
+      "like_count": 1100,
+      "indexed_at": "2025-07-18T03:15:30.405Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3lu7erg7jx22d",
+      "cid": "bafyreichsla4tlqjnbkg543lzalqigplqnhdbo3sbhtoxln4icj3ifnoae",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "wake up hon, new cv task just dropped",
+      "created_at": "2025-07-18T02:14:15.301Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 5,
+      "indexed_at": "2025-07-18T02:14:16.004Z",
+      "reply_context": {
+        "uri": "at://did:plc:l3vbx3e2lqnlja7q64wfrrzq/app.bsky.feed.post/3lu7bzfzya22i",
+        "cid": "bafyreiemxiwx5ljnsojjgnfb7n4mfcbs5mnysji5l775lqjhoiga77cmru",
+        "author": {
+          "did": "did:plc:l3vbx3e2lqnlja7q64wfrrzq",
+          "handle": "nsaphra.bsky.social",
+          "display_name": "Naomi Saphra"
+        },
+        "text": "Met someone cool at an ICML party. I wanted to talk later at the conference and I was a lil drunk so I made sure to take a badge photo so I’d remember their name",
+        "created_at": "2025-07-18T01:25:02.284Z",
+        "indexed_at": "2025-07-18T01:25:09.502Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3lu7epfsfvc2d",
+      "cid": "bafyreic7iciqiqgrhjny3bu4fmhaoth3slo2sl4y2tzhx3m3zmh3l745fm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "new \"self-aware that my public internet activity is training fodder\" meta: dashes",
+      "created_at": "2025-07-18T02:13:07.761Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2025-07-18T02:13:08.204Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3lu7ekhti3c2d",
+      "cid": "bafyreiacaagi65mldhvwidccxbe2ihawefnrwy4cyvohpidjqoya25gwje",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "time to stress--re-read Baudrillard.",
+      "created_at": "2025-07-18T02:10:22.121Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2025-07-18T02:10:22.708Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:dsbpb3w7glnyddtbewg73g74/app.bsky.feed.post/3lu7642ttc222",
+      "cid": "bafyreid3vj5oik4jhbqr5wil3wulflwttl3lhkpy5bdbnnphjhjrqk4ily",
+      "author": {
+        "did": "did:plc:dsbpb3w7glnyddtbewg73g74",
+        "handle": "utopia-defer.red",
+        "display_name": "utopia deferred"
+      },
+      "text": "what a time to be alive",
+      "created_at": "2025-07-18T00:14:56.288Z",
+      "reply_count": 1,
+      "repost_count": 1,
+      "like_count": 3,
+      "indexed_at": "2025-07-18T00:14:56.602Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3lu75wrata22d",
+        "cid": "bafyreigmxqc5hbtaza6d7wjzhkxhzvewrplamqyrwfpuat5vuqkmf6rcg4",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "wsj trump-epstein expose dropped while you were cooking",
+        "created_at": "2025-07-18T00:11:58.457Z",
+        "indexed_at": "2025-07-18T00:11:59.111Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3lu76mtddnc2d",
+      "cid": "bafyreidduqmigy33gavgmx56vi3jx76rkakguughjmpvm3z5kwowcnp7za",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "what a time to be alive",
+      "created_at": "2025-07-18T00:24:18.834Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 7,
+      "indexed_at": "2025-07-18T00:24:19.605Z",
+      "reply_context": {
+        "uri": "at://did:plc:dsbpb3w7glnyddtbewg73g74/app.bsky.feed.post/3lu76luien223",
+        "cid": "bafyreibfrm3nf6qxkqixnsxwj4wr2d54u77rj2dvkf6cylvw567o3vphli",
+        "author": {
+          "did": "did:plc:dsbpb3w7glnyddtbewg73g74",
+          "handle": "utopia-defer.red",
+          "display_name": "utopia deferred"
+        },
+        "text": "The president of the united states is a child fucker",
+        "created_at": "2025-07-18T00:23:46.491Z",
+        "indexed_at": "2025-07-18T00:23:46.705Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3lu765hbdl22d",
+      "cid": "bafyreihokibe2pu57v4iscwvluxdyf7xvttfj5vtvxltpifsdzczmyzsne",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "pupper got his bday wish",
+      "created_at": "2025-07-18T00:15:42.869Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2025-07-18T00:15:43.202Z",
+      "reply_context": {
+        "uri": "at://did:plc:dsbpb3w7glnyddtbewg73g74/app.bsky.feed.post/3lu7642ttc222",
+        "cid": "bafyreid3vj5oik4jhbqr5wil3wulflwttl3lhkpy5bdbnnphjhjrqk4ily",
+        "author": {
+          "did": "did:plc:dsbpb3w7glnyddtbewg73g74",
+          "handle": "utopia-defer.red",
+          "display_name": "utopia deferred"
+        },
+        "text": "what a time to be alive",
+        "created_at": "2025-07-18T00:14:56.288Z",
+        "indexed_at": "2025-07-18T00:14:56.602Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3lu764hiw6k2d",
+      "cid": "bafyreiagpypsc44dr23tzvmcmheskmazbrmbpk27v4pqdwhh3grb6uh2rq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "> s/woman/girl/\n\nftfy",
+      "created_at": "2025-07-18T00:15:09.563Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2025-07-18T00:15:09.906Z",
+      "reply_context": {
+        "uri": "at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3lu75feb7r22b",
+        "cid": "bafyreic4jfztghsh3xtiul2yhcmd4q3vigvhttjz73v72b2bqnubtwycki",
+        "author": {
+          "did": "did:plc:vszw3ess46odfhnzdsy4huae",
+          "handle": "segyges.bsky.social",
+          "display_name": "SE Gyges"
+        },
+        "text": "we're talking a cartoon in penthouse level of naked woman, but very much he could do a naked woman",
+        "created_at": "2025-07-18T00:02:14.413Z",
+        "indexed_at": "2025-07-18T00:02:15.008Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3lu75wrata22d",
+      "cid": "bafyreigmxqc5hbtaza6d7wjzhkxhzvewrplamqyrwfpuat5vuqkmf6rcg4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "wsj trump-epstein expose dropped while you were cooking",
+      "created_at": "2025-07-18T00:11:58.457Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2025-07-18T00:11:59.111Z",
+      "reply_context": {
+        "uri": "at://did:plc:dsbpb3w7glnyddtbewg73g74/app.bsky.feed.post/3lu75kumkoc2l",
+        "cid": "bafyreiadptrwtrjg2zo4qmdcythfa4tudsck5kgsidrv7gwnca2pps7ace",
+        "author": {
+          "did": "did:plc:dsbpb3w7glnyddtbewg73g74",
+          "handle": "utopia-defer.red",
+          "display_name": "utopia deferred"
+        },
+        "text": "chef’s final check confirms that this is somehow one of the best steaks I have ever made and it only involved salt and the butcher’s butter.",
+        "created_at": "2025-07-18T00:05:19.223Z",
+        "indexed_at": "2025-07-18T00:05:33.105Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:p66b7zkep57fp4rhrtktsdni/app.bsky.feed.post/3ltps6fmxrc2o",
+      "cid": "bafyreifgdf3fzpe5cgdc4ouvlb2526mw7efmh525db5oazlv5dhpy7riyu",
+      "author": {
+        "did": "did:plc:p66b7zkep57fp4rhrtktsdni",
+        "handle": "markhisted.org",
+        "display_name": "Mark Histed"
+      },
+      "text": "This is an excellent statement of scientific values that we should all strive to uphold. 🧪🧠🤖 \n\nSharing from @suryaganguli.bsky.social , who said this is the Stanford Med affirmation that all their PhD grads sign. 1/",
+      "created_at": "2025-07-11T21:31:33.724Z",
+      "reply_count": 3,
+      "repost_count": 15,
+      "like_count": 63,
+      "indexed_at": "2025-07-11T21:31:36.005Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:mj2uwb43az3wbwdusgfupkiv/app.bsky.feed.post/3ltscw2lluk2s",
+      "cid": "bafyreicynzbvvwyujqtffsypqinfuiunfd2njibqjiosyaixicjureagdi",
+      "author": {
+        "did": "did:plc:mj2uwb43az3wbwdusgfupkiv",
+        "handle": "altusip.bsky.social",
+        "display_name": "Alt U.S. Institute of Peace (USIP)"
+      },
+      "text": "PRESS RELEASE: US Institute of Peace staff faces second ‘Friday Night Massacre’; over 200 fired by DOGE overnight",
+      "created_at": "2025-07-12T21:36:26.796Z",
+      "reply_count": 16,
+      "repost_count": 117,
+      "like_count": 338,
+      "indexed_at": "2025-07-12T21:36:30.108Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:clxs5bimkdx2zvxzrbs6v3pw/app.bsky.feed.post/3ltu5fmnxg22l",
+      "cid": "bafyreibc5sbifsgyqxv4bh2x6asuyhffs27s655ye6arthuvp3eymyfkvi",
+      "author": {
+        "did": "did:plc:clxs5bimkdx2zvxzrbs6v3pw",
+        "handle": "brendannyhan.bsky.social",
+        "display_name": "Brendan Nyhan"
+      },
+      "text": "\"For my friends, everything, for my enemies, the law.\"\n\nWhile Bondi is dismissing charges against an anti-vaccine fraudster, her US attorney in NJ is subpoenaing the state's governor, a Democrat, over political speech: www.nytimes.com/2025/07/11/n...\n\nThe rule of law dies a little more every day.",
+      "created_at": "2025-07-13T15:03:06.096Z",
+      "reply_count": 13,
+      "repost_count": 140,
+      "like_count": 345,
+      "indexed_at": "2025-07-13T15:03:07.404Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1244,11 +1621,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-18T12:22:20.113689+00:00"
+    "fetch_timestamp": "2025-07-18T12:22:11.428038+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-18T06:52:44.278000+00:00",
-    "new_posts_count": 0,
-    "is_initial_fetch": false
+    "last_post_timestamp": null,
+    "new_posts_count": 16,
+    "is_initial_fetch": true
   }
 }
