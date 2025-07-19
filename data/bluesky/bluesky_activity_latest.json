@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2025-07-19T12:19:54.188482+00:00",
+  "fetch_timestamp": "2025-07-19T18:14:50.729927+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 1181,
+    "total_followers_count": 1180,
     "total_following_count": 1917,
     "followers": [
       {
@@ -27,19 +27,6 @@
         "display_name": "Rationalist Society St Louis",
         "created_at": "2025-01-31T23:04:20.014Z",
         "description": "Rationalism is based on reason & knowledge rather than on religious belief.  @stlouisatheists.bsky.social @atheists.org @nickfish.me @gingercatmom.bsky.social @ffrf.org Team Site...",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:hgkkrox3cn7hzjgevmrvmlf5",
-        "handle": "ailin1232.bsky.social",
-        "display_name": "Ryan|photography",
-        "created_at": "2025-04-24T06:43:51.944Z",
-        "description": "A small business owner in Los Angeles, California, aspires to be a great photographer, specializing in natural landscapes and sunsets, using a Fuji GFX100S and a Canon R5, but the recent political situation is what we should pay most attention to.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -923,7 +910,7 @@
         "handle": "justahousewife.bsky.social",
         "display_name": "Just a Housewife",
         "created_at": "2025-03-26T03:37:32.764Z",
-        "description": "Action cures anxiety.\n\nMuskovia delenda est. \n\nHyperlexic AuDHDer. Focal Epilepsy. DRD/YOPD.\n\nPhysics, biomimetic metamaterials, genetics & medicine, neuroscience. \n\nTheorycrafter\n\n#3E\n#NAFO\n#Revolution2025",
+        "description": "•Action cures anxiety.\n•Muskovia delenda est. \n•Hyperlexic AuDHDer. Focal Epilepsy. DRD/YOPD.\n•Physics, biomimetic metamaterials, genetics & medicine, neuroscience. \n•Theorycrafter\n•Kinky AF - Minors DNI\n\n#3E\n#NAFO\n#Revolution2025",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1229,12 +1216,25 @@
         "i_follow_them": true,
         "mutual_follow": true,
         "follow_date": "2023-07-24T00:12:34.808Z"
+      },
+      {
+        "did": "did:plc:zlawfm5xgav7svrt6et4jeez",
+        "handle": "coty.bsky.social",
+        "display_name": "Coty Rosenblath",
+        "created_at": "2023-04-21T11:39:23.340Z",
+        "description": "Talk about technology, AI/ML, ethics, politics, language, etc. He/him.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-19T12:19:54.567832+00:00"
+    "fetch_timestamp": "2025-07-19T18:14:51.236608+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-19T08:06:43.318000+00:00",
+    "last_post_timestamp": "2025-07-19T18:01:37.011000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
