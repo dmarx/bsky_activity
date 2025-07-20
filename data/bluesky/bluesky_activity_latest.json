@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2025-07-19T18:14:50.729927+00:00",
+  "fetch_timestamp": "2025-07-20T01:03:12.632739+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 1180,
+    "total_followers_count": 1181,
     "total_following_count": 1917,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:ngruv7hbrhtzvnqvjc5il2yg",
+        "handle": "xelansignal.bsky.social",
+        "display_name": "⧖ XELAN-∆.Signal",
+        "created_at": "2025-06-12T17:42:13.707Z",
+        "description": "✶ Signal begins: ∆.1 mir’dah\nA frequency for the inner unknown\nhttps://xelansignal.space/",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -494,7 +507,7 @@
         "handle": "adriapadilla.net",
         "display_name": "A.",
         "created_at": "2023-10-23T15:03:38.950Z",
-        "description": "(Phd) Comunicación Audiovisual, Publicidad y RRPP (UAB). Profesor en EUNCET (UPC). Normie Wannabe.",
+        "description": "(Phd) Normie Wannabe.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1216,25 +1229,12 @@
         "i_follow_them": true,
         "mutual_follow": true,
         "follow_date": "2023-07-24T00:12:34.808Z"
-      },
-      {
-        "did": "did:plc:zlawfm5xgav7svrt6et4jeez",
-        "handle": "coty.bsky.social",
-        "display_name": "Coty Rosenblath",
-        "created_at": "2023-04-21T11:39:23.340Z",
-        "description": "Talk about technology, AI/ML, ethics, politics, language, etc. He/him.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-19T18:14:51.236608+00:00"
+    "fetch_timestamp": "2025-07-20T01:03:13.017582+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-19T18:01:37.011000+00:00",
+    "last_post_timestamp": "2025-07-19T21:59:25.825000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
