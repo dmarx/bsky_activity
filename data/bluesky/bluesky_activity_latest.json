@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2025-07-21T12:23:25.807966+00:00",
+  "fetch_timestamp": "2025-07-21T18:17:28.103522+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 1183,
+    "total_followers_count": 1184,
     "total_following_count": 1917,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:2m3hmdeyeykqhdfr6qyllvpl",
+        "handle": "timhowles.bsky.social",
+        "display_name": "Tim Howles",
+        "created_at": "2024-11-14T15:37:43.058Z",
+        "description": "Research Fellow, University of Oxford\nTheology, philosophy, ethics, politics, environmental humanities\nAssociate Director @LSRIOxford\nAnglican Priest\nhttps://www.theology.ox.ac.uk/people/revd-dr-timothy-howles",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -910,7 +923,7 @@
         "handle": "chrisvvarren.bsky.social",
         "display_name": "Chris Warren",
         "created_at": "2023-07-28T15:45:17.196Z",
-        "description": "Knowledge-monger at Carnegie Mellon University: clandestine print, weird data, book history, computational humanities, wrote a book called literature & the law of nations, co-founder of six degrees of francis bacon. humanities for all. ",
+        "description": "Knowledge-monger at Carnegie Mellon University: clandestine print, weird data, book history, computational humanities, political thought. wrote a book called literature & the law of nations, co-founder of six degrees of francis bacon. humanities for all.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1128,7 +1141,7 @@
       },
       {
         "did": "did:plc:pafpetjsopor4ekrckps62oe",
-        "handle": "gnc9.bsky.social",
+        "handle": "naycg9.bsky.social",
         "display_name": "",
         "created_at": "2025-05-15T23:48:43.207Z",
         "description": null,
@@ -1203,25 +1216,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:zflxxtjq6gfeqa4surwqofwp",
-        "handle": "bergamotben.bsky.social",
-        "display_name": "",
-        "created_at": "2025-06-08T15:43:14.807Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-21T12:23:26.480302+00:00"
+    "fetch_timestamp": "2025-07-21T18:17:28.828010+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-21T05:21:10.304000+00:00",
+    "last_post_timestamp": "2025-07-21T17:37:49.160000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
