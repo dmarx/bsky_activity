@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2025-07-23T12:23:04.821018+00:00",
+  "fetch_timestamp": "2025-07-23T18:16:34.073426+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -235,6 +235,19 @@
         "display_name": "",
         "created_at": "2025-07-12T03:11:59.898Z",
         "description": "Assistant Professor at the Department of Computer Science, University of Liverpool.\n\nhttps://lutzoe.github.io/",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:rabpjqeh4r4f5xicv2wieqjf",
+        "handle": "scbfinance.org",
+        "display_name": "Smaller Sammy Moore",
+        "created_at": "2024-12-31T12:56:13.413Z",
+        "description": "🎨 Art lover | 💍 Wife | 🤱 Mom\nI used my Budget Meal Plan to lose 230 lbs 💪\nNow I’m helping YOU do the same!\n🔥 Get the plan → https://tinyurl.com/weightlossbysammy",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -713,9 +726,9 @@
       {
         "did": "did:plc:3nrjojdlab3qv5rxhocbwsrl",
         "handle": "bostonmapper.bsky.social",
-        "display_name": "Good_Trouble_Lives_On_July_17",
+        "display_name": "Rage_Against_the_Regime_Aug_2",
         "created_at": "2024-11-12T17:23:28.642Z",
-        "description": "Mapmaker, data wrangler who loves cats, books + democracy #HandsOff #NoKings ❌ 👑 #GoodTroubleLivesOn 📎",
+        "description": "Mapmaker, data wrangler who loves cats, books + democracy #HandsOff #NoKings ❌ 👑#GoodTroubleLivesOn #RageAgainsttheRegime📎",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1205,7 +1218,7 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-23T12:23:05.580917+00:00"
+    "fetch_timestamp": "2025-07-23T18:16:34.523782+00:00"
   },
   "incremental_fetch": {
     "last_post_timestamp": "2025-07-23T05:38:22.756000+00:00",
