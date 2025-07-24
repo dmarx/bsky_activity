@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2025-07-20T12:20:16.132329+00:00",
+  "fetch_timestamp": "2025-07-24T12:22:57.524150+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 1182,
+    "total_followers_count": 1186,
     "total_following_count": 1917,
     "followers": [
       {
@@ -14,6 +14,58 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:hdx7xht2imos2qzksf7e6gzf",
+        "handle": "bourbaki7.bsky.social",
+        "display_name": "bourbaki7",
+        "created_at": "2024-12-26T15:20:00.412Z",
+        "description": "Insurance quant and cool zone observer.\nPosting AI papers and political stuff.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": true,
+        "mutual_follow": true,
+        "follow_date": "2024-12-26T15:20:00.412Z"
+      },
+      {
+        "did": "did:plc:l3tgbqdj7bqshbiz5uzmb7cl",
+        "handle": "chasingrobertsons.bsky.social",
+        "display_name": "Celeste Harper",
+        "created_at": "2025-01-16T16:42:09.114Z",
+        "description": "No crypto. No pornography. No harassment.\nYou define your character by how you treat others, not by how others treat you.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:2m3hmdeyeykqhdfr6qyllvpl",
+        "handle": "timhowles.bsky.social",
+        "display_name": "Tim Howles",
+        "created_at": "2024-11-14T15:37:43.058Z",
+        "description": "Research Fellow, University of Oxford\nTheology, philosophy, ethics, politics, environmental humanities\nAssociate Director @LSRIOxford\nAnglican Priest\nhttps://www.theology.ox.ac.uk/people/revd-dr-timothy-howles",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:t7yytngeycbrfkxn3pcnizo3",
+        "handle": "jose-eduardo.bsky.social",
+        "display_name": "José Eduardo González",
+        "created_at": "2023-07-06T01:47:54.641Z",
+        "description": "Latin American Literary History and Digital Humanities. _Approaches to Teaching the Works of Jorge Luis Borges_ (2025) https://tinyurl.com/2nj7dfkn ORCID: https://orcid.org/0000-0002-8899-3021",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -193,22 +245,9 @@
       {
         "did": "did:plc:rabpjqeh4r4f5xicv2wieqjf",
         "handle": "scbfinance.org",
-        "display_name": "Alesha Moore",
+        "display_name": "Smaller Sammy Moore",
         "created_at": "2024-12-31T12:56:13.413Z",
-        "description": "🎨 Art lover| Wife | mom.\nI’m here to share love and art 🌌\nFollow along for mindful inspiration",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:aqitapiepmjaihlahpiyuiiv",
-        "handle": "manneh2025.bsky.social",
-        "display_name": "Lamin",
-        "created_at": "2025-07-11T12:13:11.598Z",
-        "description": "𝑯𝒂𝒕𝒆 𝒃𝒖𝒓𝒅𝒆𝒏𝒔 𝒚𝒐𝒖𝒓 𝒔𝒐𝒖𝒍, 𝒍𝒆𝒂𝒓𝒏 𝒕𝒐 𝒇𝒐𝒓𝒈𝒊𝒗𝒆 𝒑𝒆𝒐𝒑𝒍𝒆.✊❤️",
+        "description": "🎨 Art lover | 💍 Wife | 🤱 Mom\nI used my Budget Meal Plan to lose 230 lbs 💪\nNow I’m helping YOU do the same!\n🔥 Get the plan → https://tinyurl.com/weightlossbysammy",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -477,19 +516,6 @@
         "follow_date": null
       },
       {
-        "did": "did:plc:hdx7xht2imos2qzksf7e6gzf",
-        "handle": "bourbaki7.bsky.social",
-        "display_name": "bourbaki7",
-        "created_at": "2024-12-26T15:20:00.412Z",
-        "description": "Insurance quant // posting quality AI papers",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": true,
-        "mutual_follow": true,
-        "follow_date": "2024-12-26T15:20:00.412Z"
-      },
-      {
         "did": "did:plc:u62k4x6rqrzjy2kschqu74sw",
         "handle": "speakupdoaa.bsky.social",
         "display_name": "Doaa Albaz",
@@ -700,9 +726,9 @@
       {
         "did": "did:plc:3nrjojdlab3qv5rxhocbwsrl",
         "handle": "bostonmapper.bsky.social",
-        "display_name": "Good_Trouble_Lives_On_July_17",
+        "display_name": "Rage_Against_the_Regime_Aug_2",
         "created_at": "2024-11-12T17:23:28.642Z",
-        "description": "Mapmaker, data wrangler who loves cats, books + democracy #HandsOff #NoKings ❌ 👑 #GoodTroubleLivesOn 📎",
+        "description": "Mapmaker, data wrangler who loves cats, books + democracy #HandsOff #NoKings ❌ 👑#GoodTroubleLivesOn #RageAgainsttheRegime📎",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -910,7 +936,7 @@
         "handle": "chrisvvarren.bsky.social",
         "display_name": "Chris Warren",
         "created_at": "2023-07-28T15:45:17.196Z",
-        "description": "Knowledge-monger at Carnegie Mellon University: clandestine print, weird data, book history, computational humanities, wrote a book called literature & the law of nations, co-founder of six degrees of francis bacon. humanities for all. ",
+        "description": "Knowledge-monger at Carnegie Mellon University: clandestine print, weird data, book history, computational humanities, political thought. wrote a book called literature & the law of nations, co-founder of six degrees of francis bacon. humanities for all.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1001,7 +1027,7 @@
         "handle": "vegandroid.bsky.social",
         "display_name": "[Redacted]",
         "created_at": "2025-06-16T02:52:59.708Z",
-        "description": "Any views and opinions found here are my own and not those of my employer, whose name shall never be mentioned on this page.",
+        "description": "Any views and opinions found here are my own and not those of my employer, whose name shall never be mentioned on this page.\n\nPersonal website project: \n\nhttps://resonance-0yn7.onrender.com/index.html",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1128,7 +1154,7 @@
       },
       {
         "did": "did:plc:pafpetjsopor4ekrckps62oe",
-        "handle": "gnc9.bsky.social",
+        "handle": "naycg9.bsky.social",
         "display_name": "",
         "created_at": "2025-05-15T23:48:43.207Z",
         "description": null,
@@ -1190,51 +1216,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:mkoutpyn4mdyo4q66nz4wa4q",
-        "handle": "dagophile.bsky.social",
-        "display_name": "Naftali Weinberger",
-        "created_at": "2023-10-22T20:09:22.542Z",
-        "description": "Interested in all things causal modeling. Ongoing projects on causal analyses of discrimination and on causation in dynamical systems. \n ",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:zflxxtjq6gfeqa4surwqofwp",
-        "handle": "bergamotben.bsky.social",
-        "display_name": "",
-        "created_at": "2025-06-08T15:43:14.807Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:v6jbf2fe46cp4n5agfsm5zn5",
-        "handle": "samoyedimages.bsky.social",
-        "display_name": "",
-        "created_at": "2025-06-01T19:13:20.508Z",
-        "description": "Frequency shift keyed\n28 | m",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-20T12:20:16.815664+00:00"
+    "fetch_timestamp": "2025-07-24T12:22:58.057087+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-19T21:59:25.825000+00:00",
+    "last_post_timestamp": "2025-07-24T04:51:24.124000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
