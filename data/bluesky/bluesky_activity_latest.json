@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2025-07-26T12:20:01.030466+00:00",
+  "fetch_timestamp": "2025-07-26T18:15:08.607622+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 1188,
+    "total_followers_count": 1191,
     "total_following_count": 1917,
     "followers": [
       {
@@ -14,6 +14,45 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:cmuinprls7njq3hmvub37rfw",
+        "handle": "olafinho.xyz",
+        "display_name": "",
+        "created_at": "2024-09-24T09:38:46.142Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:quevsz3ppjla35zdvlqteioi",
+        "handle": "boxerdogs.bsky.social",
+        "display_name": "Boxer Dog Lovers",
+        "created_at": "2024-11-21T14:38:35.533Z",
+        "description": "Boxer dogs are known for their playful humor and sharp intelligence. Their goofy antics and clever problem-solving skills make them delightful companions, always ready to bring joy and laughter to their families.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:ojfkw3yygg5ojtn4yo4llzqz",
+        "handle": "romanklinger.de",
+        "display_name": "Roman Klinger",
+        "created_at": "2024-11-19T10:49:04.038Z",
+        "description": "professor for natural language processing, head of \nBamNLP @bamnlp.de\n\n📍 Duisburg, Stuttgart, Bamberg \n\n#NLProc #emotion #sentiment #factchecking #argumentmining #informationextraction #bionlp",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1164,51 +1203,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:cb4yzv4l3thxtskyc4wp2dwi",
-        "handle": "rogepese.bsky.social",
-        "display_name": "Robert Sehlke",
-        "created_at": "2023-09-10T16:49:55.008Z",
-        "description": "co-founder @ graphtx.com\n\nSystems biology, more translatable disease models, & ML. Still confused, but with a higher significance.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:pafpetjsopor4ekrckps62oe",
-        "handle": "naycg9.bsky.social",
-        "display_name": "",
-        "created_at": "2025-05-15T23:48:43.207Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:q24fvu6lynyc4yl3qstsxmyd",
-        "handle": "darkpuffin.bsky.social",
-        "display_name": "dark_puffin_phd",
-        "created_at": "2024-11-29T19:14:15.808Z",
-        "description": "science and other random facts, multiplicator, entrepreneur, ekut 40 under 40, Biophysical chemist",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-26T12:20:01.838126+00:00"
+    "fetch_timestamp": "2025-07-26T18:15:09.385021+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-26T05:42:36.406000+00:00",
+    "last_post_timestamp": "2025-07-26T15:25:27.998000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
