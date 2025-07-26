@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2025-07-26T00:56:12.045500+00:00",
+  "fetch_timestamp": "2025-07-26T06:15:52.031427+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 1189,
+    "total_followers_count": 1188,
     "total_following_count": 1917,
     "followers": [
       {
@@ -72,19 +72,6 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:hdx7xht2imos2qzksf7e6gzf",
-        "handle": "bourbaki7.bsky.social",
-        "display_name": "bourbaki7",
-        "created_at": "2024-12-26T15:20:00.412Z",
-        "description": "Insurance quant and cool zone observer.\nPosting AI papers and political stuff.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": true,
-        "mutual_follow": true,
-        "follow_date": "2024-12-26T15:20:00.412Z"
       },
       {
         "did": "did:plc:l3tgbqdj7bqshbiz5uzmb7cl",
@@ -1203,12 +1190,25 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
+      },
+      {
+        "did": "did:plc:q24fvu6lynyc4yl3qstsxmyd",
+        "handle": "darkpuffin.bsky.social",
+        "display_name": "dark_puffin_phd",
+        "created_at": "2024-11-29T19:14:15.808Z",
+        "description": "science and other random facts, multiplicator, entrepreneur, ekut 40 under 40, Biophysical chemist",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-26T00:56:12.588735+00:00"
+    "fetch_timestamp": "2025-07-26T06:15:52.479358+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-26T00:44:33.967000+00:00",
+    "last_post_timestamp": "2025-07-26T05:42:36.406000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
