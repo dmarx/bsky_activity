@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2025-07-25T18:16:32.654054+00:00",
+  "fetch_timestamp": "2025-07-26T00:56:12.045500+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 1186,
+    "total_followers_count": 1189,
     "total_following_count": 1917,
     "followers": [
       {
@@ -14,6 +14,45 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:xyx2jjjrmnfp6ldcu6j6jvkh",
+        "handle": "ibrahemabugazaleh.bsky.social",
+        "display_name": " Ibrahim Abu Gazaleh",
+        "created_at": "2025-06-11T07:28:35.707Z",
+        "description": "Photographer/journalist\n📍Gaza 🇵🇸\nPhot journalist from Gaza",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:t6i2mdwl22p7b5a7v4gswj2o",
+        "handle": "davidduvenaud.bsky.social",
+        "display_name": "David Duvenaud",
+        "created_at": "2024-11-20T21:26:19.130Z",
+        "description": "Machine learning prof at U Toronto.  Working on evals and AGI governance.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:7xb4hdfxyagz7h34jeop5yvq",
+        "handle": "margaretbarnes.bsky.social",
+        "display_name": "Margaret Barnes",
+        "created_at": "2025-07-20T17:04:18.998Z",
+        "description": "Margaret Barnes is a community advocate and writer based in Portland. She works with youth programs and writes poetry in her spare time.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1164,51 +1203,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:q24fvu6lynyc4yl3qstsxmyd",
-        "handle": "darkpuffin.bsky.social",
-        "display_name": "dark_puffin_phd",
-        "created_at": "2024-11-29T19:14:15.808Z",
-        "description": "science and other random facts, multiplicator, entrepreneur, ekut 40 under 40, Biophysical chemist",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:v3vsg5n2r5kspq6cwwsomwkk",
-        "handle": "starploom.bsky.social",
-        "display_name": "starploom",
-        "created_at": "2025-06-07T09:38:06.706Z",
-        "description": "⭐️ Everything I post is generated using AI tools\n\n⭐️ https://www.deviantart.com/starploom",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:te24wobotaby6fc5fnr3jqih",
-        "handle": "barrybaba.bsky.social",
-        "display_name": "Junior",
-        "created_at": "2024-12-22T09:21:18.513Z",
-        "description": "Honest and been loyal to everyone who follow me. Ready to share my thought",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-07-25T18:16:32.924817+00:00"
+    "fetch_timestamp": "2025-07-26T00:56:12.588735+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-07-25T18:07:02.201000+00:00",
+    "last_post_timestamp": "2025-07-26T00:44:33.967000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
