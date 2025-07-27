@@ -404,7 +404,7 @@ class BlueskyActivityFetcher:
         if files_to_remove:
             logger.info(f"Cleaned up {len(files_to_remove)} old files")
     
-    def run(self, cleanup: bool = True) -> None:
+    def run(self, cleanup: bool = False) -> None:
         """Main execution method."""
         logger.info("Starting Bluesky activity fetch")
         
@@ -573,7 +573,7 @@ if __name__ == "__main__":
         if files_to_remove:
             logger.info(f"Cleaned up {len(files_to_remove)} old files")
     
-    def run(self, cleanup: bool = True) -> None:
+    def run(self, cleanup: bool = False) -> None:
         """Main execution method."""
         logger.info("Starting Bluesky activity fetch")
         
