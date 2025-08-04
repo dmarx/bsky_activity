@@ -1,5 +1,7 @@
+aiohttp>=3.9.0
 atproto>=0.0.46
 fire>=0.5.0
 loguru>=0.7.0
 omegaconf>=2.3.0
-pytest>=7.0.0
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
