@@ -1,0 +1,17 @@
+# config/config.yaml
+# Configuration for Bluesky metadata collection
+
+# Rate limiting configuration to be respectful to Bluesky's API
+rate_limit:
+  max_concurrent: 5  # Maximum concurrent requests
+  delay_seconds: 1.0  # Delay between requests
+
+# Output configuration
+output:
+  include_errors: true  # Include failed collections in output
+  timestamp_format: "iso"  # ISO format timestamps
+
+# Logging configuration
+logging:
+  level: "INFO"
+  format: "{time:YYYY-MM-DD HH:mm:ss} | {level} | {message}"
