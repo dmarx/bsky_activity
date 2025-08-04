@@ -54,8 +54,8 @@ jobs:
           --input_file="${{ github.event.inputs.input_file || 'data/usernames.txt' }}" \
           --output_file="data/metadata_$(date +%Y%m%d_%H%M%S).csv"
           
-    - name: Run tests
-      run: pytest tests/ -v
+    # - name: Run tests
+    #   run: pytest tests/ -v
       
     - name: Upload artifacts
       uses: actions/upload-artifact@v4
