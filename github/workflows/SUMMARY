@@ -1,0 +1,222 @@
+---
+File: .github/workflows/bluesky_metadata_collection.yml
+---
+# .github/workflows/bluesky_metadata_collection.yml
+name: Bluesky Metadata Collection
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch:  # Allow manual triggering
+    inputs:
+      input_file:
+        description: 'Input file path (relative to repo root)'
+        required: false
+        default: 'data/usernames.txt'
+      output_file:
+        description: 'Output file path (relative to repo root)'
+        required: false
+        default: 'data/metadata.csv'
+
+jobs:
+  collect-metadata:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Cache dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Create data directory
+      run: mkdir -p data
+      
+    - name: Run metadata collection
+      env:
+        BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
+        BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+      run: |
+        python scripts/collect_bluesky_metadata.py \
+          --input_file="${{ github.event.inputs.input_file || 'data/usernames.txt' }}" \
+          --output_file="data/metadata_$(date +%Y%m%d_%H%M%S).csv"
+          
+    # - name: Run tests
+    #   run: pytest tests/ -v
+      
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: bluesky-metadata-${{ github.run_number }}
+        path: |
+          data/metadata_*.csv
+          logs/*.log
+        retention-days: 30
+        
+    - name: Commit and push results
+      if: success()
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/metadata_*.csv
+        git commit -m "Update Bluesky metadata collection $(date +%Y-%m-%d)" || exit 0
+        git push
+
+
+
+---
+File: .github/workflows/fetch_bluesky_activity.yml
+---
+# File: .github/workflows/fetch_bluesky_activity.yml
+# GitHub Actions workflow to periodically fetch Bluesky activity
+
+name: Fetch Bluesky Activity
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Allow manual triggering
+  push:
+
+jobs:
+  fetch-activity:
+    runs-on: ubuntu-latest
+    environment: bsky-fetcher  # Use GitHub Environment for secure secret management
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Create data directory
+      run: mkdir -p data/bluesky
+    
+    - name: Fetch Bluesky activity
+      env:
+        BLUESKY_USERNAME: ${{ secrets.BLUESKY_USERNAME }}
+        BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+      run: |
+        python scripts/fetch_bluesky_activity.py run
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/bluesky/
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update Bluesky activity data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        fi
+
+
+
+---
+File: .github/workflows/move-folder.yml
+---
+name: Rename Folder and Push
+
+on:
+  workflow_dispatch:  # Allows you to manually trigger the workflow
+
+jobs:
+  rename-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Rename folder
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          if [ -d "old_folder" ]; then
+            git mv data/bluesky attic/data/bluesky
+          else
+            echo "Folder 'old_folder' does not exist"
+            exit 1
+          fi
+
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Rename folder from old_folder to new_folder" || echo "No changes to commit"
+
+      - name: Push changes
+        run: git push
+
+
+
+---
+File: .github/workflows/summary-for-llm.yml
+---
+name: Llamero Summarization
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  generate-summaries:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+
+    - name: Install llamero
+      run: touch requirements.txt
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        #cache: 'pip'
+
+    - name: Install llamero
+      run: pip install llamero
+
+    - name: Generate summaries
+      run: |
+        llamero summarize all
+        #llamero tree --output summaries/tree.md
+
+
