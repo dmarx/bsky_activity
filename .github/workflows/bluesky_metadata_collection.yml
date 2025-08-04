@@ -58,7 +58,7 @@ jobs:
       run: pytest tests/ -v
       
     - name: Upload artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: bluesky-metadata-${{ github.run_number }}
         path: |
