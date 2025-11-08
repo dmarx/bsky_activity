@@ -1,7 +1,333 @@
 {
-  "fetch_timestamp": "2025-11-08T06:15:13.711586+00:00",
+  "fetch_timestamp": "2025-11-08T06:15:08.169224+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53vdi5ey22f",
+      "cid": "bafyreib3krrad76fvfvrvpb4l22t4sgd4qipcogfu2hexulowgfbgbmb4u",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I didn't even realize: my 20 year wiki-versary was last Saturday!!\n\nMy wiki history actually goes further back than that, but that's at least when I started editing under a proper user account. \n\n🎂",
+      "created_at": "2025-11-08T05:46:46.871Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2025-11-08T05:46:48.623Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53uynrx2k2f",
+      "cid": "bafyreihbhmekm26hsmykbqcdwmre6oiotygt3dw74tg3xmpry4dtohtzuy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "watching this gave me diabetes.",
+      "created_at": "2025-11-08T05:40:43.690Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2025-11-08T05:40:44.120Z",
+      "reply_context": {
+        "uri": "at://did:plc:ey2ngl4l3fymyibjzhjx4dcy/app.bsky.feed.post/3m53u6ji54s25",
+        "cid": "bafyreieudvwwpp6u5qsot6xw5abtwbih5pvpiptls7euvimiglnzs2nz6q",
+        "author": {
+          "did": "did:plc:ey2ngl4l3fymyibjzhjx4dcy",
+          "handle": "nationalsecuritylaw.org",
+          "display_name": "National Security Counselors 🕵"
+        },
+        "text": "I think this is the first time I've ever suffered vicarious heartburn",
+        "created_at": "2025-11-08T05:26:06.760Z",
+        "indexed_at": "2025-11-08T05:26:06.621Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53ukqpr2k2f",
+      "cid": "bafyreictqgqnc6qz3f7nux7j5m3zku4bzn4blu3hxu6n5ksxuzingfpfrq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "@joshgerstein.bsky.social here's the article you wish you wrote, in case you wanna point readers somewhere useful. bsky.app/profile/stev...",
+      "created_at": "2025-11-08T05:32:57.003Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 4,
+      "indexed_at": "2025-11-08T05:32:57.427Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53qwxb4f22g",
+        "cid": "bafyreign4db4jgrj6tkv46ozpljqvvta4kphrx6mk7kdt4lcfbanzohehi",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "Thank you for explaining the situation better in three sentences than josh could in a full article.\n\nLike... shit @joshgerstein.bsky.social. By failing to report on the procedural context here, your article does more harm than good by letting readers walk away thinking they've been informed.",
+        "created_at": "2025-11-08T04:28:11.547Z",
+        "indexed_at": "2025-11-08T04:28:12.123Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:f7utvjkqbgwfjonqtpfcf5fu/app.bsky.feed.post/3m53tlxgscc2d",
+      "cid": "bafyreiegk7hpydsbxwqi5abwybjkdt4mtqkzm66geg74ercuuazly5olsu",
+      "author": {
+        "did": "did:plc:f7utvjkqbgwfjonqtpfcf5fu",
+        "handle": "denisedwheeler.bsky.social",
+        "display_name": "Denise Wheeler"
+      },
+      "text": "This is a must-read for everyone. \n\nPuts a clear and concise light on the SNAP shitshow with the Supreme Court and why Justice Jackson issued the stay.\n\n@stevevladeck.bsky.social",
+      "created_at": "2025-11-08T05:15:43.861Z",
+      "reply_count": 1,
+      "repost_count": 6,
+      "like_count": 13,
+      "indexed_at": "2025-11-08T05:15:44.425Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53tp4wi3c2l",
+      "cid": "bafyreieh7mdkhysr3os3zqasn342ty5c47ezc7llgezpvnuftouo5po6wu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Primo fascist heckling.\n\n> \"You are ruining this country for a paycheck, because you're a coward.. Retribution for that is coming.. You're going to face your day in court, and you're going to lose. Your family will reject you.. Your children will hate you.. They're embarrassed by you..\"",
+      "created_at": "2025-11-08T05:17:30.281Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2025-11-08T05:17:30.521Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53sgdbfws2l",
+      "cid": "bafyreieaghixlmckndtincfzg6pbzzwk3hnqrom6qb6here6msdb3rqf44",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "maybe you should just stop contributing value via your presence on that platform. it is a cesspool and you should leave. your activity there gives your audience there more reason to stay, and by extension more exposure to racist bots and algorithms. be the change you want to see.",
+      "created_at": "2025-11-08T04:54:41.199Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2025-11-08T04:54:41.924Z",
+      "reply_context": {
+        "uri": "at://did:plc:xoj5fvglhzfo5xeozvmdvopl/app.bsky.feed.post/3m53qfinxis25",
+        "cid": "bafyreigswbwvlm747vkv7vja6wdbb2uqbeus6gngk2wh7343i54gxtkjcq",
+        "author": {
+          "did": "did:plc:xoj5fvglhzfo5xeozvmdvopl",
+          "handle": "ryangrim.bsky.social",
+          "display_name": "Ryan Grim"
+        },
+        "text": "If this is a serious question, I wanted to see how it handled US v Soviet history. The result was worse than I had even expected. I decided not to block it because I assume that would nuke me in the algorithm.",
+        "created_at": "2025-11-08T04:18:25.815Z",
+        "indexed_at": "2025-11-08T04:18:26.027Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53re6q66c2g",
+      "cid": "bafyreif7cmtivahqq26iticd55d7nlqzjnogibg7ivmyaw7b5kux2z3xsa",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "BUT WHAT IF THERE'S A NATURAL DISASTER?!?\n\n...oh right, they dismantled NOAA, only permitted FEMA funds to flow to red states, federalized multiple states national guards to pickup trash in DC and terrorize brown people in various blue cities, and that was all pre-shutdown.\n\ndisregard.",
+      "created_at": "2025-11-08T04:35:35.589Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2025-11-08T04:35:36.021Z",
+      "reply_context": {
+        "uri": "at://did:plc:qp7anqcqescucfwi4wari2z4/app.bsky.feed.post/3m53qu7khv225",
+        "cid": "bafyreig5n2kged2ot6c6rlfp6xxspctnkay4mznx5zaehnc3dx6qcz6wcu",
+        "author": {
+          "did": "did:plc:qp7anqcqescucfwi4wari2z4",
+          "handle": "walkerbragman.bsky.social",
+          "display_name": "Walker Bragman"
+        },
+        "text": "There is no reason to fund this government as it starves millions of Americans, invades U.S. cities, disappears people, strangles universities, acts as a pay-for-pay operation for the president, guts environmental rules, commits war crimes, kills foreign aid, and dismantles public health.",
+        "created_at": "2025-11-08T04:26:39.580Z",
+        "indexed_at": "2025-11-08T04:26:39.821Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53qwxb4f22g",
+      "cid": "bafyreign4db4jgrj6tkv46ozpljqvvta4kphrx6mk7kdt4lcfbanzohehi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Thank you for explaining the situation better in three sentences than josh could in a full article.\n\nLike... shit @joshgerstein.bsky.social. By failing to report on the procedural context here, your article does more harm than good by letting readers walk away thinking they've been informed.",
+      "created_at": "2025-11-08T04:28:11.547Z",
+      "reply_count": 2,
+      "repost_count": 2,
+      "like_count": 19,
+      "indexed_at": "2025-11-08T04:28:12.123Z",
+      "reply_context": {
+        "uri": "at://did:plc:2vzs5i4xmqswvgq2ge5jy325/app.bsky.feed.post/3m53ole6mnc2n",
+        "cid": "bafyreigmemnhhpw4qjp3vywmgqcrtpicacrey7okhv3s3pdomwxpamfzeq",
+        "author": {
+          "did": "did:plc:2vzs5i4xmqswvgq2ge5jy325",
+          "handle": "als84.bsky.social",
+          "display_name": "als"
+        },
+        "text": "The pause will send it back to the First Circuit where a final ruling will be made.  That will actually be the final ruling and speed up SNAP’s return.  I expect the First Circuit to vote to release the SNAP funds.",
+        "created_at": "2025-11-08T03:45:54.960Z",
+        "indexed_at": "2025-11-08T03:45:55.826Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53qhftmz22r",
+      "cid": "bafyreigngisiulqrnzzhxmh5ynpvybk6wj6jdyiikykqbcrjv325d7idca",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "talk about bringing receipts",
+      "created_at": "2025-11-08T04:19:29.963Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2025-11-08T04:19:30.324Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:4cehxdx5hfam37oos3yh5tta/app.bsky.feed.post/3m53kjaxvos27",
+      "cid": "bafyreiekzvmxwq563blhq7zpwxisnrzzxhacpwfyjkhpyazvrykgw7rg6m",
+      "author": {
+        "did": "did:plc:4cehxdx5hfam37oos3yh5tta",
+        "handle": "theurbanist.org",
+        "display_name": "The Urbanist"
+      },
+      "text": "Check your ballot. It’s possible that it’s been challenged due to leaving the ballot envelope unsigned or a signature mismatch. You can cure that with King County Elections so your ballot is counted! kingcounty.gov/en/dept/elec...",
+      "created_at": "2025-11-08T02:33:09.508Z",
+      "reply_count": 1,
+      "repost_count": 56,
+      "like_count": 83,
+      "indexed_at": "2025-11-08T02:33:11.227Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53pzai6q22w",
+      "cid": "bafyreicxhrca5jsq7wmcgmoscnxdirdbiorsp2o7m23thlf6hgfgv3nvna",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "",
+      "created_at": "2025-11-08T04:11:34.585Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2025-11-08T04:11:35.124Z",
+      "reply_context": {
+        "uri": "at://did:plc:xjnxcxe2pn5lwp6z2gxapbrl/app.bsky.feed.post/3m53l2bhu3s2g",
+        "cid": "bafyreigjtcvvxs3djibp7i5kakkl5zvbi3pp5nbo5rcknqc3kzuzpatnym",
+        "author": {
+          "did": "did:plc:xjnxcxe2pn5lwp6z2gxapbrl",
+          "handle": "costasamaras.com",
+          "display_name": "Costa Samaras"
+        },
+        "text": "me, silly: kids should have food\n\nyou, thought leader: according to the not made up Major Meal Doctrine first outlined on some weirdo's substack, feeding kids conflicts with Article II authority",
+        "created_at": "2025-11-08T02:42:40.468Z",
+        "indexed_at": "2025-11-08T02:42:40.822Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53px4ztds2w",
+      "cid": "bafyreiegpugpqrnzkz52ipwlx33qy3dacwqp7ju547pxhokho3lbswl4h4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "\"originalist\" was always code for \"I don't believe in the constitution and have my own vision of government I am hoping to manifest using pretextual justifications that I will pretend are grounded in an academic stance.\"",
+      "created_at": "2025-11-08T04:10:23.859Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 5,
+      "indexed_at": "2025-11-08T04:10:24.525Z",
+      "reply_context": {
+        "uri": "at://did:plc:cqlfwwy5cgey5mnjg4gr4vfh/app.bsky.feed.post/3m53m27ugr22w",
+        "cid": "bafyreigred76i7a3yu2mpp7npgyaklcreg4rlp2fshw52evmcbwdoz5cba",
+        "author": {
+          "did": "did:plc:cqlfwwy5cgey5mnjg4gr4vfh",
+          "handle": "jurph.bsky.social",
+          "display_name": "Jurph: the Scent of Oak Leaves"
+        },
+        "text": "Ideally an originalist in the building can describe for us the situation envisioned by the Founders where the executive can blithely ignore legislation that funds a specific purpose in favor of the President’s views about brown people",
+        "created_at": "2025-11-08T03:00:32.524Z",
+        "indexed_at": "2025-11-08T03:00:32.728Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m53gs2ejgs2x",
+      "cid": "bafyreifsgdoaxhomtxvycdi3nnxbdhj63exiueuryajsjygcvxpdpgamqa",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "how did immigration officers even get involved? He's a US citizen. the kavanaugh stop justification ends there.",
+      "created_at": "2025-11-08T01:26:29.615Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2025-11-08T01:26:30.021Z",
+      "reply_context": {
+        "uri": "at://did:plc:z6rujpf4u56jfie7aqic2nfg/app.bsky.feed.post/3m53gfi2hpk2y",
+        "cid": "bafyreihw2wtc6u5seizhxz4hcjpocgan3xphjhvim462fg2wlq7qcppq5a",
+        "author": {
+          "did": "did:plc:z6rujpf4u56jfie7aqic2nfg",
+          "handle": "carlquintanilla.bsky.social",
+          "display_name": "Carl Quintanilla"
+        },
+        "text": "“..’There’s a baby in the back!’ an onlooker shouted. Minutes later, someone cried out, ‘They’re about to drive!’\n\n“.. Another agent, wearing body armor and carrying a rifle, got into the passenger seat ..”\n\n@nytimes.com #ICE \nwww.nytimes.com/2025/11/07/u...",
+        "created_at": "2025-11-08T01:19:27.751Z",
+        "indexed_at": "2025-11-08T01:19:29.922Z"
+      },
+      "is_reply": true
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1049,11 +1375,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-11-08T06:15:13.965905+00:00"
+    "fetch_timestamp": "2025-11-08T06:15:09.152405+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-11-08T05:46:46.871000+00:00",
-    "new_posts_count": 0,
+    "last_post_timestamp": "2025-11-08T00:49:04.489000+00:00",
+    "new_posts_count": 13,
     "is_initial_fetch": false
   }
 }
