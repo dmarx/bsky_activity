@@ -1,7 +1,64 @@
 {
-  "fetch_timestamp": "2025-11-11T00:54:06.514994+00:00",
+  "fetch_timestamp": "2025-11-11T00:53:55.350727+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m5cfizvg6c2j",
+      "cid": "bafyreignrdrjblknkkyx4uxey47vqwgsrxyp2gq7awbyzemykjqadviu3a",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "\"...but I will coordinate senators who aren't at imminent electoral risk to support the republican bill on my behalf, and then vote no and make statements like this one performatively.\"",
+      "created_at": "2025-11-10T19:52:11.558Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2025-11-10T19:52:12.023Z",
+      "reply_context": {
+        "uri": "at://did:plc:movn6xzezospl7lnkhy7nzpt/app.bsky.feed.post/3m5cfbdlhjc2v",
+        "cid": "bafyreihaoqw6q33fnltbj7d5j2uubsjrgqlx3colj4h2f4leikl2yvrmj4",
+        "author": {
+          "did": "did:plc:movn6xzezospl7lnkhy7nzpt",
+          "handle": "chadbourn.bsky.social",
+          "display_name": "Mark Chadbourn"
+        },
+        "text": "Schumer: “I will not support the Republican bill that’s on the Senate floor because it fails to do anything of substance to fix America’s healthcare crisis.”",
+        "created_at": "2025-11-10T19:47:53.281Z",
+        "indexed_at": "2025-11-10T19:47:53.627Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m5ceg4a3ws2j",
+      "cid": "bafyreiatwmvroacosqfc4ky6q4man6b6ixlpm43ftuae4x4irtt54djeue",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "savage but accurate",
+      "created_at": "2025-11-10T19:32:39.600Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2025-11-10T19:32:40.024Z",
+      "reply_context": {
+        "uri": "at://did:plc:7umvpuxe2vbrc3zrzuquzniu/app.bsky.feed.post/3m5c6nyzbfk23",
+        "cid": "bafyreicsjizxtde2xe2vrnsbdsz7c7ppssnlmqrdh5vwyf3dvtyylby6ni",
+        "author": {
+          "did": "did:plc:7umvpuxe2vbrc3zrzuquzniu",
+          "handle": "whstancil.bsky.social",
+          "display_name": "Will Stancil"
+        },
+        "text": "Schumer is really an anti-leader, a vacuum of leadership, and as far as I can tell he draws his support from that. He doesn’t ask anything of anyone, he never squeezes anyone on a hard vote, he’s always the first to cave.\n\nHe’s the substitute teacher the kids love having because they can goof off.",
+        "created_at": "2025-11-10T17:49:42.214Z",
+        "indexed_at": "2025-11-10T17:49:42.930Z"
+      },
+      "is_reply": true
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1036,11 +1093,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-11-11T00:54:07.156653+00:00"
+    "fetch_timestamp": "2025-11-11T00:53:56.844764+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-11-10T19:52:11.558000+00:00",
-    "new_posts_count": 0,
+    "last_post_timestamp": "2025-11-10T18:16:14.238000+00:00",
+    "new_posts_count": 2,
     "is_initial_fetch": false
   }
 }
