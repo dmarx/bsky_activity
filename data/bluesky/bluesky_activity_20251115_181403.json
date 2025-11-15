@@ -1,7 +1,83 @@
 {
-  "fetch_timestamp": "2025-11-15T18:14:03.392798+00:00",
+  "fetch_timestamp": "2025-11-15T18:13:57.179123+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m5og7npfec2r",
+      "cid": "bafyreidnthfirtzu7r6sq6l2glagl2hlfgoxsh5viutczgvwkg7xaksgzi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "presumably these gifts are now the property of the us govt rather than trump personally, right? .. bueller?",
+      "created_at": "2025-11-15T14:36:47.389Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 5,
+      "indexed_at": "2025-11-15T14:36:48.121Z",
+      "reply_context": {
+        "uri": "at://did:plc:z6rujpf4u56jfie7aqic2nfg/app.bsky.feed.post/3m5oesssdns2f",
+        "cid": "bafyreihpht4ha6qdegzszd4jsaiimh5wiogb7hnbg3v4bln7ip6xlvjl2m",
+        "author": {
+          "did": "did:plc:z6rujpf4u56jfie7aqic2nfg",
+          "handle": "carlquintanilla.bsky.social",
+          "display_name": "Carl Quintanilla"
+        },
+        "text": "“Apple set the tone” when Tim Cook gave Trump an engraved, glass disc. This week, the Swiss delegation gave him a “special Rolex desktop clock” and a $130,000 gold bar.\n\n“.. It was tough to beat Apple, but the Swiss did it,\" an administration official told @axios.com \n\nwww.axios.com/2025/11/14/t...",
+        "created_at": "2025-11-15T14:11:42.774Z",
+        "indexed_at": "2025-11-15T14:11:45.525Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:sr3cp7q3p7zrnb6r276syycf/app.bsky.feed.post/3m5oe6e57l325",
+      "cid": "bafyreihdk32wqpanvtpfr3npbna26wgfk5uyty6rvsdi77ud2qq4p5h2xa",
+      "author": {
+        "did": "did:plc:sr3cp7q3p7zrnb6r276syycf",
+        "handle": "boltsmag.org",
+        "display_name": "Bolts"
+      },
+      "text": "The New Jersey city of Hoboken adopted an ordinance last month, known as the Hoboken Trust Act, that prohibits city officials from using resources to assist federal civil immigration enforcement.",
+      "created_at": "2025-11-15T14:00:15.000Z",
+      "reply_count": 1,
+      "repost_count": 24,
+      "like_count": 151,
+      "indexed_at": "2025-11-15T14:00:16.429Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m5o6y3op2k2r",
+      "cid": "bafyreidg7ucrb43ee3qljjqwn3cf4ykwqixs72onbv5l5wnqfclqp3ufdm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "@wcvb5.bsky.social giving this kid airtime and interviews tacitly encourages his behavior by rewarding it with attention. \n\nyou don't need to be part of the problem like this. you can report w/o glorifying assholes.",
+      "created_at": "2025-11-15T12:27:17.418Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 4,
+      "indexed_at": "2025-11-15T12:27:18.623Z",
+      "reply_context": {
+        "uri": "at://did:plc:4q4ziw4qk2hxxaxfu7jweuey/app.bsky.feed.post/3m5o3xqyids2j",
+        "cid": "bafyreiagysszqmgw76wmfje7fc4rviqvrn3dglrb7ib3m6pl4dee7jmijy",
+        "author": {
+          "did": "did:plc:4q4ziw4qk2hxxaxfu7jweuey",
+          "handle": "mollyploofkins.bsky.social",
+          "display_name": "Molly Ploofkins"
+        },
+        "text": "A Boston University student bragged that he called ICE to raid a local car wash. Zac Segal, president of the BU College Republicans, said he snitched because “immigrants are taking American jobs.”",
+        "created_at": "2025-11-15T11:33:24.979Z",
+        "indexed_at": "2025-11-15T11:33:26.223Z"
+      },
+      "is_reply": true
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1023,11 +1099,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-11-15T18:14:03.734041+00:00"
+    "fetch_timestamp": "2025-11-15T18:13:58.026219+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-11-15T14:36:47.389000+00:00",
-    "new_posts_count": 0,
+    "last_post_timestamp": "2025-11-15T12:18:55.842000+00:00",
+    "new_posts_count": 3,
     "is_initial_fetch": false
   }
 }
