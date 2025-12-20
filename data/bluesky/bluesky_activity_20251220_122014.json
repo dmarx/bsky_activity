@@ -1,7 +1,193 @@
 {
-  "fetch_timestamp": "2025-12-20T12:20:15.889037+00:00",
+  "fetch_timestamp": "2025-12-20T12:20:04.291843+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:jgt4cgzqt7bcd7vity35mew7/app.bsky.feed.post/3madzqdyfw225",
+      "cid": "bafyreifrxpmtvqreo73egtfnj4kl3pxirregk6ir67fslpwtbtifzey3qy",
+      "author": {
+        "did": "did:plc:jgt4cgzqt7bcd7vity35mew7",
+        "handle": "liao.shen-yi.org",
+        "display_name": "Shen-yi Liao 廖顯禕"
+      },
+      "text": "It feels like academic publishing is going in two directions. In the first are (diamond / platinum / real) open access journals that are authored, reviewed, and edited by humans. In the second are for-profit journals infected with AI slop throughout.\n\nChoose which ecology you want to live in.",
+      "created_at": "2025-12-19T15:42:26.480Z",
+      "reply_count": 1,
+      "repost_count": 9,
+      "like_count": 33,
+      "indexed_at": "2025-12-19T15:42:28.294Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:dsbpb3w7glnyddtbewg73g74/app.bsky.feed.post/3mae3qxozx22s",
+      "cid": "bafyreifqgjfdjyrhhw4nccec46gwb7ntsfgianlzndz5dsfnc6ev3jpwsm",
+      "author": {
+        "did": "did:plc:dsbpb3w7glnyddtbewg73g74",
+        "handle": "utopia-defer.red",
+        "display_name": "utopia deferred"
+      },
+      "text": "www.gofundme.com/f/another-vi...",
+      "created_at": "2025-12-19T16:18:34.613Z",
+      "reply_count": 2,
+      "repost_count": 25,
+      "like_count": 49,
+      "indexed_at": "2025-12-19T16:18:36.800Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    },
+    {
+      "uri": "at://did:plc:4xwxmnh6mu62j322mglp7tt6/app.bsky.feed.post/3mae3tv6ij222",
+      "cid": "bafyreida2f6ygonuaab3vfe36mvw5qos6sz43xc2lw4e746frxj2zq665y",
+      "author": {
+        "did": "did:plc:4xwxmnh6mu62j322mglp7tt6",
+        "handle": "quoproquid.bsky.social",
+        "display_name": "QuoProQuid"
+      },
+      "text": "i recognize it's just a performance arts center and we've all collectively stopped giving a shit but changing the signage of the kennedy center is explicitly prohibited by law",
+      "created_at": "2025-12-19T16:20:12.651Z",
+      "reply_count": 17,
+      "repost_count": 129,
+      "like_count": 464,
+      "indexed_at": "2025-12-19T16:20:15.696Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    },
+    {
+      "uri": "at://did:plc:46jx7jjivmk3ge4n2yfysw6t/app.bsky.feed.post/3mabx3n4ba22j",
+      "cid": "bafyreiavilwljtmurvlj33fgzfrvc3wmjxkph2n27orwtd3pzso6gbfp3m",
+      "author": {
+        "did": "did:plc:46jx7jjivmk3ge4n2yfysw6t",
+        "handle": "simonwhale.bsky.social",
+        "display_name": "Whaley Queen of the Woke"
+      },
+      "text": "",
+      "created_at": "2025-12-18T19:49:44.436Z",
+      "reply_count": 11,
+      "repost_count": 43,
+      "like_count": 200,
+      "indexed_at": "2025-12-18T19:49:47.697Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:bcen47iol6hccqoufvtk7wt6/app.bsky.feed.post/3madjfsh6h22q",
+      "cid": "bafyreihq3xjp4p2l6vphw7e76h5ugqxrgqhv4oikfkp2xwufhdkx4k6aku",
+      "author": {
+        "did": "did:plc:bcen47iol6hccqoufvtk7wt6",
+        "handle": "gregggonsalves.bsky.social",
+        "display_name": "Gregg Gonsalves"
+      },
+      "text": "Here are the people and institutions that gave me hope in 2025. 1/ www.thenation.com/article/soci...",
+      "created_at": "2025-12-19T10:50:12.677Z",
+      "reply_count": 7,
+      "repost_count": 61,
+      "like_count": 147,
+      "indexed_at": "2025-12-19T10:50:14.196Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m7uylw53hk24",
+      "cid": "bafyreigdn5it77cdyfrvpeuo57qkgyuqrlhj67cnfaacl7gvyjvraqzzbm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I mean, I'm all for hopeful messaging... but \"say 'no'\" hardly qualifies as a blueprint. At best it's a tactic, but being realistic it's just good intentions. We need mechanisms.",
+      "created_at": "2025-12-13T16:12:07.919Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2025-12-13T16:12:08.396Z",
+      "reply_context": {
+        "uri": "at://did:plc:t57zckxuo4v6t53fjp7j7mcv/app.bsky.feed.post/3m7uworrb722w",
+        "cid": "bafyreif7eczaxbr6j4ua6nfsy6xqemw5y6etifwdzxxx6klzxsen6ms7t4",
+        "author": {
+          "did": "did:plc:t57zckxuo4v6t53fjp7j7mcv",
+          "handle": "dworkin.bsky.social",
+          "display_name": "Scott Dworkin"
+        },
+        "text": "The blueprint. 👇",
+        "created_at": "2025-12-13T15:37:56.516Z",
+        "indexed_at": "2025-12-13T15:37:57.699Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m7uxyll66s24",
+      "cid": "bafyreia2lzymizljx7vlxy3zokk2i3o2s5dfqcigjolcqwrrexmdlyzrxi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "It's beyond negligence. It is malicious treason. The administration is actively facilitating digital assault on the american public because the republicans are aligned with our enemies' mission to dismantle liberal democracy and western progressive society.",
+      "created_at": "2025-12-13T16:01:19.311Z",
+      "reply_count": 0,
+      "repost_count": 3,
+      "like_count": 5,
+      "indexed_at": "2025-12-13T16:01:20.999Z",
+      "reply_context": {
+        "uri": "at://did:plc:zi6x5ppoqiomymqr7s47em4o/app.bsky.feed.post/3m7uxhrdkw225",
+        "cid": "bafyreiajnqpaa5g4icsollwqaeulfpulbmntz6azcmprvgtneeixikq4ze",
+        "author": {
+          "did": "did:plc:zi6x5ppoqiomymqr7s47em4o",
+          "handle": "sodrock.bsky.social",
+          "display_name": "Secretary of Defense Rock"
+        },
+        "text": "MAGA Rasputin is still shadow running the national security policy of the United States of America?",
+        "created_at": "2025-12-13T15:51:54.926Z",
+        "indexed_at": "2025-12-13T15:51:55.295Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m7uxlkmzx224",
+      "cid": "bafyreiabagp5oha34ymkjgwytnsq4urlzfab2jwzpa2qfo3w6zzeynt6ze",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "The water use thing is way overblown. Their resource consumption is a huge issue in the context of energy, but not water. If you wanna be made about water consumption, be mad about golf courses and lawns and corn and palm oil and cement.",
+      "created_at": "2025-12-13T15:54:02.116Z",
+      "reply_count": 3,
+      "repost_count": 2,
+      "like_count": 1,
+      "indexed_at": "2025-12-13T15:54:05.903Z",
+      "reply_context": {
+        "uri": "at://did:plc:qnf33tdgs5ac6lhvx7c5t2mn/app.bsky.feed.post/3m7uavzr3t22d",
+        "cid": "bafyreiasxg3rxere2x25elkvg2gwbuf4mgaluajairbw3clsilfr3qp5vy",
+        "author": {
+          "did": "did:plc:qnf33tdgs5ac6lhvx7c5t2mn",
+          "handle": "patrickgaley.bsky.social",
+          "display_name": "Patrick Galey"
+        },
+        "text": "I value human creativity, so just adopt a full non-use approach to these ocean-boiling unthinking Internet rephrasers",
+        "created_at": "2025-12-13T09:08:17.455Z",
+        "indexed_at": "2025-12-13T09:08:18.094Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -958,11 +1144,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-12-20T12:20:16.635400+00:00"
+    "fetch_timestamp": "2025-12-20T12:20:05.884358+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-12-19T16:20:12.651000+00:00",
-    "new_posts_count": 0,
-    "is_initial_fetch": false
+    "last_post_timestamp": null,
+    "new_posts_count": 8,
+    "is_initial_fetch": true
   }
 }
