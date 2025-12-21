@@ -1,7 +1,291 @@
 {
-  "fetch_timestamp": "2025-12-21T06:17:32.045290+00:00",
+  "fetch_timestamp": "2025-12-21T06:17:21.139873+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mahtfjqyf22q",
+      "cid": "bafyreidzx4kv7usbbbju7mhznks6f7lb7w37q5lm7om2mnzuh76jf37c54",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "you tease! I want to have my illusions about the nature of meso/macro scale reality shattered *now*!",
+      "created_at": "2025-12-21T03:59:39.933Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2025-12-21T03:59:40.296Z",
+      "reply_context": {
+        "uri": "at://did:plc:qz7wdhksmjge7qovfghukwms/app.bsky.feed.post/3maepnn53cs2v",
+        "cid": "bafyreicjm6b6jhexm5rbqpv6fyex3n65kji4dftab3wugr2w4fpzuaeo34",
+        "author": {
+          "did": "did:plc:qz7wdhksmjge7qovfghukwms",
+          "handle": "evamirandag.bsky.social",
+          "display_name": "Eva Miranda"
+        },
+        "text": "a l'arxiv a partir de dilluns o dimarts. Posaré l'enllaç quan surti.",
+        "created_at": "2025-12-19T22:14:37.727Z",
+        "indexed_at": "2025-12-19T22:14:38.400Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3maht56gdec2q",
+      "cid": "bafyreigzthsohql37lhdgc4kcq3y7mrivgmqim5rnef4ggbp6snhk55dhu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "the more we learn about it, the weirder the world gets.",
+      "created_at": "2025-12-21T03:54:59.614Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 4,
+      "indexed_at": "2025-12-21T03:54:59.994Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mahstnvpac2q",
+      "cid": "bafyreiapqdk2kgvh4gqeotkzzpo5ugtandahjdw7ipcimtlj6me3xcceqa",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "wikipedia has mostly unkind things to say about the smith machine.",
+      "created_at": "2025-12-21T03:49:40.301Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2025-12-21T03:49:40.893Z",
+      "reply_context": {
+        "uri": "at://did:plc:h5zkfkc35wkb53udnemrica5/app.bsky.feed.post/3mahrqbny722c",
+        "cid": "bafyreieoqrkis3e5tgqwl7tclnhrwzggf5e7d4dvjj4xvy5bkec2lzrox4",
+        "author": {
+          "did": "did:plc:h5zkfkc35wkb53udnemrica5",
+          "handle": "olufemiotaiwo.bsky.social",
+          "display_name": "Olúfẹ́mi O. Táíwò"
+        },
+        "text": "you either die a hero or live long enough to appreciate the benefits of the Smith machine",
+        "created_at": "2025-12-21T03:29:53.060Z",
+        "indexed_at": "2025-12-21T03:29:54.398Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:fl7as2spyydk2hb3btjkpt5f/app.bsky.feed.post/3mahptmgntk25",
+      "cid": "bafyreidn5ti5vvam73omfyfcrtl3eor4xkyn3k7gigdmlxbw6w7cdua6m4",
+      "author": {
+        "did": "did:plc:fl7as2spyydk2hb3btjkpt5f",
+        "handle": "zekuzelalem.bsky.social",
+        "display_name": "Zecharias Zelalem"
+      },
+      "text": "As the year wraps up, & the breakout of conflict in the Horn of Africa looks increasingly inevitable in 2026, this indepth probe by @clairelwilmot.bsky.social into illegal gold mining from Tigray to the UAE mostly by the way of Eritrea...is a good 101er for how factions are likely to arm themselves.",
+      "created_at": "2025-12-21T02:55:57.534Z",
+      "reply_count": 1,
+      "repost_count": 44,
+      "like_count": 120,
+      "indexed_at": "2025-12-21T02:55:58.897Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3magz2vbd4w2d",
+      "cid": "bafyreigyqbfbkfwsjumoszh6fptsc46ndbugsz3zqoooxxldrqjbepokny",
+      "author": {
+        "did": "did:plc:ln72v57ivz2g46uqf4xxqiuh",
+        "handle": "npr.org",
+        "display_name": "NPR"
+      },
+      "text": "An NPR analysis of the Epstein files shows some documents, originally available on Friday, are no longer on the Department of Justice's \"Epstein Library\" website as the DOJ releases more files. n.pr/4pO8hXB",
+      "created_at": "2025-12-20T20:08:25.552721Z",
+      "reply_count": 51,
+      "repost_count": 421,
+      "like_count": 825,
+      "indexed_at": "2025-12-20T20:08:26.096Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3magvvmss3c2q",
+      "cid": "bafyreifnbpwrqbs3athzqgut7hdo5yahfkfise3q5zmh4eznb5mz2n5wpy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "probably a whole \"no free lunch\" set of sub problems here.",
+      "created_at": "2025-12-20T19:11:47.753Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2025-12-20T19:11:48.695Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3magvuig3l22q",
+        "cid": "bafyreiekcolwqsl4wzap3ga2eevdrdlm643xdmx7bv7a2wfz6cp6fwkwp4",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "i think the general challenge here is short term vs long term vs not worth retaining, and moving information between those buckets based on tradeoffs that are conditional on the demands of the environment and available capacity.",
+        "created_at": "2025-12-20T19:11:09.588Z",
+        "indexed_at": "2025-12-20T19:11:10.497Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3magvuig3l22q",
+      "cid": "bafyreiekcolwqsl4wzap3ga2eevdrdlm643xdmx7bv7a2wfz6cp6fwkwp4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "i think the general challenge here is short term vs long term vs not worth retaining, and moving information between those buckets based on tradeoffs that are conditional on the demands of the environment and available capacity.",
+      "created_at": "2025-12-20T19:11:09.588Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2025-12-20T19:11:10.497Z",
+      "reply_context": {
+        "uri": "at://did:plc:w6ywzmp4mzarlefzs52qado6/app.bsky.feed.post/3magv7znaec2w",
+        "cid": "bafyreiggeug3cuwiimx5mceztul6imwgc2lcooysxzhw3uyd5kkxjjek5q",
+        "author": {
+          "did": "did:plc:w6ywzmp4mzarlefzs52qado6",
+          "handle": "crumb.bsky.social",
+          "display_name": "_ - \\. 🇺🇸"
+        },
+        "text": "i suspect teaching an agent w scratchpad to navigate arbitrary spaces, for example, by applying inputs to reservoirs, could be insanely powerful\nthen the only thing you'd have to do for it would be afford it interfaces that let it do useful things, auto scientist, smart optimizer",
+        "created_at": "2025-12-20T18:59:43.006Z",
+        "indexed_at": "2025-12-20T18:59:50.601Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:jgt4cgzqt7bcd7vity35mew7/app.bsky.feed.post/3madzqdyfw225",
+      "cid": "bafyreifrxpmtvqreo73egtfnj4kl3pxirregk6ir67fslpwtbtifzey3qy",
+      "author": {
+        "did": "did:plc:jgt4cgzqt7bcd7vity35mew7",
+        "handle": "liao.shen-yi.org",
+        "display_name": "Shen-yi Liao 廖顯禕"
+      },
+      "text": "It feels like academic publishing is going in two directions. In the first are (diamond / platinum / real) open access journals that are authored, reviewed, and edited by humans. In the second are for-profit journals infected with AI slop throughout.\n\nChoose which ecology you want to live in.",
+      "created_at": "2025-12-19T15:42:26.480Z",
+      "reply_count": 1,
+      "repost_count": 9,
+      "like_count": 34,
+      "indexed_at": "2025-12-19T15:42:28.294Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:dsbpb3w7glnyddtbewg73g74/app.bsky.feed.post/3mae3qxozx22s",
+      "cid": "bafyreifqgjfdjyrhhw4nccec46gwb7ntsfgianlzndz5dsfnc6ev3jpwsm",
+      "author": {
+        "did": "did:plc:dsbpb3w7glnyddtbewg73g74",
+        "handle": "utopia-defer.red",
+        "display_name": "utopia deferred"
+      },
+      "text": "www.gofundme.com/f/another-vi...",
+      "created_at": "2025-12-19T16:18:34.613Z",
+      "reply_count": 2,
+      "repost_count": 30,
+      "like_count": 55,
+      "indexed_at": "2025-12-19T16:18:36.800Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    },
+    {
+      "uri": "at://did:plc:4xwxmnh6mu62j322mglp7tt6/app.bsky.feed.post/3mae3tv6ij222",
+      "cid": "bafyreida2f6ygonuaab3vfe36mvw5qos6sz43xc2lw4e746frxj2zq665y",
+      "author": {
+        "did": "did:plc:4xwxmnh6mu62j322mglp7tt6",
+        "handle": "quoproquid.bsky.social",
+        "display_name": "QuoProQuid"
+      },
+      "text": "i recognize it's just a performance arts center and we've all collectively stopped giving a shit but changing the signage of the kennedy center is explicitly prohibited by law",
+      "created_at": "2025-12-19T16:20:12.651Z",
+      "reply_count": 19,
+      "repost_count": 137,
+      "like_count": 481,
+      "indexed_at": "2025-12-19T16:20:15.696Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    },
+    {
+      "uri": "at://did:plc:46jx7jjivmk3ge4n2yfysw6t/app.bsky.feed.post/3mabx3n4ba22j",
+      "cid": "bafyreiavilwljtmurvlj33fgzfrvc3wmjxkph2n27orwtd3pzso6gbfp3m",
+      "author": {
+        "did": "did:plc:46jx7jjivmk3ge4n2yfysw6t",
+        "handle": "simonwhale.bsky.social",
+        "display_name": "Whaley Queen of the Woke"
+      },
+      "text": "",
+      "created_at": "2025-12-18T19:49:44.436Z",
+      "reply_count": 11,
+      "repost_count": 44,
+      "like_count": 202,
+      "indexed_at": "2025-12-18T19:49:47.697Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:bcen47iol6hccqoufvtk7wt6/app.bsky.feed.post/3madjfsh6h22q",
+      "cid": "bafyreihq3xjp4p2l6vphw7e76h5ugqxrgqhv4oikfkp2xwufhdkx4k6aku",
+      "author": {
+        "did": "did:plc:bcen47iol6hccqoufvtk7wt6",
+        "handle": "gregggonsalves.bsky.social",
+        "display_name": "Gregg Gonsalves"
+      },
+      "text": "Here are the people and institutions that gave me hope in 2025. 1/ www.thenation.com/article/soci...",
+      "created_at": "2025-12-19T10:50:12.677Z",
+      "reply_count": 7,
+      "repost_count": 61,
+      "like_count": 150,
+      "indexed_at": "2025-12-19T10:50:14.196Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3m7xillavws2y",
+      "cid": "bafyreibtqgfkefxw46erlgf2u2ejf6ltbornjepkszasl6hydp5limtdva",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "this is how I learned hanukah starts this evening.",
+      "created_at": "2025-12-14T16:03:35.856Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2025-12-14T16:03:36.294Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -958,11 +1242,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-12-21T06:17:32.818617+00:00"
+    "fetch_timestamp": "2025-12-21T06:17:22.768879+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-12-21T03:59:39.933000+00:00",
-    "new_posts_count": 0,
-    "is_initial_fetch": false
+    "last_post_timestamp": null,
+    "new_posts_count": 13,
+    "is_initial_fetch": true
   }
 }
