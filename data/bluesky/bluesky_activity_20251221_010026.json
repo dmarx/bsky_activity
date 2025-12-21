@@ -1,7 +1,178 @@
 {
-  "fetch_timestamp": "2025-12-21T01:00:26.643723+00:00",
+  "fetch_timestamp": "2025-12-21T01:00:20.018765+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3magz2vbd4w2d",
+      "cid": "bafyreigyqbfbkfwsjumoszh6fptsc46ndbugsz3zqoooxxldrqjbepokny",
+      "author": {
+        "did": "did:plc:ln72v57ivz2g46uqf4xxqiuh",
+        "handle": "npr.org",
+        "display_name": "NPR"
+      },
+      "text": "An NPR analysis of the Epstein files shows some documents, originally available on Friday, are no longer on the Department of Justice's \"Epstein Library\" website as the DOJ releases more files. n.pr/4pO8hXB",
+      "created_at": "2025-12-20T20:08:25.552721Z",
+      "reply_count": 48,
+      "repost_count": 394,
+      "like_count": 766,
+      "indexed_at": "2025-12-20T20:08:26.096Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3magvvmss3c2q",
+      "cid": "bafyreifnbpwrqbs3athzqgut7hdo5yahfkfise3q5zmh4eznb5mz2n5wpy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "probably a whole \"no free lunch\" set of sub problems here.",
+      "created_at": "2025-12-20T19:11:47.753Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2025-12-20T19:11:48.695Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3magvuig3l22q",
+        "cid": "bafyreiekcolwqsl4wzap3ga2eevdrdlm643xdmx7bv7a2wfz6cp6fwkwp4",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "i think the general challenge here is short term vs long term vs not worth retaining, and moving information between those buckets based on tradeoffs that are conditional on the demands of the environment and available capacity.",
+        "created_at": "2025-12-20T19:11:09.588Z",
+        "indexed_at": "2025-12-20T19:11:10.497Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3magvuig3l22q",
+      "cid": "bafyreiekcolwqsl4wzap3ga2eevdrdlm643xdmx7bv7a2wfz6cp6fwkwp4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "i think the general challenge here is short term vs long term vs not worth retaining, and moving information between those buckets based on tradeoffs that are conditional on the demands of the environment and available capacity.",
+      "created_at": "2025-12-20T19:11:09.588Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2025-12-20T19:11:10.497Z",
+      "reply_context": {
+        "uri": "at://did:plc:w6ywzmp4mzarlefzs52qado6/app.bsky.feed.post/3magv7znaec2w",
+        "cid": "bafyreiggeug3cuwiimx5mceztul6imwgc2lcooysxzhw3uyd5kkxjjek5q",
+        "author": {
+          "did": "did:plc:w6ywzmp4mzarlefzs52qado6",
+          "handle": "crumb.bsky.social",
+          "display_name": "_ - \\. 🇺🇸"
+        },
+        "text": "i suspect teaching an agent w scratchpad to navigate arbitrary spaces, for example, by applying inputs to reservoirs, could be insanely powerful\nthen the only thing you'd have to do for it would be afford it interfaces that let it do useful things, auto scientist, smart optimizer",
+        "created_at": "2025-12-20T18:59:43.006Z",
+        "indexed_at": "2025-12-20T18:59:50.601Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:jgt4cgzqt7bcd7vity35mew7/app.bsky.feed.post/3madzqdyfw225",
+      "cid": "bafyreifrxpmtvqreo73egtfnj4kl3pxirregk6ir67fslpwtbtifzey3qy",
+      "author": {
+        "did": "did:plc:jgt4cgzqt7bcd7vity35mew7",
+        "handle": "liao.shen-yi.org",
+        "display_name": "Shen-yi Liao 廖顯禕"
+      },
+      "text": "It feels like academic publishing is going in two directions. In the first are (diamond / platinum / real) open access journals that are authored, reviewed, and edited by humans. In the second are for-profit journals infected with AI slop throughout.\n\nChoose which ecology you want to live in.",
+      "created_at": "2025-12-19T15:42:26.480Z",
+      "reply_count": 1,
+      "repost_count": 9,
+      "like_count": 34,
+      "indexed_at": "2025-12-19T15:42:28.294Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:dsbpb3w7glnyddtbewg73g74/app.bsky.feed.post/3mae3qxozx22s",
+      "cid": "bafyreifqgjfdjyrhhw4nccec46gwb7ntsfgianlzndz5dsfnc6ev3jpwsm",
+      "author": {
+        "did": "did:plc:dsbpb3w7glnyddtbewg73g74",
+        "handle": "utopia-defer.red",
+        "display_name": "utopia deferred"
+      },
+      "text": "www.gofundme.com/f/another-vi...",
+      "created_at": "2025-12-19T16:18:34.613Z",
+      "reply_count": 2,
+      "repost_count": 30,
+      "like_count": 55,
+      "indexed_at": "2025-12-19T16:18:36.800Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    },
+    {
+      "uri": "at://did:plc:4xwxmnh6mu62j322mglp7tt6/app.bsky.feed.post/3mae3tv6ij222",
+      "cid": "bafyreida2f6ygonuaab3vfe36mvw5qos6sz43xc2lw4e746frxj2zq665y",
+      "author": {
+        "did": "did:plc:4xwxmnh6mu62j322mglp7tt6",
+        "handle": "quoproquid.bsky.social",
+        "display_name": "QuoProQuid"
+      },
+      "text": "i recognize it's just a performance arts center and we've all collectively stopped giving a shit but changing the signage of the kennedy center is explicitly prohibited by law",
+      "created_at": "2025-12-19T16:20:12.651Z",
+      "reply_count": 19,
+      "repost_count": 136,
+      "like_count": 480,
+      "indexed_at": "2025-12-19T16:20:15.696Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    },
+    {
+      "uri": "at://did:plc:46jx7jjivmk3ge4n2yfysw6t/app.bsky.feed.post/3mabx3n4ba22j",
+      "cid": "bafyreiavilwljtmurvlj33fgzfrvc3wmjxkph2n27orwtd3pzso6gbfp3m",
+      "author": {
+        "did": "did:plc:46jx7jjivmk3ge4n2yfysw6t",
+        "handle": "simonwhale.bsky.social",
+        "display_name": "Whaley Queen of the Woke"
+      },
+      "text": "",
+      "created_at": "2025-12-18T19:49:44.436Z",
+      "reply_count": 11,
+      "repost_count": 44,
+      "like_count": 202,
+      "indexed_at": "2025-12-18T19:49:47.697Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:bcen47iol6hccqoufvtk7wt6/app.bsky.feed.post/3madjfsh6h22q",
+      "cid": "bafyreihq3xjp4p2l6vphw7e76h5ugqxrgqhv4oikfkp2xwufhdkx4k6aku",
+      "author": {
+        "did": "did:plc:bcen47iol6hccqoufvtk7wt6",
+        "handle": "gregggonsalves.bsky.social",
+        "display_name": "Gregg Gonsalves"
+      },
+      "text": "Here are the people and institutions that gave me hope in 2025. 1/ www.thenation.com/article/soci...",
+      "created_at": "2025-12-19T10:50:12.677Z",
+      "reply_count": 7,
+      "repost_count": 61,
+      "like_count": 150,
+      "indexed_at": "2025-12-19T10:50:14.196Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -958,11 +1129,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2025-12-21T01:00:27.094788+00:00"
+    "fetch_timestamp": "2025-12-21T01:00:20.971691+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2025-12-20T20:08:25.552721+00:00",
-    "new_posts_count": 0,
-    "is_initial_fetch": false
+    "last_post_timestamp": null,
+    "new_posts_count": 8,
+    "is_initial_fetch": true
   }
 }
