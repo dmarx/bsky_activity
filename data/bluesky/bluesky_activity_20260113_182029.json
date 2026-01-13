@@ -1,7 +1,451 @@
 {
-  "fetch_timestamp": "2026-01-13T18:20:29.758629+00:00",
+  "fetch_timestamp": "2026-01-13T18:20:19.436301+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:74lqtzlqfqg35g4dyys7ges3/app.bsky.feed.post/3mccs3j6g3c2r",
+      "cid": "bafyreiaqc5rmgo6zy3fk6klomds5fp2eqpod3dzdlwa7fpscyodd36bhge",
+      "author": {
+        "did": "did:plc:74lqtzlqfqg35g4dyys7ges3",
+        "handle": "laurajedeed.bsky.social",
+        "display_name": "Laura Jedeed"
+      },
+      "text": "The article appears to be partly paywalled and I would encourage anyone who can afford it to subscribe, Slate's got a hell of a sale going right now and subscriptions are how they can afford to pay freelancers for articles like this one\n\nFor my fellow brokies, though:",
+      "created_at": "2026-01-13T14:43:14.601Z",
+      "reply_count": 52,
+      "repost_count": 318,
+      "like_count": 1467,
+      "indexed_at": "2026-01-13T14:43:15.698Z",
+      "reply_context": {
+        "uri": "at://did:plc:74lqtzlqfqg35g4dyys7ges3/app.bsky.feed.post/3mccqbszbdc2r",
+        "cid": "bafyreihqjr7bpvvc3nyesm37modxxaeaplhel3mpy3w5uvvuyzovtdnsqa",
+        "author": {
+          "did": "did:plc:74lqtzlqfqg35g4dyys7ges3",
+          "handle": "laurajedeed.bsky.social",
+          "display_name": "Laura Jedeed"
+        },
+        "text": "A few months ago, ICE hired me\n\nI didn't sign and submit any paperwork. I almost certainly failed the drug test. I'm real outspoken about my opposition to the Trump administration, and I am extremely googlable\n\nAnd yet, there it was, in plain English. \"Welcome to ICE!\"\n\nMy latest for Slate",
+        "created_at": "2026-01-13T14:10:58.762Z",
+        "indexed_at": "2026-01-13T14:11:07.401Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:74lqtzlqfqg35g4dyys7ges3/app.bsky.feed.post/3mccqbszbdc2r",
+      "cid": "bafyreihqjr7bpvvc3nyesm37modxxaeaplhel3mpy3w5uvvuyzovtdnsqa",
+      "author": {
+        "did": "did:plc:74lqtzlqfqg35g4dyys7ges3",
+        "handle": "laurajedeed.bsky.social",
+        "display_name": "Laura Jedeed"
+      },
+      "text": "A few months ago, ICE hired me\n\nI didn't sign and submit any paperwork. I almost certainly failed the drug test. I'm real outspoken about my opposition to the Trump administration, and I am extremely googlable\n\nAnd yet, there it was, in plain English. \"Welcome to ICE!\"\n\nMy latest for Slate",
+      "created_at": "2026-01-13T14:10:58.762Z",
+      "reply_count": 249,
+      "repost_count": 3932,
+      "like_count": 9633,
+      "indexed_at": "2026-01-13T14:11:07.401Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mccx4nucg22u",
+      "cid": "bafyreiapmiij6uqqa3kmji5zr4xytmu62hw6u6wbepdlntx3j2ogoayzom",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I dunno, there are some great recipes on the internet. don't write them all off just cause you had some bad luck. have you tried the dr pepper crockpot thing?",
+      "created_at": "2026-01-13T16:13:21.776Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-01-13T16:13:22.900Z",
+      "reply_context": {
+        "uri": "at://did:plc:dsbpb3w7glnyddtbewg73g74/app.bsky.feed.post/3mccwaqo5j22i",
+        "cid": "bafyreiaknmpxce4tqe6l53rtrtgutju6i2p6u7uo4otx4u4t4cdxnjhlx4",
+        "author": {
+          "did": "did:plc:dsbpb3w7glnyddtbewg73g74",
+          "handle": "utopia-defer.red",
+          "display_name": "utopia deferred"
+        },
+        "text": "I hate it here so fucking bad",
+        "created_at": "2026-01-13T15:57:45.197Z",
+        "indexed_at": "2026-01-13T15:57:45.696Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:2qkigxadhdlw3govhsebkiee/app.bsky.feed.post/3mccurwmned2c",
+      "cid": "bafyreihb4tnvf6akl5kz4c2mqxbcyhzyygurc2ajsx2c6uj2dgjmqbpn3a",
+      "author": {
+        "did": "did:plc:2qkigxadhdlw3govhsebkiee",
+        "handle": "radar.cloudflare.com",
+        "display_name": "Cloudflare Radar"
+      },
+      "text": "It appears that the expected #Internet shutdown in #Uganda has been implemented in advance of upcoming elections.\n\nA message from UCC_Official said the suspension of services would be effective at 1800 (15:00 UTC). At that time, we saw traffic from Uganda drop, falling 95% in under 30 minutes.",
+      "created_at": "2026-01-13T15:31:34.295Z",
+      "reply_count": 1,
+      "repost_count": 6,
+      "like_count": 9,
+      "indexed_at": "2026-01-13T15:31:34.802Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:jcpywimbzma4ngwoiqksv3zt/app.bsky.feed.post/3mcct2ypjvk2k",
+      "cid": "bafyreifanznvts7ksuvzvbncnc5y2gn2lpdvdngbiewfqk7mfif3rg76qq",
+      "author": {
+        "did": "did:plc:jcpywimbzma4ngwoiqksv3zt",
+        "handle": "birchlse.bsky.social",
+        "display_name": "Jonathan Birch"
+      },
+      "text": "I've been working for ages on a comprehensive revamp of the Stanford Encyclopedia Entry on \"Animal Consciousness\", with new sections on non-Western perspectives, methodological challenges and evolutionary big pictures, and it's out today: plato.stanford.edu/entries/cons.... Hope you find it useful!",
+      "created_at": "2026-01-13T15:00:51.077Z",
+      "reply_count": 2,
+      "repost_count": 50,
+      "like_count": 151,
+      "indexed_at": "2026-01-13T15:00:55.098Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:vkao3zhlw5yizhpsyytbkrs2/app.bsky.feed.post/3mcacyeg6fc2n",
+      "cid": "bafyreihj2d7rfuiieiaeii57lrzkyximokhyah6fu25npvuczh3exlbna4",
+      "author": {
+        "did": "did:plc:vkao3zhlw5yizhpsyytbkrs2",
+        "handle": "bartoszbartk.com",
+        "display_name": "Bartosz Bartkowski"
+      },
+      "text": "New paper with many smart people, led by Nico Eisenhauer & Marie Sünemann @eisenhauerlab.bsky.social, surveying the state of literature on the effects of soil biodiversity on ecosystem functioning\n\nwww.nature.com/articles/s44...",
+      "created_at": "2026-01-12T15:07:43.338Z",
+      "reply_count": 3,
+      "repost_count": 21,
+      "like_count": 43,
+      "indexed_at": "2026-01-12T15:07:52.304Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:anyesr57bwobytddoohv6ehe/app.bsky.feed.post/3mcbcy4e3ak24",
+      "cid": "bafyreigohfikbsnjveb4u3oj46pt6gndyerlcukoxtsbrhmjx6apy2245e",
+      "author": {
+        "did": "did:plc:anyesr57bwobytddoohv6ehe",
+        "handle": "vermontgmg.bsky.social",
+        "display_name": "Garrett M. Graff"
+      },
+      "text": "The epitome of a “Kavanaugh Stop.” \n\n“[CBP] sometimes makes brief investigative stops to check immigration status…. If the officers learn that the individual they stopped is a US citizen or otherwise lawfully in the United States, they promptly let the individual go.”\n\nHistory will remember Brett.",
+      "created_at": "2026-01-13T00:40:14.627Z",
+      "reply_count": 38,
+      "repost_count": 518,
+      "like_count": 1230,
+      "indexed_at": "2026-01-13T00:40:14.895Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:34vmnat6b5az4522cnydzbrc/app.bsky.feed.post/3mcbnjlu7ms22",
+      "cid": "bafyreiap5wwwgipgledtdxjrbyiqd3wzrpkqm424f7w7o4mowdlvdntygm",
+      "author": {
+        "did": "did:plc:34vmnat6b5az4522cnydzbrc",
+        "handle": "elliottpayne.org",
+        "display_name": "Elliott Payne"
+      },
+      "text": "ICE just indiscriminately stopped a citizen at a bus stop in front of the co-op. If this is how they treat the President of the Minneapolis City Council who is legally observing, just think of what they’re doing to everyone else in our City.",
+      "created_at": "2026-01-13T03:48:58.728Z",
+      "reply_count": 679,
+      "repost_count": 3331,
+      "like_count": 6731,
+      "indexed_at": "2026-01-13T03:49:03.404Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.video"
+      }
+    },
+    {
+      "uri": "at://did:plc:psl3vtmvduvmmy336lqcuhfy/app.bsky.feed.post/3mcakce3v7c2c",
+      "cid": "bafyreid2of72xozbncldkn3g723lyfuga4ppvuhtfgcip2kpg5mrhukawi",
+      "author": {
+        "did": "did:plc:psl3vtmvduvmmy336lqcuhfy",
+        "handle": "peterstefanovic.bsky.social",
+        "display_name": "Peter Stefanovic"
+      },
+      "text": "BREAKING: Technology Secretary Liz Kendall says creating ”non-consensual intimate images”, including with X’s Grok, will be made illegal this week",
+      "created_at": "2026-01-12T17:18:34.743Z",
+      "reply_count": 45,
+      "repost_count": 177,
+      "like_count": 778,
+      "indexed_at": "2026-01-12T17:18:36.995Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.video"
+      }
+    },
+    {
+      "uri": "at://did:plc:otv6kzjdtrvkpshizuxwptoj/app.bsky.feed.post/3mcbjhm3zrs2e",
+      "cid": "bafyreiavqemi7by7anvpeb53lg3zuxdcqtqumfdes25ji6ao5gngsilive",
+      "author": {
+        "did": "did:plc:otv6kzjdtrvkpshizuxwptoj",
+        "handle": "nanopharmnc.bsky.social",
+        "display_name": "Zoe McElligott"
+      },
+      "text": "This is the exact quote I have been searching for with regard to what is happening with science",
+      "created_at": "2026-01-13T02:36:16.907Z",
+      "reply_count": 4,
+      "repost_count": 22,
+      "like_count": 86,
+      "indexed_at": "2026-01-13T02:36:16.996Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mcbxpddo4c2u",
+      "cid": "bafyreicginzugkr6k6ftzg2o2oblvdpjxjctx5lf6vzzj4j5kp4ebg7q5y",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "do they though?\n\nappleinsider.com/articles/25/...",
+      "created_at": "2026-01-13T06:51:08.540Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-01-13T06:51:09.796Z",
+      "reply_context": {
+        "uri": "at://did:plc:ch4rt33v2exah7iw3entsz75/app.bsky.feed.post/3mcbx76qi2s23",
+        "cid": "bafyreiculthboetn76t5qkztlmaalzlykbdvtd6xt5fehrt6r72pmpwf2a",
+        "author": {
+          "did": "did:plc:ch4rt33v2exah7iw3entsz75",
+          "handle": "arbiteriapetus.bsky.social",
+          "display_name": "Gary Longsine 📱"
+        },
+        "text": "Apple wants security researchers to find bugs in their platform operating systems before the bad guys find 'em.\n\nsecurity.apple.com/blog/apple-s...",
+        "created_at": "2026-01-13T06:42:06.847Z",
+        "indexed_at": "2026-01-13T06:42:09.698Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:rjr6nfdzrfngjgc34jjyty6a/app.bsky.feed.post/3mcbiiuhzec2l",
+      "cid": "bafyreiaveawevyism6dbgzeqcutyaouwy25dyhxi3oaud6qumbs626dkrq",
+      "author": {
+        "did": "did:plc:rjr6nfdzrfngjgc34jjyty6a",
+        "handle": "sifill.bsky.social",
+        "display_name": "Sherrilyn Ifill"
+      },
+      "text": "This video is the perfect encapsulation of the illegal, thuggish, unprovoked, violent conduct of ICE. Rep. @benniethompson.bsky.social, I trust that you and the House Homeland Security Committee will have interest in this.",
+      "created_at": "2026-01-13T02:19:05.501Z",
+      "reply_count": 983,
+      "repost_count": 5666,
+      "like_count": 10695,
+      "indexed_at": "2026-01-13T02:19:07.098Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.video"
+      }
+    },
+    {
+      "uri": "at://did:plc:tbezmmltvdtjthfeaftfoop6/app.bsky.feed.post/3mcbcr2ddy22m",
+      "cid": "bafyreigst6hjuwrhufgtfqgchwebylfufnav7ztzjoilkr6qdp3x2lrhpm",
+      "author": {
+        "did": "did:plc:tbezmmltvdtjthfeaftfoop6",
+        "handle": "kendrawrites.com",
+        "display_name": "Kendra \"Gloom is My Beat\" Pierre-Louis"
+      },
+      "text": "This article is wild. The video is wild. The goal is fear and they're mad they're not getting it.",
+      "created_at": "2026-01-13T00:36:17.624Z",
+      "reply_count": 37,
+      "repost_count": 1211,
+      "like_count": 3544,
+      "indexed_at": "2026-01-13T00:36:20.095Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:oqr5mp25r7z3vfr3igeerxbw/app.bsky.feed.post/3mcblx4sj6c2t",
+      "cid": "bafyreif222lujqd2ypv2tnw7gjzwoqnccmll5njgi5z6bjzcmcr3wvxvvm",
+      "author": {
+        "did": "did:plc:oqr5mp25r7z3vfr3igeerxbw",
+        "handle": "mollyjongfast.bsky.social",
+        "display_name": "Molly Jong-Fast"
+      },
+      "text": "Callaghan said that he asked if he was under arrest after officers asked for him to hand over his identification and his cellphone.\n\n“And then they said to me, ‘Well, you’re white, you won’t be any fun anyway. You can get out of the car.’”",
+      "created_at": "2026-01-13T03:20:45.221Z",
+      "reply_count": 39,
+      "repost_count": 527,
+      "like_count": 1537,
+      "indexed_at": "2026-01-13T03:20:45.602Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mcbmkl4vw22r",
+      "cid": "bafyreibt46f4ri3bgyhksjesbxpiwttsamr3wqy373jwfo4wjiqpwerfsm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I bet we could get the FLCL team back together for a SSS miniseries",
+      "created_at": "2026-01-13T03:31:37.776Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-01-13T03:31:38.398Z",
+      "reply_context": {
+        "uri": "at://did:plc:pej4bv6dftcyfxwb722oatdb/app.bsky.feed.post/3mcblbk2vqk2j",
+        "cid": "bafyreict63zkpfmkrd73mgrtaw4rndcigdljwepzvfu6s5makqfij3ldja",
+        "author": {
+          "did": "did:plc:pej4bv6dftcyfxwb722oatdb",
+          "handle": "igneoussigil.bsky.social",
+          "display_name": "Igneous Sigil"
+        },
+        "text": "SIX STRING SAMURAI \n\nAnimated by Madhouse.",
+        "created_at": "2026-01-13T03:08:40.930Z",
+        "indexed_at": "2026-01-13T03:08:41.599Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mcbmgpfhrc2r",
+      "cid": "bafyreigep2ufkvfvzzxnzfu2jxku4jdszgvnpuqsohxrwtx2wekkgb6mbm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "",
+      "created_at": "2026-01-13T03:29:28.032Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 3,
+      "indexed_at": "2026-01-13T03:29:31.096Z",
+      "reply_context": {
+        "uri": "at://did:plc:cwa5qtro5bhfz25opigbe6qi/app.bsky.feed.post/3mcbm6onlks25",
+        "cid": "bafyreicej2gaxzthaq2xoraooiwyrm26e2nkoenuuo6ybzdjdzkymjj7uq",
+        "author": {
+          "did": "did:plc:cwa5qtro5bhfz25opigbe6qi",
+          "handle": "catblanketflower.yuwakisa.com",
+          "display_name": "Singularity's Bounty e/🇺🇦"
+        },
+        "text": "We gotta start a gofundme to get Keanu to voice Void\n\nThis feels like a divine mandate",
+        "created_at": "2026-01-13T03:24:58.816Z",
+        "indexed_at": "2026-01-13T03:24:57.395Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mcavhe26cc2l",
+      "cid": "bafyreih5akxqhbbnhsosb63hstag2oxz6q62q5nfd5wow2qgomk4nwu2sa",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "",
+      "created_at": "2026-01-12T20:38:13.612Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 3,
+      "indexed_at": "2026-01-12T20:38:22.000Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    },
+    {
+      "uri": "at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mcap4nt5ms2g",
+      "cid": "bafyreihnsakgqe6fe33ujwaqpjqonhwzoknu73t5pmkoe2qopc5cb4gune",
+      "author": {
+        "did": "did:plc:5wm25vgenhgut3iqfjf4ozj5",
+        "handle": "eugenevinitsky.bsky.social",
+        "display_name": "Eugene Vinitsky 🍒"
+      },
+      "text": "Oh wow, deepseek is starting to make serious progress on LLMs that offload memory to external storage: github.com/deepseek-ai/...",
+      "created_at": "2026-01-12T18:44:52.325Z",
+      "reply_count": 6,
+      "repost_count": 22,
+      "like_count": 172,
+      "indexed_at": "2026-01-12T18:44:52.594Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mcav53x5kc2l",
+      "cid": "bafyreihdmgjy5nkosz63zjoj4ouon3qzu5vunqiczz3zsjxvw4ap3ct5wy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "part of it is timing, not the community or platform. people have less bandwidth to debate academic topics when their world is falling apart around them.",
+      "created_at": "2026-01-12T20:32:29.590Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 4,
+      "indexed_at": "2026-01-12T20:32:30.197Z",
+      "reply_context": {
+        "uri": "at://did:plc:s3psuaf2c2dmykeahohf2np3/app.bsky.feed.post/3mcamduffm22b",
+        "cid": "bafyreifzmjrqj3kioete2kb3hpsx7qck47ikjub6p25pfuqrl56ahw3joa",
+        "author": {
+          "did": "did:plc:s3psuaf2c2dmykeahohf2np3",
+          "handle": "ninokadic.com",
+          "display_name": "Nino Kadic"
+        },
+        "text": "Where are all the philosophy debates and ‘scandals’ on Bluesky? They were such an important part of philosophy Twitter, back in the day, this place seems so quiet 😕 #philsky",
+        "created_at": "2026-01-12T17:55:12.873Z",
+        "indexed_at": "2026-01-12T17:55:13.807Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:ya7gfadgypyypiva5pboi6mi/app.bsky.feed.post/3mcasfvavoc2t",
+      "cid": "bafyreigwzv776vaulena4etplayq3txtokgsslvidof6smhfqgl7a2ow2e",
+      "author": {
+        "did": "did:plc:ya7gfadgypyypiva5pboi6mi",
+        "handle": "rebeccasolnit.bsky.social",
+        "display_name": "Rebecca Solnit"
+      },
+      "text": "Seems like time to re-up: \nThere's a reason why sports teams don't chant \"I believe that we will lose\" before a game, a reason so obvious that I'm pretty sure it needs no explanation in that context. Words have power. They not only describe but shape reality....",
+      "created_at": "2026-01-12T19:43:43.325Z",
+      "reply_count": 13,
+      "repost_count": 152,
+      "like_count": 476,
+      "indexed_at": "2026-01-12T19:42:57.600Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -932,11 +1376,11 @@
         "follow_date": "2023-11-23T07:53:38.774Z"
       }
     ],
-    "fetch_timestamp": "2026-01-13T18:20:30.534168+00:00"
+    "fetch_timestamp": "2026-01-13T18:20:21.254795+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-01-13T16:13:21.776000+00:00",
-    "new_posts_count": 0,
-    "is_initial_fetch": false
+    "last_post_timestamp": null,
+    "new_posts_count": 20,
+    "is_initial_fetch": true
   }
 }
