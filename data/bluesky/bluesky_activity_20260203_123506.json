@@ -1,7 +1,36 @@
 {
-  "fetch_timestamp": "2026-02-03T12:35:06.904321+00:00",
+  "fetch_timestamp": "2026-02-03T12:34:54.411704+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mdwqzornxs2i",
+      "cid": "bafyreihspgjx3n7w6tkj6este4xqsdmjsmdvq4cw5ofmzxcxf7jomrbslq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "(I mean like... just take care of that part yourself, ya derp)",
+      "created_at": "2026-02-03T06:42:46.018Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-02-03T06:42:46.691Z",
+      "reply_context": {
+        "uri": "at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3mdwqxawrxk2o",
+        "cid": "bafyreiaoiipoitiefflyhcylircgfwvli4fpiyib6c4aq5v562lbo5ybam",
+        "author": {
+          "did": "did:plc:vszw3ess46odfhnzdsy4huae",
+          "handle": "segyges.bsky.social",
+          "display_name": "SE Gyges"
+        },
+        "text": "yeah, that needs to be in the instructions otherwise it's always like \"Hey here's this exact version number i remember for this thing\"",
+        "created_at": "2026-02-03T06:41:24.398Z",
+        "indexed_at": "2026-02-03T06:41:24.993Z"
+      },
+      "is_reply": true
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1244,11 +1273,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-02-03T12:35:07.554803+00:00"
+    "fetch_timestamp": "2026-02-03T12:34:55.522958+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-02-03T06:42:46.018000+00:00",
-    "new_posts_count": 0,
+    "last_post_timestamp": "2026-02-03T06:37:32.816000+00:00",
+    "new_posts_count": 1,
     "is_initial_fetch": false
   }
 }
