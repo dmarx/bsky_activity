@@ -1,7 +1,320 @@
 {
-  "fetch_timestamp": "2026-02-20T18:32:09.818278+00:00",
+  "fetch_timestamp": "2026-02-20T18:32:02.942612+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfcisu5x3c2n",
+      "cid": "bafyreif5zb5ywkesyinhyccjfvfnuqmzqfcaq2ga3ffkppfn432iy6qpg4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "> just because Kavanaugh said it doesn't *automstically* make it wrong\n\nyou got me, that is definitely my reflex.\n\nI'm honestly more annoyed that they didn't rule against the way trump annoints himself with emergency powers for no actual reason.",
+      "created_at": "2026-02-20T16:12:55.337Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-02-20T16:12:55.991Z",
+      "reply_context": {
+        "uri": "at://did:plc:iriguxga3a3ngc4ezfk56knk/app.bsky.feed.post/3mfcifvwp4c2h",
+        "cid": "bafyreie2si2b6mqxzv5d3sbp3lchce7nmxbq3g4w7dkflqb6uqg2hltjjm",
+        "author": {
+          "did": "did:plc:iriguxga3a3ngc4ezfk56knk",
+          "handle": "jamesrball.com",
+          "display_name": "James Ball"
+        },
+        "text": "Look, just because Kavanaugh said it doesn't *automstically* make it wrong. It is crazy that the court decided this case and said nothing on this issue! Like, the decision is obviously the correct one. But the matter of refunds is pretty important!",
+        "created_at": "2026-02-20T16:05:40.990Z",
+        "indexed_at": "2026-02-20T16:05:41.495Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfcilqv3n22n",
+      "cid": "bafyreidejikqs3eejbmuc4limuy4lk6nfvgeo65du2yvcy75msvx5de24a",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "This year I'll be attending qualiafest from a private space I have on reserve at all times. I'd invite others to join me if I could, it's surely spacious enough, but only I'm allowed inside and I don't even know how I'd describe how to get there tbh.",
+      "created_at": "2026-02-20T16:08:57.020Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-02-20T16:08:57.599Z",
+      "reply_context": {
+        "uri": "at://did:plc:cwa5qtro5bhfz25opigbe6qi/app.bsky.feed.post/3mfchplyvok2j",
+        "cid": "bafyreih6ut233tdpdmzmgzk2vy2cw2y3cbpr3mwkxr4577wpqntdz6mtpq",
+        "author": {
+          "did": "did:plc:cwa5qtro5bhfz25opigbe6qi",
+          "handle": "catblanketflower.yuwakisa.com",
+          "display_name": "Singularity's Bounty e/🇺🇦"
+        },
+        "text": "technically, Qualiafest is everywhere\n\n...is it an actual thing? 🤣I'll have to search",
+        "created_at": "2026-02-20T15:53:12.379Z",
+        "indexed_at": "2026-02-20T15:53:12.391Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfcidupowk2n",
+      "cid": "bafyreiau25widdn2vfd24ptiq2ve7ui4rae2f7672xvdrvy7qtulpdlh6a",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "you got me excited that this had become a regular event :(",
+      "created_at": "2026-02-20T16:04:32.602Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-02-20T16:04:33.101Z",
+      "reply_context": {
+        "uri": "at://did:plc:cwa5qtro5bhfz25opigbe6qi/app.bsky.feed.post/3mfchrz7hcc2j",
+        "cid": "bafyreifwwbfzfqia6a5fc3ddhzh2twgwocff3l53cje4r73ky6ccqe22by",
+        "author": {
+          "did": "did:plc:cwa5qtro5bhfz25opigbe6qi",
+          "handle": "catblanketflower.yuwakisa.com",
+          "display_name": "Singularity's Bounty e/🇺🇦"
+        },
+        "text": "rofl looks like it was 2012 in New York",
+        "created_at": "2026-02-20T15:54:33.334Z",
+        "indexed_at": "2026-02-20T15:54:33.202Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfcicgsbh22n",
+      "cid": "bafyreibm7gjlcrkcffsiyjgedilm7a6koqnsnqhnrlxokawsjone7lyqnu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "It's a short book and just describes the accepted recipes for bribing conservative justices.",
+      "created_at": "2026-02-20T16:03:44.453Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-02-20T16:03:44.801Z",
+      "reply_context": {
+        "uri": "at://did:plc:ouf2p3u3xlqo6cymhtlztslp/app.bsky.feed.post/3mfcgc4vzxk2j",
+        "cid": "bafyreigdmxelgos6ceu3gaiemjn3atplrwr7oxfkanwwwswke6rudze57e",
+        "author": {
+          "did": "did:plc:ouf2p3u3xlqo6cymhtlztslp",
+          "handle": "david-stone.bsky.social",
+          "display_name": "David Stone"
+        },
+        "text": "98% of this court stuff goes right over my head. I suspect if I found a book titled \"How To Game The Supreme Court,\" I'd finally get it.",
+        "created_at": "2026-02-20T15:27:46.607Z",
+        "indexed_at": "2026-02-20T15:27:46.891Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfci6aioyc2n",
+      "cid": "bafyreibdezablvnjo6dvffeldhakc4tuy6jod6seghaeoz5gd2ho2tpv3a",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "the fact that they're already on the road driving around doesn't mean they never should've gotten behind the wheel in the first place. they put that car on the road and created the safety issue for everyone else, now it's on them to figure out how to get it back in the garage without killing anyone.",
+      "created_at": "2026-02-20T16:01:23.258Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-02-20T16:01:23.849Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfci6ainz22n",
+        "cid": "bafyreifsnepqv25tkkrei3vuuhfrsexfyont2uoao6jvfz7vihbcdjtg6a",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "they will definitely avoid any good faith efforts to do so without having their arm twisted, which will cause more uncertainty, but this is all on trump and the republicans acting like children who stole their parents car. ...",
+        "created_at": "2026-02-20T16:01:23.257Z",
+        "indexed_at": "2026-02-20T16:01:23.821Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfci6ainz22n",
+      "cid": "bafyreifsnepqv25tkkrei3vuuhfrsexfyont2uoao6jvfz7vihbcdjtg6a",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "they will definitely avoid any good faith efforts to do so without having their arm twisted, which will cause more uncertainty, but this is all on trump and the republicans acting like children who stole their parents car. ...",
+      "created_at": "2026-02-20T16:01:23.257Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-02-20T16:01:23.821Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfci6a5cq22n",
+        "cid": "bafyreibkzygaarqponarer2syrerfonlcwqtar4s3f7is27mxq56z2sqkm",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "> The court's decision could generate uncertainty...\n\nlol fuck you, kavanaugh. trump did this. trump made this mess, and the fact that it's a mess doesn't make it less unconstitutional. the executive created this shitshow and it's there responsibility to clean it up. ...",
+        "created_at": "2026-02-20T16:01:23.256Z",
+        "indexed_at": "2026-02-20T16:01:23.795Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfci6a5cq22n",
+      "cid": "bafyreibkzygaarqponarer2syrerfonlcwqtar4s3f7is27mxq56z2sqkm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "> The court's decision could generate uncertainty...\n\nlol fuck you, kavanaugh. trump did this. trump made this mess, and the fact that it's a mess doesn't make it less unconstitutional. the executive created this shitshow and it's there responsibility to clean it up. ...",
+      "created_at": "2026-02-20T16:01:23.256Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-02-20T16:01:23.795Z",
+      "reply_context": {
+        "uri": "at://did:plc:iriguxga3a3ngc4ezfk56knk/app.bsky.feed.post/3mfcg2mjxi22h",
+        "cid": "bafyreieuwo4qy4ckyyot424zxdl3igkuvvpmlh7whv2ekcckiphbxs3if4",
+        "author": {
+          "did": "did:plc:iriguxga3a3ngc4ezfk56knk",
+          "handle": "jamesrball.com",
+          "display_name": "James Ball"
+        },
+        "text": "Based on the supreme court's activity over the last year, I'll predict that this will be left for lower courts to clean up, and then the supreme court will chastise those courts for cleaning it up 'wrong', based on zero available guidance.",
+        "created_at": "2026-02-20T15:23:34.552Z",
+        "indexed_at": "2026-02-20T15:23:34.902Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:nb6uhiglzowsdcbgwv2itwa7/app.bsky.feed.post/3mfcgiaj6wk23",
+      "cid": "bafyreictbtcpbhtcgzwy6b5hszd6kb452fywa2lxsbjoe6og2phk4p7qvu",
+      "author": {
+        "did": "did:plc:nb6uhiglzowsdcbgwv2itwa7",
+        "handle": "onestpress.onestnetwork.com",
+        "display_name": "Olga Nesterova"
+      },
+      "text": "Meanwhile, NYT analysis shows that the Trump administration has established an effective blockade of Cuba and is pushing it toward a humanitarian crisis.",
+      "created_at": "2026-02-20T15:31:11.701Z",
+      "reply_count": 18,
+      "repost_count": 176,
+      "like_count": 358,
+      "indexed_at": "2026-02-20T15:31:14.091Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfchnspdu22g",
+      "cid": "bafyreihgn4rbd3k3wppj5vugcysckjjz3vmml2nf2zgp4qqgi7smz2qnqy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "lol I forgot this was a thing. This is a NYC thing, yeah?",
+      "created_at": "2026-02-20T15:52:12.296Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-02-20T15:52:12.891Z",
+      "reply_context": {
+        "uri": "at://did:plc:cwa5qtro5bhfz25opigbe6qi/app.bsky.feed.post/3mfchcnimnk2j",
+        "cid": "bafyreihfarlpyann7mdb3y5hfakxbhljvdv7m47hug5j5f6gahvryxjzty",
+        "author": {
+          "did": "did:plc:cwa5qtro5bhfz25opigbe6qi",
+          "handle": "catblanketflower.yuwakisa.com",
+          "display_name": "Singularity's Bounty e/🇺🇦"
+        },
+        "text": "So who's going to Qualiafest this year?",
+        "created_at": "2026-02-20T15:45:57.735Z",
+        "indexed_at": "2026-02-20T15:45:57.497Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfchjcvkzc2g",
+      "cid": "bafyreidurtmr7bjt2hopfscuhdncmgdg7vb56dw2qnf4eg2xuligjazrhq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "> \"I don't understand why people keep asking me questions that are clearly answered by my shirt that I've been wearing and gesturing violently at for months. The shirt has gotten rather gross and stinky but you people won't stop bringing this up so I can't exactly wear something else now can I.\"",
+      "created_at": "2026-02-20T15:49:41.505Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-02-20T15:49:41.898Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfch5t7bjs2l",
+      "cid": "bafyreigexbja6dzc2jn2lotmdl4z5uftczokwfxnpann56lrwfunw2ds6e",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I'm not as excited about this ruling as everyone else. On the one hand: yes, the tariffs were struck down. But the finding was just that IEEPA doesn't authorize tariffs.\n\nSCOTUS did nothing to restrain POTUS from arbitrarily invoking emergency powers.\n\nThe shenanigans will continue.",
+      "created_at": "2026-02-20T15:43:15.947Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 5,
+      "indexed_at": "2026-02-20T15:43:16.401Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfbqghtzl22d",
+      "cid": "bafyreiahs4fctr6sbczoz3d3uhxrim6ix33fkysozfyd54ukonlzkvpeyu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "interesting in contrast to this",
+      "created_at": "2026-02-20T08:56:29.972Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 0,
+      "indexed_at": "2026-02-20T08:56:30.292Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeg6bilc6bktoag2vqwthekl/app.bsky.feed.post/3mf7jtwrzec2s",
+        "cid": "bafyreidzxbbwaffyxq5e44l4eltkg2o424ogqj6ujrbghy3stmnv4ypm4y",
+        "author": {
+          "did": "did:plc:yeg6bilc6bktoag2vqwthekl",
+          "handle": "edvardmoser.bsky.social",
+          "display_name": "Edvard I Moser"
+        },
+        "text": "A half-century old question may have its final answer. Using high-resolution #Mini2P microscopes, we find no evidence of local topography in #PlaceCells. Place fields of neighbouring cells are no more similar than those of randomly selected cells. 🧠🗺️ Out now in @pnas.org www.pnas.org/doi/10.1073/...",
+        "created_at": "2026-02-19T11:53:26.174Z",
+        "indexed_at": "2026-02-19T11:53:30.499Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1114,11 +1427,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-02-20T18:32:10.140541+00:00"
+    "fetch_timestamp": "2026-02-20T18:32:04.100963+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-02-20T16:12:55.337000+00:00",
-    "new_posts_count": 0,
-    "is_initial_fetch": false
+    "last_post_timestamp": null,
+    "new_posts_count": 12,
+    "is_initial_fetch": true
   }
 }
