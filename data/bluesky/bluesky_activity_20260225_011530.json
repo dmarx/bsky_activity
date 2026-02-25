@@ -1,7 +1,161 @@
 {
-  "fetch_timestamp": "2026-02-25T01:15:32.749255+00:00",
+  "fetch_timestamp": "2026-02-25T01:15:20.914367+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfn6sho3ek25",
+      "cid": "bafyreifo75ndie4d2hckz2elf5djbjpmrxumettexbw5h2r7k55t2b5twu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "ah, that makes way more sense, thanks.",
+      "created_at": "2026-02-24T22:13:01.939Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-02-24T22:13:05.102Z",
+      "reply_context": {
+        "uri": "at://did:plc:wpmjxtcukkrgejxmdtivjdyc/app.bsky.feed.post/3mfn5utdngk2e",
+        "cid": "bafyreiho4ro5nyrc2b6qjtmbluci3wx7rw3yegqnkx5ebg4fqksihg2aba",
+        "author": {
+          "did": "did:plc:wpmjxtcukkrgejxmdtivjdyc",
+          "handle": "3l8.bsky.social",
+          "display_name": "your little friend"
+        },
+        "text": "so the plaintiffs aren't asking the court to explain why it hasn't held the gov't in contempt, they're asking the court to ask the gov't to explain why it shouldn't be held in contempt",
+        "created_at": "2026-02-24T21:56:27.320Z",
+        "indexed_at": "2026-02-24T21:56:27.928Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfn5i56syk2d",
+      "cid": "bafyreifsyjsbnhwftgaaflfqbaqeooqkledlmjzce56l32wlujomfyr3uq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "congrats on the big win! what's the deadline on the ordered compliance for releasing that footage? I'd ask \"when are you expecting to see it\" but that's not really a fair question given the legal calvinball we keep seeing adjacent to anything LEO these days.",
+      "created_at": "2026-02-24T21:49:21.667Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 5,
+      "indexed_at": "2026-02-24T21:49:22.294Z",
+      "reply_context": {
+        "uri": "at://did:plc:ejihld4sywvvqwe67cdkn4jq/app.bsky.feed.post/3mfn5bny6dc2s",
+        "cid": "bafyreibipqmnf7xxb7jfyinbu5gp6ysgogvcsr6s3b2ygexddeapuviuoq",
+        "author": {
+          "did": "did:plc:ejihld4sywvvqwe67cdkn4jq",
+          "handle": "marisakabas.bsky.social",
+          "display_name": "Marisa Kabas"
+        },
+        "text": "Just last week I won my lawsuit against DC MPD with the judge ruling they must release all body cam footage from the response to DOGE's raid on the US Institute of Peace. Wonder if it's related?",
+        "created_at": "2026-02-24T21:45:44.393Z",
+        "indexed_at": "2026-02-24T21:45:44.600Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:ejihld4sywvvqwe67cdkn4jq/app.bsky.feed.post/3mfn5bny6dc2s",
+      "cid": "bafyreibipqmnf7xxb7jfyinbu5gp6ysgogvcsr6s3b2ygexddeapuviuoq",
+      "author": {
+        "did": "did:plc:ejihld4sywvvqwe67cdkn4jq",
+        "handle": "marisakabas.bsky.social",
+        "display_name": "Marisa Kabas"
+      },
+      "text": "Just last week I won my lawsuit against DC MPD with the judge ruling they must release all body cam footage from the response to DOGE's raid on the US Institute of Peace. Wonder if it's related?",
+      "created_at": "2026-02-24T21:45:44.393Z",
+      "reply_count": 6,
+      "repost_count": 132,
+      "like_count": 737,
+      "indexed_at": "2026-02-24T21:45:44.600Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfn3spsbys2j",
+      "cid": "bafyreib2ckhqnq4tzrwxdacpi7xyu3wjfmizkmgcgo2d3wx2mw6ncv7ckm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Rather than directly calling for a contempt holding, they're asking the court to articulate why they have not as yet held the government in contempt.\n\nI'm guessing this is because a contempt finding is the court's prerogative, so procedurally it's not something the defense can ask for directly?",
+      "created_at": "2026-02-24T21:19:29.238Z",
+      "reply_count": 2,
+      "repost_count": 1,
+      "like_count": 10,
+      "indexed_at": "2026-02-24T21:19:30.696Z",
+      "reply_context": {
+        "uri": "at://did:plc:t4x2ruk2qmob2b2cx55h4v7r/app.bsky.feed.post/3mfmyoqpdv22w",
+        "cid": "bafyreidy5sjcp7gvobp4sfb6o66vdhz7onuvusydzzzcz45b3rsi2ywm5i",
+        "author": {
+          "did": "did:plc:t4x2ruk2qmob2b2cx55h4v7r",
+          "handle": "annabower.bsky.social",
+          "display_name": "Anna Bower"
+        },
+        "text": "Lawyers for the children are seeking to hold the government in civil contempt for allegedly violating the judge’s injunction barring removal of certain unaccompanied children. \n\nRead the motion: storage.courtlistener.com/recap/gov.us...\n\nBackground here: www.lawfaremedia.org/article/the-...",
+        "created_at": "2026-02-24T20:23:34.748Z",
+        "indexed_at": "2026-02-24T20:23:35.892Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mfmvlpj6xc2m",
+      "cid": "bafyreigm6sptkf6kmkx2moasmgwkrcifkm7hffhdtnkde2xyu75srf6ngq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "gross. but not surprising given they were partying with patel.",
+      "created_at": "2026-02-24T19:28:11.610Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-02-24T19:28:11.895Z",
+      "reply_context": {
+        "uri": "at://did:plc:jbbwpfbzjpcseza77v2qfg75/app.bsky.feed.post/3mfmvitysx22q",
+        "cid": "bafyreihzymeor53upoyj3kdpooadoff53zq3rcnx5qljf4wldowzj72ccq",
+        "author": {
+          "did": "did:plc:jbbwpfbzjpcseza77v2qfg75",
+          "handle": "kelseyreichmann.bsky.social",
+          "display_name": "Kelsey Reichmann"
+        },
+        "text": "Pool reports that the U.S. Men's Hockey Team has arrived at the White House",
+        "created_at": "2026-02-24T19:26:35.653Z",
+        "indexed_at": "2026-02-24T19:26:35.992Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:4q4ziw4qk2hxxaxfu7jweuey/app.bsky.feed.post/3mfmvj2ani22e",
+      "cid": "bafyreiftj26enin7gjoa5bd33aldbtw4mu5z3lhamz36zblrnkbntnctrq",
+      "author": {
+        "did": "did:plc:4q4ziw4qk2hxxaxfu7jweuey",
+        "handle": "mollyploofkins.bsky.social",
+        "display_name": "Molly Ploofkins"
+      },
+      "text": "Do you support AOC’s decision to boycott Trump’s State of the Union address?",
+      "created_at": "2026-02-24T19:26:42.199Z",
+      "reply_count": 59,
+      "repost_count": 54,
+      "like_count": 433,
+      "indexed_at": "2026-02-24T19:26:51.292Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1062,11 +1216,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-02-25T01:15:33.493469+00:00"
+    "fetch_timestamp": "2026-02-25T01:15:22.262513+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-02-24T22:13:01.939000+00:00",
-    "new_posts_count": 0,
+    "last_post_timestamp": "2026-02-24T18:46:06.650000+00:00",
+    "new_posts_count": 6,
     "is_initial_fetch": false
   }
 }
