@@ -1,7 +1,36 @@
 {
-  "fetch_timestamp": "2026-03-30T12:53:01.389385+00:00",
+  "fetch_timestamp": "2026-03-30T12:52:56.956675+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mib6u2um322a",
+      "cid": "bafyreif2thxae75rv5nfwhutbsxr4adxveopfwns4pbn7d6p4gu54yg2jm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "good night, Europe.",
+      "created_at": "2026-03-30T07:57:33.653Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-03-30T07:57:34.194Z",
+      "reply_context": {
+        "uri": "at://did:plc:movn6xzezospl7lnkhy7nzpt/app.bsky.feed.post/3mib4dj5bds2g",
+        "cid": "bafyreibjw5zzxbfnee4s4oagjc5dujtgvwcblicezq23dqkziu3nbiajya",
+        "author": {
+          "did": "did:plc:movn6xzezospl7lnkhy7nzpt",
+          "handle": "chadbourn.bsky.social",
+          "display_name": "Mark Chadbourn"
+        },
+        "text": "Morning Bluesky.",
+        "created_at": "2026-03-30T07:12:30.705Z",
+        "indexed_at": "2026-03-30T07:12:32.592Z"
+      },
+      "is_reply": true
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -144,6 +173,19 @@
         "display_name": "Wataru Tenkawa",
         "created_at": "2024-09-04T10:11:11.564Z",
         "description": "Naturalized Japanese citizen from Michigan via San Francisco, car-free Tokyo resident since 1978, thriving on a no-mammals diet since 1970",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:cqh5uanhyx5maswmh4bqzqfe",
+        "handle": "heathercoxrichard2.bsky.social",
+        "display_name": "heather cox richardson",
+        "created_at": "2026-03-25T12:39:20.889Z",
+        "description": "I'm an American historian who lives with a lobsterman on the coast of Maine.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -867,11 +909,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-03-30T12:53:01.629027+00:00"
+    "fetch_timestamp": "2026-03-30T12:52:57.719507+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-03-30T07:57:33.653000+00:00",
-    "new_posts_count": 0,
+    "last_post_timestamp": "2026-03-30T07:14:53.727000+00:00",
+    "new_posts_count": 1,
     "is_initial_fetch": false
   }
 }
