@@ -1,7 +1,93 @@
 {
-  "fetch_timestamp": "2026-05-03T01:50:38.951057+00:00",
+  "fetch_timestamp": "2026-05-03T01:50:27.485774+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mkvplnu7fk2c",
+      "cid": "bafyreiartdqgakk3hf2idby3alzm4iwbmvzegv75mwldx6otd3nvqt7wiu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "seems like trump is surrounded by sex abusers, human traffickers, fraudsters, and mobsters. weird how that happens.",
+      "created_at": "2026-05-02T22:40:43.206Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-05-02T22:40:43.479Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mkvpjhteek2c",
+      "cid": "bafyreihxvgzr55obymkbm3bo2qhc4fan3mbvisedxlplcdwzp73jtoikci",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "neat trick",
+      "created_at": "2026-05-02T22:39:29.778Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 2,
+      "indexed_at": "2026-05-02T22:39:30.573Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mkvny2b42c2q",
+      "cid": "bafyreiauscaz6hazpf7ejsyuk2o7xgcqh4bab4wqbfwocbkevkgq47zy7y",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "9. Mandatory critical thinking courses for anyone who has voted republican at any level within the last decade",
+      "created_at": "2026-05-02T22:11:51.382Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-05-02T22:11:51.775Z",
+      "reply_context": {
+        "uri": "at://did:plc:x4g4laxkmsrczwvnvbbgsm7g/app.bsky.feed.post/3mkvg6wqrus2y",
+        "cid": "bafyreialfct7773phf3qd3kk7bndk3yrqnuirffpavhc2gwmu6kew7hd34",
+        "author": {
+          "did": "did:plc:x4g4laxkmsrczwvnvbbgsm7g",
+          "handle": "muellershewrote.com",
+          "display_name": "Mueller, She Wrote"
+        },
+        "text": "1. Flip the Senate this year\n2. Block all GOP SCOTUS nominations\n3. Hold the Senate and elect a Dem POTUS in 2028\n4. Kill the filibuster\n5. Pass HR1\n6. Pass 18 year term limits on SCOTUS\n7. Fill the 5 new vacancies with liberal justices\n8. Have nice things",
+        "created_at": "2026-05-02T19:52:32.648Z",
+        "indexed_at": "2026-05-02T19:52:32.973Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mkvnteycms2q",
+      "cid": "bafyreibgcrwafqu6hio37dbg4d5bc3dbvopo4y5kf2jhlonpgkhkrkzaeu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Just learned MosaicML's \"Composer\" library has this feature that every training framework should adopt.",
+      "created_at": "2026-05-02T22:09:14.854Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-05-02T22:09:16.773Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1010,11 +1096,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-05-03T01:50:39.554313+00:00"
+    "fetch_timestamp": "2026-05-03T01:50:28.856482+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-05-02T22:40:43.206000+00:00",
-    "new_posts_count": 0,
+    "last_post_timestamp": "2026-05-02T18:41:45.377000+00:00",
+    "new_posts_count": 4,
     "is_initial_fetch": false
   }
 }
