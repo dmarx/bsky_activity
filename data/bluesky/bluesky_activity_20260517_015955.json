@@ -1,7 +1,739 @@
 {
-  "fetch_timestamp": "2026-05-17T01:59:55.870091+00:00",
+  "fetch_timestamp": "2026-05-17T01:59:47.675408+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlyxwemszs2v",
+      "cid": "bafyreigcld7kjrsjeddoum2eelmn6kn262bfqouyfppn7nktywpyvf7ide",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "4) wear a different pair of pants",
+      "created_at": "2026-05-16T23:13:03.404Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-05-16T23:13:05.394Z",
+      "reply_context": {
+        "uri": "at://did:plc:nqi4h5dafsekwfuvxzzwqtq5/app.bsky.feed.post/3mlyxd23dgk2x",
+        "cid": "bafyreicvpsc3qicahs55lptntqq4npkofc7cq3z6w3yiqctvxfroh2yg5y",
+        "author": {
+          "did": "did:plc:nqi4h5dafsekwfuvxzzwqtq5",
+          "handle": "cjsprigman.bsky.social",
+          "display_name": "Chris Sprigman"
+        },
+        "text": "1) Paint legs white  2) White long johns  3) go shirtless to distract attention from legs.  www.nytimes.com/2026/05/11/f...",
+        "created_at": "2026-05-16T23:02:14.810Z",
+        "indexed_at": "2026-05-16T23:02:15.878Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlygi55nrc2y",
+      "cid": "bafyreif2nzuffwopg4ts2n6gxguaq2eifadwot4d4epsdtxcwzftnk55xy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I remember a bio prof in undergrad who would make us cite at least 15-20 references on our lab reports and didn't care if we'd read them or not. It was like they thought the purpose of citations was primarily to credit prior art rather than to communicate theory provenance.",
+      "created_at": "2026-05-16T18:00:52.193Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-05-16T18:00:52.677Z",
+      "reply_context": {
+        "uri": "at://did:plc:vhksxuzscmg5uokrkm4jeckh/app.bsky.feed.post/3mlusrgf7i22u",
+        "cid": "bafyreidpt4elyoqvdemz2v4fbwh4gxve2cqp5xmgm6fplawr6a6pwrg5te",
+        "author": {
+          "did": "did:plc:vhksxuzscmg5uokrkm4jeckh",
+          "handle": "hadas.bsky.social",
+          "display_name": "Hadas Weiss"
+        },
+        "text": "",
+        "created_at": "2026-05-15T07:30:09.814Z",
+        "indexed_at": "2026-05-15T07:30:13.173Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlyf5nzkp22z",
+      "cid": "bafyreig6oft2mz4nnnkzioedmyidilcdbvz2y77j5nmc6jael5rgavx5ba",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "This is the only framing under which I think your contention that those universities \"aren't controlled by the tech world\" is even coherent. Are any liberal universities \"controlled\" by \"the liberal world\"?",
+      "created_at": "2026-05-16T17:37:07.044Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-05-16T17:37:07.475Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlyf2mlggc2z",
+        "cid": "bafyreiddd7n3jg4lzt2c4mtir7ouqustb4jjjzvl7nonibk6tddpk7nelu",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "I think what's really going on here is that \"the tech world\" has become a shorthand for \"a handful of ignorant influential billionaires ruining the world\" rather than \"the general population of people who primarily work in the tech industry\"",
+        "created_at": "2026-05-16T17:35:24.869Z",
+        "indexed_at": "2026-05-16T17:35:25.175Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlyf2mlggc2z",
+      "cid": "bafyreiddd7n3jg4lzt2c4mtir7ouqustb4jjjzvl7nonibk6tddpk7nelu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I think what's really going on here is that \"the tech world\" has become a shorthand for \"a handful of ignorant influential billionaires ruining the world\" rather than \"the general population of people who primarily work in the tech industry\"",
+      "created_at": "2026-05-16T17:35:24.869Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-05-16T17:35:25.175Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlyewnj7bs2z",
+        "cid": "bafyreiceltxsl7ra65ss4loc7ojvoswj55a4vltsowjtovew5zngzudlni",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "They are however widely recognized as the most prestigious and reputable avenues to enter it. If they're the tech world's gatekeepers, the relationship seems from my perspective to be closer to them controlling the tech world rather than vice versa.",
+        "created_at": "2026-05-16T17:33:11.627Z",
+        "indexed_at": "2026-05-16T17:33:12.076Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlyewnj7bs2z",
+      "cid": "bafyreiceltxsl7ra65ss4loc7ojvoswj55a4vltsowjtovew5zngzudlni",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "They are however widely recognized as the most prestigious and reputable avenues to enter it. If they're the tech world's gatekeepers, the relationship seems from my perspective to be closer to them controlling the tech world rather than vice versa.",
+      "created_at": "2026-05-16T17:33:11.627Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-05-16T17:33:12.076Z",
+      "reply_context": {
+        "uri": "at://did:plc:pzxvo6f6clysxyqicm3y3bfa/app.bsky.feed.post/3mlyel6bmis2b",
+        "cid": "bafyreicavk3wjxm3wpihop2tfu4v33zhuu5m4tloxc2khpe57t35c5hmt4",
+        "author": {
+          "did": "did:plc:pzxvo6f6clysxyqicm3y3bfa",
+          "handle": "erikangner.com",
+          "display_name": "Erik Angner"
+        },
+        "text": "It’s a useful distinction but none of these universities is controlled by “the tech world”",
+        "created_at": "2026-05-16T17:26:46.551Z",
+        "indexed_at": "2026-05-16T17:26:46.978Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:qfwinostecndnbvwwunsmihi/app.bsky.feed.post/3mly6qjzcqs26",
+      "cid": "bafyreibcwg6ifm75kcpwljnkfqi3uapll7dfzhylcebtou2reaxwyt527y",
+      "author": {
+        "did": "did:plc:qfwinostecndnbvwwunsmihi",
+        "handle": "beijingpalmer.bsky.social",
+        "display_name": "BeijingPalmer"
+      },
+      "text": "Taiwan should not panic about Trump using Xi's language, because Trump literally parrots the last impressive-seeming person who spoke to him on the topic. It means nothing in the long term other than that Trump has no principles other than self-aggrandizement and racism, which we knew.",
+      "created_at": "2026-05-16T15:42:24.184Z",
+      "reply_count": 13,
+      "repost_count": 100,
+      "like_count": 695,
+      "indexed_at": "2026-05-16T15:42:24.672Z",
+      "reply_context": {
+        "uri": "at://did:plc:qfwinostecndnbvwwunsmihi/app.bsky.feed.post/3mly6o5qzv226",
+        "cid": "bafyreibesxrkzjtyvaghptdt2i3va56lccaowwe2d3giwncb5vklacyk5q",
+        "author": {
+          "did": "did:plc:qfwinostecndnbvwwunsmihi",
+          "handle": "beijingpalmer.bsky.social",
+          "display_name": "BeijingPalmer"
+        },
+        "text": "just gonna note that although the specifics have not been as bad as my hypothetical example, I called the 'Trump parrots Xi's language on Taiwan' thing before the meeting happened.",
+        "created_at": "2026-05-16T15:41:04.219Z",
+        "indexed_at": "2026-05-16T15:41:06.476Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlydra4bok2y",
+      "cid": "bafyreidvf2iqn7txpv5it3aye2gtcoz4zwtgoftcnaol5vuxsyxcjie6xu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "(the MIT Media *Lab)",
+      "created_at": "2026-05-16T17:12:16.059Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-05-16T17:12:16.472Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlydq2cwhk2y",
+        "cid": "bafyreidmsea2pqvas7je2mt4ldgdsyfpftcgbhivlpibmmkryfymyvpwoy",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "Counterpoints include:\n* the MIT Media\n* the MIT Philosophy department\n* the Stanford HCI lab\n* the Stanford Philosophy department (among the best in the world)\n* the CMU Philosophy department\n\nand on and on...\n\n-- MLE, BS Philosophy (Pitzer), MS Math/Stats (Georgetown)",
+        "created_at": "2026-05-16T17:11:36.265Z",
+        "indexed_at": "2026-05-16T17:11:36.703Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlydq2cwhk2y",
+      "cid": "bafyreidmsea2pqvas7je2mt4ldgdsyfpftcgbhivlpibmmkryfymyvpwoy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Counterpoints include:\n* the MIT Media\n* the MIT Philosophy department\n* the Stanford HCI lab\n* the Stanford Philosophy department (among the best in the world)\n* the CMU Philosophy department\n\nand on and on...\n\n-- MLE, BS Philosophy (Pitzer), MS Math/Stats (Georgetown)",
+      "created_at": "2026-05-16T17:11:36.265Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-05-16T17:11:36.703Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlydq25ue22y",
+        "cid": "bafyreiaevelah43cz2hptvofeqzwnes3jftznhkvcsecwn5f6h33mjd73i",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "I reject the premise that this was a property of \"the tech world\" so much as an early manifestation of the attack on liberal education by the conservative oligarchy, which absolutely has an influential presence in the tech world but does not comprise it.",
+        "created_at": "2026-05-16T17:11:36.264Z",
+        "indexed_at": "2026-05-16T17:11:36.676Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlydq25ue22y",
+      "cid": "bafyreiaevelah43cz2hptvofeqzwnes3jftznhkvcsecwn5f6h33mjd73i",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I reject the premise that this was a property of \"the tech world\" so much as an early manifestation of the attack on liberal education by the conservative oligarchy, which absolutely has an influential presence in the tech world but does not comprise it.",
+      "created_at": "2026-05-16T17:11:36.264Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-05-16T17:11:36.676Z",
+      "reply_context": {
+        "uri": "at://did:plc:pzxvo6f6clysxyqicm3y3bfa/app.bsky.feed.post/3mlyd4x52vk2b",
+        "cid": "bafyreids32ipqh6wmqyk7kzvzsku7bi6pr3lydsrxvrnyeqthaechpf5oi",
+        "author": {
+          "did": "did:plc:pzxvo6f6clysxyqicm3y3bfa",
+          "handle": "erikangner.com",
+          "display_name": "Erik Angner"
+        },
+        "text": "An excerpt: “After decades of dismissing liberal arts and humanities studies as useless and insisting that the mastery of science, engineering, math and tech is essential to future success, the tech world is coming around to the idea that learning about human nature could be a valuable asset.”",
+        "created_at": "2026-05-16T17:00:55.559Z",
+        "indexed_at": "2026-05-16T17:00:56.374Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlxyt3cb622a",
+      "cid": "bafyreidwlf425vqy7r6idjcpq3c3cj3hbzil3ao5hsslqq3buajxeobsfa",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "this poor guy is so deep in the closet he can't even use a straw without picturing himself sucking a cock.",
+      "created_at": "2026-05-16T13:56:26.960Z",
+      "reply_count": 1,
+      "repost_count": 3,
+      "like_count": 15,
+      "indexed_at": "2026-05-16T13:56:27.177Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mllqyq2oqc2o",
+      "cid": "bafyreiduoefiuo63j3sp6a5yazv2f3rvrdvpd3kcctnl7yl4r2uy7pnwzi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "You're probably thinking of this year's DOJ legal internship program.",
+      "created_at": "2026-05-11T17:04:29.709Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-05-11T17:04:30.276Z",
+      "reply_context": {
+        "uri": "at://did:plc:dwlnujuldi2ke2qsiuq3sjzb/app.bsky.feed.post/3mllqc5p3jc2s",
+        "cid": "bafyreig4ocyjrdgpyuolu2w3hha7zuzxyig3bnqoh3jmofujnmfrdmdmeu",
+        "author": {
+          "did": "did:plc:dwlnujuldi2ke2qsiuq3sjzb",
+          "handle": "tobellz.bsky.social",
+          "display_name": "Incandescently Angry"
+        },
+        "text": "A jobs program for the shittiest people ever to walk the earth.",
+        "created_at": "2026-05-11T16:51:52.258Z",
+        "indexed_at": "2026-05-11T16:51:53.374Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mllqv25ngk2o",
+      "cid": "bafyreialsuzyhgnzijqpvew5iqfnljbzusjekto2z5dhzj6dnucow7kgaq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "prom to a teen: \n> \"THIS IS GONNA BE THE BEST NIGHT EVAR!\"\n\nprom 10y later: \n>  avg_over_time(((sum by (job) (rate(http_requests_total{code!~\"5..\"}[5m])) / clamp_min(sum by (job) (rate(http_requests_total[5m])), 1e-9)) and on (job) sum by (job) (rate(http_requests_total[5m])) > 0)[14d:1h] @ end())",
+      "created_at": "2026-05-11T17:02:26.074Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-05-11T17:02:26.471Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mllpvg3zlk2o",
+      "cid": "bafyreia3h3ku65fl6ihypw6amlfhsgn7swz72azpvq345ty6yotek4ptue",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "> cleaning up\n\nNow that you mention it, they'll probably get a no bid contract for that work as well after the lawsuit. Like getting paid to dig a hole and fill it back up again.",
+      "created_at": "2026-05-11T16:44:44.862Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-05-11T16:44:45.470Z",
+      "reply_context": {
+        "uri": "at://did:plc:7vw4i4trvf7wktfhvswxbkht/app.bsky.feed.post/3mlloa2bdd22t",
+        "cid": "bafyreia3h7uo2uk6zw2jmzvzp7vrzyzcw4hn2lfglqgqsysq2xpylqkuce",
+        "author": {
+          "did": "did:plc:7vw4i4trvf7wktfhvswxbkht",
+          "handle": "omfproductions.bsky.social",
+          "display_name": "Malaclypse the Fetus"
+        },
+        "text": "They almost certainly work for a guy who got a shady no bid contract for the project and had no concerns about starting work with nothing but the Mad Kings request, so my guess is they are probably snickering about how they are cleaning up on this stupid project.",
+        "created_at": "2026-05-11T16:14:54.069Z",
+        "indexed_at": "2026-05-11T16:14:54.675Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mllpstszq22e",
+      "cid": "bafyreiahykdywxjv4tqoqcjpdrtqbykxws5snfegkauzjekkao4whpl4ty",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Yes.",
+      "created_at": "2026-05-11T16:43:18.584Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-05-11T16:43:19.173Z",
+      "reply_context": {
+        "uri": "at://did:plc:iioeoubca3swodtzu3rz34eb/app.bsky.feed.post/3mllo7fcemk2b",
+        "cid": "bafyreifbhqtwjphwzchmsh4eq5prwksgl2bi3vtezyblqalgs5hfnwb2uq",
+        "author": {
+          "did": "did:plc:iioeoubca3swodtzu3rz34eb",
+          "handle": "lpeterp.bsky.social",
+          "display_name": "Lpeterp"
+        },
+        "text": "Doesn't this same law apply to the White House?",
+        "created_at": "2026-05-11T16:14:32.083Z",
+        "indexed_at": "2026-05-11T16:14:32.670Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mllnxw6o4s2j",
+      "cid": "bafyreibtwyfed4kewlajvfysoirberkzsjbhkfz7pdnjjg73cmwsxatnhq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "more \"can you believe WE'RE paying for this? they shut down the department of education so they could fund this??\"",
+      "created_at": "2026-05-11T16:10:21.351Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 4,
+      "indexed_at": "2026-05-11T16:10:21.976Z",
+      "reply_context": {
+        "uri": "at://did:plc:dwlnujuldi2ke2qsiuq3sjzb/app.bsky.feed.post/3mllnhhjw222o",
+        "cid": "bafyreicwldjk6ym3x4udumnst45mja2vy2fultar3rp6koqhyskxfr5tqy",
+        "author": {
+          "did": "did:plc:dwlnujuldi2ke2qsiuq3sjzb",
+          "handle": "tobellz.bsky.social",
+          "display_name": "Incandescently Angry"
+        },
+        "text": "Those guys are standing there saying to each other \"Can you believe this idiot is paying for this? What the hell?\"",
+        "created_at": "2026-05-11T16:01:09.121Z",
+        "indexed_at": "2026-05-11T16:01:09.774Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mllnvejd6c2j",
+      "cid": "bafyreigkfnryh2s26dyjhfxiviwz7v6hntscnkgd4n4rs4bflwrpnh7zvi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "They need to subpoena every communication and every receipt that touched this project. All of this construction bullshit is transparently a hole for trump to disappear our money into. On top of it also just being an insult to the country.",
+      "created_at": "2026-05-11T16:08:55.718Z",
+      "reply_count": 2,
+      "repost_count": 1,
+      "like_count": 5,
+      "indexed_at": "2026-05-11T16:08:56.076Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mllnkic73s2j",
+      "cid": "bafyreicpvzlnbi6hapdph5ocvsapk3joc5ej3o6l5bmm3qser6z2yernoe",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "good morning",
+      "created_at": "2026-05-11T16:02:50.580Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 1,
+      "indexed_at": "2026-05-11T16:02:52.779Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:vdrvx5awiubogohbgnod3jda/app.bsky.feed.post/3mllgngpz4c2t",
+      "cid": "bafyreifbco6w6vbp42un4kzc5dsv2jnfc6hy4uv35kk2cx4vnpfxs5pltq",
+      "author": {
+        "did": "did:plc:vdrvx5awiubogohbgnod3jda",
+        "handle": "profmsinha.bsky.social",
+        "display_name": "Manisha Sinha"
+      },
+      "text": "Historian of abolition here, history tells us how we got here, to put it succinctly “John Brown was hanged for treason and Robert E. Lee was not.”",
+      "created_at": "2026-05-11T13:59:13.406Z",
+      "reply_count": 137,
+      "repost_count": 4588,
+      "like_count": 13536,
+      "indexed_at": "2026-05-11T13:59:13.772Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mllnccrbgk2j",
+      "cid": "bafyreia7rwxu53zpi4wcbfvpbmc2okrt7ujaf6bhp4rhcngkneud5prrnm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "This is embezzlement.",
+      "created_at": "2026-05-11T15:58:16.346Z",
+      "reply_count": 0,
+      "repost_count": 2,
+      "like_count": 2,
+      "indexed_at": "2026-05-11T15:58:16.677Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlkos5qhks2k",
+      "cid": "bafyreid4z4222ojpori2u4eou2sgemnqpa4dlcb6hhmhq22yuxyyku3kxy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "",
+      "created_at": "2026-05-11T06:52:21.951Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-05-11T06:52:23.873Z",
+      "reply_context": {
+        "uri": "at://did:plc:ey2ngl4l3fymyibjzhjx4dcy/app.bsky.feed.post/3mlkftzozjk25",
+        "cid": "bafyreidsqg6kie4b77tnxo7aiamdbmwm4jzwxqgn2zy534sykkluk42dcm",
+        "author": {
+          "did": "did:plc:ey2ngl4l3fymyibjzhjx4dcy",
+          "handle": "nationalsecuritylaw.org",
+          "display_name": "National Security Counselors 🕵"
+        },
+        "text": "Saoirse has some news",
+        "created_at": "2026-05-11T04:12:21.129Z",
+        "indexed_at": "2026-05-11T04:12:25.172Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlkh237nr22a",
+      "cid": "bafyreibyny2s3p6olsu3tnz4t56b7ffihizqtntiktnckftlwqwmn76dym",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "via apod.nasa.gov/apod/ap26042...",
+      "created_at": "2026-05-11T04:33:37.804Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 2,
+      "indexed_at": "2026-05-11T04:33:38.473Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlkgx4f4c22a",
+        "cid": "bafyreifa4eujtkh7gg3r3wtfpqhcvtcv5wgjrujgehu77y5ebibqgxsu3u",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "This is why we can't have nice things.",
+        "created_at": "2026-05-11T04:31:58.358Z",
+        "indexed_at": "2026-05-11T04:32:35.774Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlkgx4f4c22a",
+      "cid": "bafyreifa4eujtkh7gg3r3wtfpqhcvtcv5wgjrujgehu77y5ebibqgxsu3u",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "This is why we can't have nice things.",
+      "created_at": "2026-05-11T04:31:58.358Z",
+      "reply_count": 1,
+      "repost_count": 1,
+      "like_count": 4,
+      "indexed_at": "2026-05-11T04:32:35.774Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlj2u7owl227",
+      "cid": "bafyreiamj3zbrsjnu3ioh6qhewo6i2dkylkoaiwnkdbbnb4cig4z3zqgdy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "well, and embezzlement, obviously.",
+      "created_at": "2026-05-10T15:22:56.533Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-05-10T15:22:56.873Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlj2tpwg2227",
+        "cid": "bafyreiczsqyvjltdlyza5naw3rirzr3soxnzflfv2xcrf4ss7moyw2xdxy",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "oh god I thought that was just some unhinged late night AI posting, I had no idea this was actually happening. what a stupid waste of money.\n\ntrump delights in vandalizing the capital. that's all this is.",
+        "created_at": "2026-05-10T15:22:40.001Z",
+        "indexed_at": "2026-05-10T15:22:40.375Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlj2tpwg2227",
+      "cid": "bafyreiczsqyvjltdlyza5naw3rirzr3soxnzflfv2xcrf4ss7moyw2xdxy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "oh god I thought that was just some unhinged late night AI posting, I had no idea this was actually happening. what a stupid waste of money.\n\ntrump delights in vandalizing the capital. that's all this is.",
+      "created_at": "2026-05-10T15:22:40.001Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-05-10T15:22:40.375Z",
+      "reply_context": {
+        "uri": "at://did:plc:2rrp7amblhg3xoly5n5huiqv/app.bsky.feed.post/3mlizk5qer22n",
+        "cid": "bafyreidle2luox7g5f6vy3pyvvxa5bmisqin7kjhb6rnnh4y4pwutivkt4",
+        "author": {
+          "did": "did:plc:2rrp7amblhg3xoly5n5huiqv",
+          "handle": "donmoyn.bsky.social",
+          "display_name": "Don Moynihan"
+        },
+        "text": "The Reflecting Pool is the Trump admin in microcosm:\n*The pool has real problems, like leaky pipes, that are not being fixed\n*Superficial paint job that will actually make it look worse\n*No bid contract! No oversight! \nwww.nytimes.com/2026/05/08/u...",
+        "created_at": "2026-05-10T14:59:25.196Z",
+        "indexed_at": "2026-05-10T14:59:27.070Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlj2lee3vk2c",
+      "cid": "bafyreidsiatbigomy4j4ykjl6yt3zwslzotr5sgdchmasg23pv7sf3jpbe",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "his living situation is obviously a cultural choice, not a financial one.",
+      "created_at": "2026-05-10T15:17:59.430Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 6,
+      "indexed_at": "2026-05-10T15:17:59.778Z",
+      "reply_context": {
+        "uri": "at://did:plc:zknk3rjsatent75sdbbopown/app.bsky.feed.post/3mlj24idjjc2b",
+        "cid": "bafyreiaos6tkhg6fqjkgjflflh2v5tfspd44fqlxxtrpgd5mxf4bivwmge",
+        "author": {
+          "did": "did:plc:zknk3rjsatent75sdbbopown",
+          "handle": "markharris.bsky.social",
+          "display_name": "Mark Harris"
+        },
+        "text": "This is about a 32-year-old man who earns $200K a year and is now CONSIDERING moving out of the Bushwick co-housing space he shares with 17 roommates. I have so many questions. www.nytimes.com/interactive/...",
+        "created_at": "2026-05-10T15:09:40.288Z",
+        "indexed_at": "2026-05-10T15:09:41.478Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:66ectx3gi4ffi3gtbnxrxvlh/app.bsky.feed.post/3mlj2ci7xns2f",
+      "cid": "bafyreig4vf7zgk5nhlrbve3ga54blm3gpusgmdfdehfy422wm7swrzwici",
+      "author": {
+        "did": "did:plc:66ectx3gi4ffi3gtbnxrxvlh",
+        "handle": "ndhapple.bsky.social",
+        "display_name": "Nolan Hicks"
+      },
+      "text": "“Asked by CNN whether taxpayer dollars were used for Duffy’s individual travel, the Department of Transportation spokesperson said that celebrating America’s 250th anniversary, including through “The Great American Road Trip,” is part of Duffy’s official duties.” — www.cnn.com/2026/05/09/p...",
+      "created_at": "2026-05-10T15:13:01.499Z",
+      "reply_count": 22,
+      "repost_count": 46,
+      "like_count": 78,
+      "indexed_at": "2026-05-10T15:13:04.573Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mlj2dpy6ls2t",
+      "cid": "bafyreihmp6rscayx6o2276oovah4o3jsbpt4h5j4wxx4bz2ewkrhtik25m",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "the strait was open for all fifty of those years",
+      "created_at": "2026-05-10T15:13:43.188Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-05-10T15:13:43.574Z",
+      "reply_context": {
+        "uri": "at://did:plc:4llrhdclvdlmmynkwsmg5tdc/app.bsky.feed.post/3mlivvytyxk2t",
+        "cid": "bafyreiemnzkebwts7rt5hhrzmot2b4x56tjl7rfgdmtgfmoaa7kohhxpdm",
+        "author": {
+          "did": "did:plc:4llrhdclvdlmmynkwsmg5tdc",
+          "handle": "atrupar.com",
+          "display_name": "Aaron Rupar"
+        },
+        "text": "RADDATZ: But it was 50 days ago that Trump posted a warning saying Iran had 48 hours to fully open, without threat, the strait. 50 days ago. Nothing happened, and the strait is still closed\n\nWALTZ: Well, I think we should take a step back. 50 days to deal with a 50 year old problem",
+        "created_at": "2026-05-10T13:54:27.758Z",
+        "indexed_at": "2026-05-10T13:54:28.879Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:2rrp7amblhg3xoly5n5huiqv/app.bsky.feed.post/3mlipz2habc2a",
+      "cid": "bafyreicdrd3mizgrgz2gu7wg2fbu2w4jyvyfzdci2xm4ldvedhfgsdpr2q",
+      "author": {
+        "did": "did:plc:2rrp7amblhg3xoly5n5huiqv",
+        "handle": "donmoyn.bsky.social",
+        "display_name": "Don Moynihan"
+      },
+      "text": "Th treatment of Mamdani will be nothing compared to what AOC will get, which amounts to attacking her opposition to concentrated wealth",
+      "created_at": "2026-05-10T12:08:47.649Z",
+      "reply_count": 20,
+      "repost_count": 192,
+      "like_count": 1085,
+      "indexed_at": "2026-05-10T12:08:48.075Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mliztsq7vc27",
+      "cid": "bafyreicxpzsemns7ljcm2g44xzgg43lck36a5t5pm2we5floqshxjk6u5u",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "in trumps pockets.",
+      "created_at": "2026-05-10T15:04:49.202Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-05-10T15:04:49.576Z",
+      "reply_context": {
+        "uri": "at://did:plc:4dparxsckrbqsnpyqpu3xpy5/app.bsky.feed.post/3mlivptb7uc2m",
+        "cid": "bafyreibkxzzgyki6qmj3rwckakpau5hvkjmehth7qwc5vvgzi4igjqp7rq",
+        "author": {
+          "did": "did:plc:4dparxsckrbqsnpyqpu3xpy5",
+          "handle": "007itsmeagain.bsky.social",
+          "display_name": ""
+        },
+        "text": "Where’s the GOLD?",
+        "created_at": "2026-05-10T13:51:00.574Z",
+        "indexed_at": "2026-05-10T13:51:01.074Z"
+      },
+      "is_reply": true
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -984,11 +1716,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-05-17T01:59:56.095025+00:00"
+    "fetch_timestamp": "2026-05-17T01:59:50.426560+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-05-16T23:13:03.404000+00:00",
-    "new_posts_count": 0,
-    "is_initial_fetch": false
+    "last_post_timestamp": null,
+    "new_posts_count": 29,
+    "is_initial_fetch": true
   }
 }
