@@ -1,7 +1,130 @@
 {
-  "fetch_timestamp": "2026-05-30T18:57:55.302556+00:00",
+  "fetch_timestamp": "2026-05-30T18:57:50.566449+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mn3mb5b4cs2j",
+      "cid": "bafyreiaaflogpljz2to4w5qqukcok337tb62ivm7rrdpo6g63ez5ddba3q",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "it's not embezzlement if you do it in the open by suing yourself! financial regulators hate this one weird trick!",
+      "created_at": "2026-05-30T17:47:30.720Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 3,
+      "indexed_at": "2026-05-30T17:47:31.375Z",
+      "reply_context": {
+        "uri": "at://did:plc:t4x2ruk2qmob2b2cx55h4v7r/app.bsky.feed.post/3mn3lp6bj7c27",
+        "cid": "bafyreidszfmxnehfdp7yn6hxexz4vsabc6d5td5teuq6lmvyuxnave2yfi",
+        "author": {
+          "did": "did:plc:t4x2ruk2qmob2b2cx55h4v7r",
+          "handle": "annabower.bsky.social",
+          "display_name": "Anna Bower"
+        },
+        "text": "As some have pointed out, the order only requires the plaintiffs (trump’s personal lawyers) to explain their position in writing. DOJ never even filed any notices of appearance. \n\nBut,  frankly, I’m not sure the distinction really matters — the lawyers on both sides work for Trump!",
+        "created_at": "2026-05-30T17:37:27.802Z",
+        "indexed_at": "2026-05-30T17:37:28.076Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mn3k5quxis2r",
+      "cid": "bafyreighkollnq3ozzy3aph46webdsvcrucl5j3w2gowmbrvle7bauiira",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "> might be just a coincidence.\n\nis that your instinct here? or are you just hedging because you don't want to get too excited until you've played with this result more (or something like that)?",
+      "created_at": "2026-05-30T17:09:49.591Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-05-30T17:09:50.173Z",
+      "reply_context": {
+        "uri": "at://did:plc:fb5fjz7jxmbf3alhwh44ookd/app.bsky.feed.post/3mn3banx2qc25",
+        "cid": "bafyreidyatoakpr6mmmpfyp3g5meqvkzt2fbnrgmfvsykfcxd7fms2ebw4",
+        "author": {
+          "did": "did:plc:fb5fjz7jxmbf3alhwh44ookd",
+          "handle": "johncarlosbaez.bsky.social",
+          "display_name": "John C. Baez"
+        },
+        "text": "Very loosely: the symmetries of the Standard Model are precisely the symmetries of an octonionic qutrit that preserve both an octonionic qubit and a complex qutrit.   \n\nThis is a freaky weird connection between particle physics and quantum information which might be just a coincidence.\n\n(2/n)",
+        "created_at": "2026-05-30T14:30:23.502Z",
+        "indexed_at": "2026-05-30T14:30:24.472Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:u3qtwr3xni67et44ip5vov2z/app.bsky.feed.post/3mn37rm5vwk2h",
+      "cid": "bafyreihbhxxrbarilpqbeeqb4pvlnba3dve7ltt7ilnup3ku7fvgwe3h6q",
+      "author": {
+        "did": "did:plc:u3qtwr3xni67et44ip5vov2z",
+        "handle": "katharinehayhoe.com",
+        "display_name": "Katharine Hayhoe"
+      },
+      "text": "I’m a climate scientist. Let me fix this headline.\n\n“Nearly a century ago, scientists showed that burning fossil fuels warms the planet.\n\nToday, we know human emissions account for over 100% of the warming.\n\nYet dark money and disinformation still work to keep Americans addicted to fossil fuels.”",
+      "created_at": "2026-05-30T14:04:04.570Z",
+      "reply_count": 153,
+      "repost_count": 2751,
+      "like_count": 6640,
+      "indexed_at": "2026-05-30T14:04:05.073Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mn3j3wkdv22r",
+      "cid": "bafyreieuqlwbp4fxxg5tqshdsobzid2ceyblz35a3ayxdkomufew5todue",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "the ongoing fixation on gender from the party that also claims gender studies isn't a valid field of inquiry is so stupid and pathetic.\n\nrepublicans ought to have their own entry in the DSM.",
+      "created_at": "2026-05-30T16:50:54.684Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-05-30T16:50:55.175Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mn2ahv3ne22w",
+      "cid": "bafyreick5wwy2fe5urngfn2tipgaslitbb6vaceoslfd6goqjlff7h5xcy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "He did both of those things without asking. They had no warning it was going to happen to stop him to begin with. They should have impeached him and then pressed charges after removing him from office.",
+      "created_at": "2026-05-30T04:43:52.393Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-05-30T04:43:52.675Z",
+      "reply_context": {
+        "uri": "at://did:plc:d74r7z3gisq2vlnrfzac2rhm/app.bsky.feed.post/3mmzl2c6jyk2q",
+        "cid": "bafyreidmjeuwmrh6qfym7atdktic3ygbkxiisutvueofxism54hfhdvhr4",
+        "author": {
+          "did": "did:plc:d74r7z3gisq2vlnrfzac2rhm",
+          "handle": "deb-pitt77.bsky.social",
+          "display_name": "DEB"
+        },
+        "text": "Congress has completely given their powers to trump. They should have stopped him from destroying the WH and putting his name on The Kennedy Center.",
+        "created_at": "2026-05-29T22:20:27.779Z",
+        "indexed_at": "2026-05-29T22:20:28.070Z"
+      },
+      "is_reply": true
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -958,11 +1081,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-05-30T18:57:55.607537+00:00"
+    "fetch_timestamp": "2026-05-30T18:57:51.299336+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-05-30T17:47:30.720000+00:00",
-    "new_posts_count": 0,
-    "is_initial_fetch": false
+    "last_post_timestamp": null,
+    "new_posts_count": 5,
+    "is_initial_fetch": true
   }
 }
