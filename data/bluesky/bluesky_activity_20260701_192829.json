@@ -1,0 +1,3305 @@
+{
+  "fetch_timestamp": "2026-07-01T19:28:22.610798+00:00",
+  "profile_handle": "digthatdata.bsky.social",
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mplzcg3tls25",
+      "cid": "bafyreibw5warzxz5kdcy3dxw2celkcm3hyulj22bpxpjv7n4bdptqfcv4i",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "An atomized society like this would be an invitation for a landgrab by disproportionately powerful entities (i.e. them), and then we're just back where we started.\n\nThese people grew up during the cold war. They're directly responsible for crushing small competitors daily. They're not this naive.",
+      "created_at": "2026-07-01T17:13:51.251Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-07-01T17:13:51.784Z",
+      "reply_context": {
+        "uri": "at://did:plc:we7sidyj3b5or2r7trtpfzt7/app.bsky.feed.post/3mplyqozvoc2c",
+        "cid": "bafyreigpue7us35d42tvt7wrbhgodposlyqrgybgooiqs4m5idfa4v2idu",
+        "author": {
+          "did": "did:plc:we7sidyj3b5or2r7trtpfzt7",
+          "handle": "jennycohn.bsky.social",
+          "display_name": "Jenny Cohn"
+        },
+        "text": "4/ Then came Curtis Yarvin, a close associate of both Peter Thiel & Marc Andreessen. bsky.app/profile/jenn...",
+        "created_at": "2026-07-01T17:03:56.645Z",
+        "indexed_at": "2026-07-01T17:03:57.482Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mplq3ipmos25",
+      "cid": "bafyreifzp5m2xssacemwjioyifluyytpyupfz5rjrnigf6orv6dakndvjy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "maybe the  solution to integrating more batteries in the grid is just more EVs?",
+      "created_at": "2026-07-01T14:28:55.439Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 3,
+      "indexed_at": "2026-07-01T14:28:55.684Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:wvyq44vfj3m3mkw3slpr4lrf/app.bsky.feed.post/3mpllew7l6k2f",
+      "cid": "bafyreiato5lqsmatczjgc4t7fkmwjvzrhkwe7frgkk77h4jairtkou7nuy",
+      "author": {
+        "did": "did:plc:wvyq44vfj3m3mkw3slpr4lrf",
+        "handle": "tkovach.bsky.social",
+        "display_name": "Heat kills more Americans than all other disasters combined"
+      },
+      "text": "District heating and cooling is great. Cleveland has heating for 125 years and chilled water since 1993.\n\n2030districts.org/cleveland/co...",
+      "created_at": "2026-07-01T13:04:42.867Z",
+      "reply_count": 2,
+      "repost_count": 29,
+      "like_count": 121,
+      "indexed_at": "2026-07-01T13:04:44.581Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpkxdclv5s2n",
+      "cid": "bafyreiefwziwzjmrws7mqy2b7rlzowyuz4vzebyn5uljbhg2zoawqpmyyi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "wow",
+      "created_at": "2026-07-01T07:05:53.915Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-07-01T07:05:54.184Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:5dxdkowsvyeqpjwc6r4xrzsz/app.bsky.feed.post/3mpkp27tgl22d",
+      "cid": "bafyreidgfmvb2ncdeejs2wk3ft53ejthixwkl3c7z3m6josdz3otir2wfq",
+      "author": {
+        "did": "did:plc:5dxdkowsvyeqpjwc6r4xrzsz",
+        "handle": "andrewjweinstein.com",
+        "display_name": "Andrew Weinstein"
+      },
+      "text": "There’s a special kind of irony in watching the “shall not be infringed” crowd twist themselves into knots insisting birthright citizenship shouldn’t exist. It’s amazing how flexible “absolute” rights become when they’re someone else’s.",
+      "created_at": "2026-07-01T04:37:39.093Z",
+      "reply_count": 32,
+      "repost_count": 389,
+      "like_count": 1567,
+      "indexed_at": "2026-07-01T04:37:39.381Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpkicomqf22y",
+      "cid": "bafyreifaqqybasqbstsaaq6y667rfl262wsgbdm6owab6svz6wzeqnjyqi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "what a time to be alive...",
+      "created_at": "2026-07-01T02:37:06.843Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-07-01T02:37:07.089Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjsaprpxs2g",
+      "cid": "bafyreiabz4oo546mx42qjwtxsxgrioh6gdgiae2dr6wdta4zu77qh7ogxy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Also leaves intersex people out in the rain. \n\n* Swyer Syndrome - phenotypically female, has a normal vulva, also has a Y chromosome\n* Kleinfelter Syndrome - (usually) phenotypically male, has a penis and testes, also has two X chromosomes.\n\nReal people. Real children. Intersex people exist.",
+      "created_at": "2026-06-30T20:02:18.627Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 3,
+      "indexed_at": "2026-06-30T20:02:21.185Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjljd4nws2g",
+      "cid": "bafyreidvv7toupmzq22qooa4ewmenstamcmuy4lzzbslwca4yrbec6h7jy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "CA is a big place with a lot of people. Both \"most of cali's homeless are from or became homeless in cali\" and \"it's common for red/rural areas to relocate their homeless to blue cities\" can be true.\n\nThat said, I admittedly don't have any data to back me up. Just paranoid,cynical vibes.",
+      "created_at": "2026-06-30T18:01:50.943Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-30T18:01:52.427Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjljcwauc2g",
+        "cid": "bafyreieudcus4pqa6bcrgpn4okrgyxiurtt367ewybecp4564wi37miqbm",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "among that 10%: I wonder what fraction were already (for lack of a better word) chronically homeless before coming to CA, and of those what fraction had the trip paid for by their place of origin?",
+        "created_at": "2026-06-30T18:01:50.942Z",
+        "indexed_at": "2026-06-30T18:01:52.390Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjljcwauc2g",
+      "cid": "bafyreieudcus4pqa6bcrgpn4okrgyxiurtt367ewybecp4564wi37miqbm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "among that 10%: I wonder what fraction were already (for lack of a better word) chronically homeless before coming to CA, and of those what fraction had the trip paid for by their place of origin?",
+      "created_at": "2026-06-30T18:01:50.942Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-30T18:01:52.390Z",
+      "reply_context": {
+        "uri": "at://did:plc:jcdj4jhpz5c3x3kad3u6npic/app.bsky.feed.post/3mpjjeiz3zk2v",
+        "cid": "bafyreid3pjuffr6m3u7h5z6532s7dnmqxvjhbzngeeccrlczlwaofzm2am",
+        "author": {
+          "did": "did:plc:jcdj4jhpz5c3x3kad3u6npic",
+          "handle": "groverhaustenbosch.bsky.social",
+          "display_name": "Glonzo Ball"
+        },
+        "text": "nope. ~90% of homeless californians are from here, and the vast majority of the last 10% are people from here who were coming home, but something fell through and they ended up on the streets. 75% of homeless live in the same county that they lived in prior to becoming homeless, even.",
+        "created_at": "2026-06-30T17:23:22.071Z",
+        "indexed_at": "2026-06-30T17:23:21.687Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpji2bglgc2f",
+      "cid": "bafyreiacdgneam37lryosg7mbk5ypbrs5b56txogbbk7q7yrqas4z2kih4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "One of whom was stolen from Obama by Mitch McConnell. Gorsuch's seat should be occupied by Merrick Garland.\n\nReminder for the younger or forgetful folks:",
+      "created_at": "2026-06-30T16:59:44.838Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-30T16:59:47.595Z",
+      "reply_context": {
+        "uri": "at://did:plc:thlp4ebkcyccpssbwpnrxct5/app.bsky.feed.post/3mpjfo3zcdk2h",
+        "cid": "bafyreia6gqcz5gwb6pp6ewygksfkc2rktjiyvmr6n565sbn5mw3tichpuq",
+        "author": {
+          "did": "did:plc:thlp4ebkcyccpssbwpnrxct5",
+          "handle": "wikisteff.bsky.social",
+          "display_name": "Stef \"inclusion is a human right\" Christensen"
+        },
+        "text": "I really wish that anyone in the media had had this figured out in 2016. Or in 2024.\n\nThis imperial presidency and techbro autocoup could not have happened but for the two \"Conservative\" Supreme Court justices appointed by Trump in 2017-2021.",
+        "created_at": "2026-06-30T16:17:09.022Z",
+        "indexed_at": "2026-06-30T16:17:10.585Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjhovnhsc2a",
+      "cid": "bafyreiak3q6jklltz66dgnjfjvqtmbkdzljye7vmelp2eco3j2chcpdfmm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Maybe he was depressed because trump was tanking the economy for no reason and he was sad that he felt the need to pull a bunch of his savings out of the market in case trump crashed it.",
+      "created_at": "2026-06-30T16:53:23.381Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-30T16:53:23.887Z",
+      "reply_context": {
+        "uri": "at://did:plc:7qqkq2zdwq4j5jingukgtuky/app.bsky.feed.post/3mpjh6majtc2z",
+        "cid": "bafyreiawhbxij2rm33zz2mfk567wu4r2hpkazog7ee4bcihc7pktreuirq",
+        "author": {
+          "did": "did:plc:7qqkq2zdwq4j5jingukgtuky",
+          "handle": "joncooper-us.bsky.social",
+          "display_name": "Jon Cooper"
+        },
+        "text": "Tom Kean Jr. was healthy enough to authorize stock transactions up to $190,000 during his nearly 4-month absence from the House. \n\nThere’s more to this story than he’s saying.",
+        "created_at": "2026-06-30T16:44:16.650Z",
+        "indexed_at": "2026-06-30T16:44:17.280Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:sgti3jsgu3luif24tokvth3a/app.bsky.feed.post/3mpjgvzfjfk25",
+      "cid": "bafyreibs53xu63i2lb7k2os5lhlsufynaej74muysns4gx5j3aa3q6ckhq",
+      "author": {
+        "did": "did:plc:sgti3jsgu3luif24tokvth3a",
+        "handle": "joshtpm.bsky.social",
+        "display_name": "Josh Marshall"
+      },
+      "text": "In a sane world (an alt reality) today's dissents would sufficient to warrant Thomas, Gorsuch and Alito's impeachment and removal from office. If you defy the plain words, meaning, intent, history, precedent of a black letter constitutional injunction u are abusing your power and should be removed.",
+      "created_at": "2026-06-30T16:39:28.454Z",
+      "reply_count": 69,
+      "repost_count": 1268,
+      "like_count": 4622,
+      "indexed_at": "2026-06-30T16:39:28.986Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjhdivtmc2a",
+      "cid": "bafyreifjgezemnjxropkkzqmupzvqq6eiuwja7euzhmawxv6xz5yqzsm5e",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "My hope is that by promoting the tools and tactics I find useful to help reduce my own risk of becoming an asshole, I can reduce the overall prevalence of asshole behavior on the platform.\n\nBe the change you want to see in your social media neighborhood.",
+      "created_at": "2026-06-30T16:47:00.636Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-06-30T16:47:01.120Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjhdimyfs2a",
+        "cid": "bafyreie6njw5dxwxu3ok5ookt7watb65udalhyalotmb26uqamxrwybbai",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "Yes, AND spreading the good word about how I protect myself hopefully helps inoculate my neighborhood. My operating theory here is mutuals who behave like this might have been guided towards that behavior. I'm not immune, so I mute liberally to try to protect myself from becoming an asshole.",
+        "created_at": "2026-06-30T16:47:00.635Z",
+        "indexed_at": "2026-06-30T16:47:01.085Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjhdimyfs2a",
+      "cid": "bafyreie6njw5dxwxu3ok5ookt7watb65udalhyalotmb26uqamxrwybbai",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Yes, AND spreading the good word about how I protect myself hopefully helps inoculate my neighborhood. My operating theory here is mutuals who behave like this might have been guided towards that behavior. I'm not immune, so I mute liberally to try to protect myself from becoming an asshole.",
+      "created_at": "2026-06-30T16:47:00.635Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-06-30T16:47:01.085Z",
+      "reply_context": {
+        "uri": "at://did:plc:yha64k6gbnmndrc2u6bxpmzo/app.bsky.feed.post/3mpjgwnwvjs2p",
+        "cid": "bafyreifdy46ox5lfkmp7htbr7bbhfdw5ovpmuvkjxwht6xhwaf32abmedy",
+        "author": {
+          "did": "did:plc:yha64k6gbnmndrc2u6bxpmzo",
+          "handle": "devezer.bsky.social",
+          "display_name": "Berna Devezer"
+        },
+        "text": "I think the easy-to-mute/block folks are not a problem. It's when the mutuals behave that way, which cannot be solved by moderation lists...",
+        "created_at": "2026-06-30T16:39:49.995Z",
+        "indexed_at": "2026-06-30T16:39:50.780Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjh3dgaw22a",
+      "cid": "bafyreicfr67vzcf5sp5clulafljinksjmldugaygspwdv46f5jy6u2po6y",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I strongly suspect a non-negligible fraction of the West Coast's homeless population was bused over from districts in the central and southern US that are antagonistic to the unhoused and doing everything in their power to make the accusations they lob at progressive cities true.",
+      "created_at": "2026-06-30T16:42:26.736Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-30T16:42:27.184Z",
+      "reply_context": {
+        "uri": "at://did:plc:pza5gx5a26conwupxebwefqq/app.bsky.feed.post/3mphrpug25c2t",
+        "cid": "bafyreic2mwdr27iyzuakskcizfre2g3vqphnxblbvqrwrlxswmtzhea23y",
+        "author": {
+          "did": "did:plc:pza5gx5a26conwupxebwefqq",
+          "handle": "lu.is",
+          "display_name": "Luis Villa"
+        },
+        "text": "I've lived in SF for 16 years, my son was born at St. Luke's, and my wife's family has been in and out of the city since the 90s (the 1890s).\n\nThat shouldn't matter, since the whole point of SF is that anyone can come here and start over, but since you're gonna be a xenophobe: get stuffed.",
+        "created_at": "2026-06-30T00:47:33.586Z",
+        "indexed_at": "2026-06-30T00:47:34.086Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjg43o7sc2t",
+      "cid": "bafyreickudlh4at47jsxxyklmgsjc3itjgti72ikf6tnh557wpjpw4nkv4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I think this is mostly interesting as a curiosity rather than as a PoC for neuromorphic computing, but it's certainly an interesting project nonetheless.",
+      "created_at": "2026-06-30T16:24:58.421Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 1,
+      "indexed_at": "2026-06-30T16:24:58.783Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:cg4g4dw67onhaniyam7znucg/app.bsky.feed.post/3mpjesjgevk2u",
+      "cid": "bafyreia5d7b4yu3atn2diofvqfd76grdpb53f6ygvamy6zvq6uesnvocku",
+      "author": {
+        "did": "did:plc:cg4g4dw67onhaniyam7znucg",
+        "handle": "dailynous.com",
+        "display_name": "Justin Weinberg"
+      },
+      "text": "The entire editorial team at a journal of a for-profit publisher resigned and formed a new open-access journal. It has now published its first article...",
+      "created_at": "2026-06-30T16:01:43.558Z",
+      "reply_count": 2,
+      "repost_count": 11,
+      "like_count": 40,
+      "indexed_at": "2026-06-30T16:01:44.485Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjfick4kk2a",
+      "cid": "bafyreiecfry33fbpligusxcziqwf56wkivgd2spnfyqssi6vaamoc67grq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "whenever I see what I interpret as \"zealotry normalization\", I just assume some loud fraction of the discourse is participating in bad faith for malignant ends and mute liberally. I only have two moderation lists atm and this is the one I use most often.",
+      "created_at": "2026-06-30T16:13:54.537Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-30T16:13:56.991Z",
+      "reply_context": {
+        "uri": "at://did:plc:yha64k6gbnmndrc2u6bxpmzo/app.bsky.feed.post/3mpjenbtcqc2p",
+        "cid": "bafyreicsnbgipbacbftgz76yzeakmc7agqsc3fklb6mhvrzhykw6l3aq4u",
+        "author": {
+          "did": "did:plc:yha64k6gbnmndrc2u6bxpmzo",
+          "handle": "devezer.bsky.social",
+          "display_name": "Berna Devezer"
+        },
+        "text": "I mean part of the problem is the occasional jerk, for sure. The bigger issue, imo, is the non-jerks who are too enamored of their position to let it be challenged or questioned. The reluctance to engage deeply with genuine questions has almost become a virtue via social proof.",
+        "created_at": "2026-06-30T15:58:47.820Z",
+        "indexed_at": "2026-06-30T15:58:48.581Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjembgouc2a",
+      "cid": "bafyreiaoj3xsny4gmd3bxdmnig3i5fx2w2mpp2635y3q35hc4ji76lb7oy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "",
+      "created_at": "2026-06-30T15:58:13.854Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-30T15:58:15.186Z",
+      "reply_context": {
+        "uri": "at://did:plc:ejihld4sywvvqwe67cdkn4jq/app.bsky.feed.post/3mpjd672ty22i",
+        "cid": "bafyreifinolep5jr4polaexvveai334gxvcqjhkfnlwqjcx43ly43rqe7a",
+        "author": {
+          "did": "did:plc:ejihld4sywvvqwe67cdkn4jq",
+          "handle": "marisakabas.bsky.social",
+          "display_name": "Marisa Kabas"
+        },
+        "text": "the OP uses a rhetorical device known as sarcasm",
+        "created_at": "2026-06-30T15:32:27.865Z",
+        "indexed_at": "2026-06-30T15:32:28.183Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjekrp3322a",
+      "cid": "bafyreidc4qcmhs3lsbbfwezwxye26jqs5uzodzt33jx6em7v2p6gza7knq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "when rich people get depressed it's a medical condition, but when poor people get depressed it's a condition of character.",
+      "created_at": "2026-06-30T15:57:23.797Z",
+      "reply_count": 1,
+      "repost_count": 2,
+      "like_count": 19,
+      "indexed_at": "2026-06-30T15:57:24.182Z",
+      "reply_context": {
+        "uri": "at://did:plc:ejihld4sywvvqwe67cdkn4jq/app.bsky.feed.post/3mpjd3437ps2i",
+        "cid": "bafyreigm33nb6m7ui2kqyr5l3xonjj7s44qx4nd4ugc722ekt2kzdqfrre",
+        "author": {
+          "did": "did:plc:ejihld4sywvvqwe67cdkn4jq",
+          "handle": "marisakabas.bsky.social",
+          "display_name": "Marisa Kabas"
+        },
+        "text": "i know the answer is no, thanks!!",
+        "created_at": "2026-06-30T15:30:44.067Z",
+        "indexed_at": "2026-06-30T15:30:44.488Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:lm4eq2cftwbnrmzkzowigpt7/app.bsky.feed.post/3mpiyfbbir22a",
+      "cid": "bafyreieqq7dvamy3pxyuclh2irdxsd2jf4h7x4txr3pnthwkcwqgkinxhy",
+      "author": {
+        "did": "did:plc:lm4eq2cftwbnrmzkzowigpt7",
+        "handle": "mattgertz.bsky.social",
+        "display_name": "Matthew Gertz"
+      },
+      "text": "They're plundering the national treasury.",
+      "created_at": "2026-06-30T12:19:33.901Z",
+      "reply_count": 378,
+      "repost_count": 2747,
+      "like_count": 6910,
+      "indexed_at": "2026-06-30T12:19:36.283Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjdhszgns2g",
+      "cid": "bafyreihy56qvnwrm5kna3t746yxxegzhmlomvzkpniijaegjldxi7bsqnu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "how is it only Tuesday",
+      "created_at": "2026-06-30T15:37:50.779Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-30T15:37:51.087Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:ghjkghxu4d2ljkw7p3hshiko/app.bsky.feed.post/3mpjbal6yo224",
+      "cid": "bafyreieluaw4l5ly75cfr55h4pyl5go6ov472qqzwjxbvob3me6o2tplbe",
+      "author": {
+        "did": "did:plc:ghjkghxu4d2ljkw7p3hshiko",
+        "handle": "spookybutkind.bsky.social",
+        "display_name": null
+      },
+      "text": "For how many decades have we had them defend virtually unrestricted gun usage based on one phrase taken out of context? Yet here, where the text is MUCH clearer all of a sudden there's wiggle room.",
+      "created_at": "2026-06-30T14:58:00.209Z",
+      "reply_count": 0,
+      "repost_count": 4,
+      "like_count": 74,
+      "indexed_at": "2026-06-30T14:58:03.285Z",
+      "reply_context": {
+        "uri": "at://did:plc:4ci7ziprw3wettnz7jjdsckk/app.bsky.feed.post/3mpjaotledk2l",
+        "cid": "bafyreiexid32qcgy4zxtm5j37bt4orolco6v75pasgm2l5fhwblib277ru",
+        "author": {
+          "did": "did:plc:4ci7ziprw3wettnz7jjdsckk",
+          "handle": "jmgagen.bsky.social",
+          "display_name": "Mr. Jeffrey"
+        },
+        "text": "OMG it’s not even anything they should have taken up ! Why isn’t the black letter language of the Constitution even arguable ????",
+        "created_at": "2026-06-30T14:48:05.023Z",
+        "indexed_at": "2026-06-30T14:48:05.783Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:lzlqyldh7nfc34pfffvd24ko/app.bsky.feed.post/3mpj7o7ng422u",
+      "cid": "bafyreigt2kia75va7dfyivlcgob3ljvwtabzgih5boronloztbget3ocki",
+      "author": {
+        "did": "did:plc:lzlqyldh7nfc34pfffvd24ko",
+        "handle": "adamserwer.bsky.social",
+        "display_name": "Adam Serwer"
+      },
+      "text": "I’m just a shitlib, but until the dems are willing to take on the concentrated power of capital and the mechanisms that led to it they’re just painting the titanic a different color. bsky.app/profile/mjsd...",
+      "created_at": "2026-06-30T14:29:50.376Z",
+      "reply_count": 40,
+      "repost_count": 635,
+      "like_count": 3058,
+      "indexed_at": "2026-06-30T14:29:50.581Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:e62gb2ushvtvjvqcbrxeaw2n/app.bsky.feed.post/3mpjacl3ffc2v",
+      "cid": "bafyreia3r2iykc5ejoyvnmtgbj5csa236wfoutdsnbsgptx4kr7ovjcaka",
+      "author": {
+        "did": "did:plc:e62gb2ushvtvjvqcbrxeaw2n",
+        "handle": "chrislhayes.bsky.social",
+        "display_name": "Chris Hayes"
+      },
+      "text": "The thing you need to understand is that there are 2 (TWO) different method for amending the constitution\n\n1) The process laid out in the constititon itself (conventions, or 2/3's of both houses followed by 3/4 of states ratifying)\n\nOR\n\n2) find five votes on the Supreme Court.",
+      "created_at": "2026-06-30T14:41:13.457Z",
+      "reply_count": 205,
+      "repost_count": 1870,
+      "like_count": 7932,
+      "indexed_at": "2026-06-30T14:41:13.788Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:bdb6mpkg3hpmaye3mtp4w56m/app.bsky.feed.post/3mpjafmnnis2r",
+      "cid": "bafyreibjswe7k3v2iepepxarjrlikoucvsuvq75jly5qv7z2hidi23cbpu",
+      "author": {
+        "did": "did:plc:bdb6mpkg3hpmaye3mtp4w56m",
+        "handle": "professormusgrave.bsky.social",
+        "display_name": "Paul Musgrave"
+      },
+      "text": "Four justices don’t believe the reconstruction amendments are part of the Constitution, simple as",
+      "created_at": "2026-06-30T14:42:55.766Z",
+      "reply_count": 43,
+      "repost_count": 924,
+      "like_count": 4287,
+      "indexed_at": "2026-06-30T14:42:56.988Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:x4qyokjtdzgl7gmqhsw4ajqj/app.bsky.feed.post/3mpj6fxs5ec2l",
+      "cid": "bafyreictgiby4ph3ha27qdsad4lcw6mywgcedwbptlksewtaqejngxz4ea",
+      "author": {
+        "did": "did:plc:x4qyokjtdzgl7gmqhsw4ajqj",
+        "handle": "bencollins.bsky.social",
+        "display_name": "Ben Collins"
+      },
+      "text": "Trans rights are human rights always and forever.",
+      "created_at": "2026-06-30T14:07:19.966Z",
+      "reply_count": 97,
+      "repost_count": 4009,
+      "like_count": 14490,
+      "indexed_at": "2026-06-30T14:07:20.088Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpjcxpyqt225",
+      "cid": "bafyreidk2hs77zu3oqrc5lr5negcgzg67a5geg6lmw7mewjzb23sb44yz4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "nah, he's just pissed NPR scooped his foxnews crony allies.",
+      "created_at": "2026-06-30T15:28:50.741Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-06-30T15:28:51.185Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3mpgr35dbjk2i",
+      "cid": "bafyreiezjc6vr2muv5ec3qfoymtrcb6lqesn5djdiyhfxxxa66sk22p3hi",
+      "author": {
+        "did": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+        "handle": "jamellebouie.net",
+        "display_name": "jamelle"
+      },
+      "text": "the claim of fraud is simply the claim that americans who vote for democrats are not legitimate members of the political community and their votes shouldn't count.",
+      "created_at": "2026-06-29T15:03:18.421Z",
+      "reply_count": 13,
+      "repost_count": 243,
+      "like_count": 1391,
+      "indexed_at": "2026-06-29T15:03:18.707Z",
+      "reply_context": {
+        "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3mpgr357cl22i",
+        "cid": "bafyreiadwavji3eri6ezigp4ovy7seddamjch6awn4uuspywlhgiip7yxq",
+        "author": {
+          "did": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+          "handle": "jamellebouie.net",
+          "display_name": "jamelle"
+        },
+        "text": "the other thing is that the extent to which all the republican justices agree that \"fraud\" is a problem — and the extent to which there is no possible evidence that could dissuade them or other republicans — is a reminder that claims of \"fraud\" are fundamentally not about the process.",
+        "created_at": "2026-06-29T15:03:18.420Z",
+        "indexed_at": "2026-06-29T15:03:18.666Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:a67zdrt4nl2tv2qojpngogbq/app.bsky.feed.post/3mphgds4vop2v",
+      "cid": "bafyreiexfqou7rzylqk3jl62p3itqjy5wpmq2zuxgsp6ipvspivlvlnamu",
+      "author": {
+        "did": "did:plc:a67zdrt4nl2tv2qojpngogbq",
+        "handle": "apnews.com",
+        "display_name": "The Associated Press"
+      },
+      "text": "BREAKING: More than 100 Venezuelans who were deported from the U.S. hours before the earthquakes are missing after their hotel collapsed.",
+      "created_at": "2026-06-29T21:23:57Z",
+      "reply_count": 219,
+      "repost_count": 2850,
+      "like_count": 5050,
+      "indexed_at": "2026-06-29T21:23:57.883Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:5yqvqwtglgefljliuko3icmb/app.bsky.feed.post/3mpj7vobfo22d",
+      "cid": "bafyreidhjz57vzrc7jm4g27mjdo4b2lzginte2tvjhy3sd7acn4ksrnkeq",
+      "author": {
+        "did": "did:plc:5yqvqwtglgefljliuko3icmb",
+        "handle": "sethdmichaels.bsky.social",
+        "display_name": "Seth D. Michaels"
+      },
+      "text": "waiting until the last decision on the last day to reveal a big consequential outcome like it’s Best Picture instead of existential for real people is bullshit",
+      "created_at": "2026-06-30T14:34:00.592Z",
+      "reply_count": 8,
+      "repost_count": 187,
+      "like_count": 1321,
+      "indexed_at": "2026-06-30T14:34:05.306Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:obqunmbc6uydprnnioo42ry2/app.bsky.feed.post/3mpjagly3ms2b",
+      "cid": "bafyreiaikoite3f77d3hblmmrfirg27wrttt4movedfinhcbva2yoxgfsa",
+      "author": {
+        "did": "did:plc:obqunmbc6uydprnnioo42ry2",
+        "handle": "elienyc.bsky.social",
+        "display_name": "ElieNYC"
+      },
+      "text": "With this ruling, the birthright issue is not going away. The right hasn't really begun *organizing* around getting rid of the citizenship clause. Like Roe, this will be their fight for a generation. And if the Democrats just say \"we won\" and ignore it, like Roe, the Republicans will eventually win.",
+      "created_at": "2026-06-30T14:43:28.616Z",
+      "reply_count": 92,
+      "repost_count": 2498,
+      "like_count": 6859,
+      "indexed_at": "2026-06-30T14:43:28.987Z",
+      "reply_context": {
+        "uri": "at://did:plc:obqunmbc6uydprnnioo42ry2/app.bsky.feed.post/3mpjabfhtps2b",
+        "cid": "bafyreiciql77np4uvbvjqc26ukfju7sc5ef2q6xwjrbm2rvo34ppyvgfv4",
+        "author": {
+          "did": "did:plc:obqunmbc6uydprnnioo42ry2",
+          "handle": "elienyc.bsky.social",
+          "display_name": "ElieNYC"
+        },
+        "text": "Christ, Kavanaugh joined the judgement but dissented on the Constitutional question... meaning that the vote is only 5-4 that the 14th Amendment exists.",
+        "created_at": "2026-06-30T14:40:34.020Z",
+        "indexed_at": "2026-06-30T14:40:34.190Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3mpj6j362732i",
+      "cid": "bafyreicxeyguzqzjiqmigf4hjprruhcnloca3uzl5aocutxm3trmbuxsji",
+      "author": {
+        "did": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+        "handle": "jamellebouie.net",
+        "display_name": "jamelle"
+      },
+      "text": "thomas simply couldn't join the opinion, this corrupt, misanthropic bigot had to throw in his two cents and put his bigotry into the record",
+      "created_at": "2026-06-30T14:09:04.163Z",
+      "reply_count": 114,
+      "repost_count": 1056,
+      "like_count": 4842,
+      "indexed_at": "2026-06-30T14:09:04.992Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:lzlqyldh7nfc34pfffvd24ko/app.bsky.feed.post/3mpjab2v3us2u",
+      "cid": "bafyreicq3he5ve2esezkjsbii7o7nvwgffebyxvhmlkekocncsksoutvlu",
+      "author": {
+        "did": "did:plc:lzlqyldh7nfc34pfffvd24ko",
+        "handle": "adamserwer.bsky.social",
+        "display_name": "Adam Serwer"
+      },
+      "text": "5-4 for what it explicitly says in the constitution is incredible. They were this close to undoing the civil war entirely. bsky.app/profile/mjsd...",
+      "created_at": "2026-06-30T14:40:22.919Z",
+      "reply_count": 93,
+      "repost_count": 1894,
+      "like_count": 6366,
+      "indexed_at": "2026-06-30T14:40:23.083Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpigbwvops2n",
+      "cid": "bafyreihy42uluytmiecfgfsy7vstaiooj55wd6s54jcnqxa2pojibd4m54",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "what a time to be alive!",
+      "created_at": "2026-06-30T06:55:35.012Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-30T06:55:35.383Z",
+      "reply_context": {
+        "uri": "at://did:plc:ppamp6bqrppcvjukxxe3avch/app.bsky.feed.post/3mpdey6whis2n",
+        "cid": "bafyreicbfketv75oam7afgg2qe4aparat4a2g44betyvzuxgemwvgksyby",
+        "author": {
+          "did": "did:plc:ppamp6bqrppcvjukxxe3avch",
+          "handle": "davidpicard.eurosky.social",
+          "display_name": "David Picard"
+        },
+        "text": "And people say that GenAI is useless... Fools! 🐐🐺🥬",
+        "created_at": "2026-06-28T06:48:55.447Z",
+        "indexed_at": "2026-06-28T06:48:56.460Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpigatqjtk2n",
+      "cid": "bafyreiabokvm6unspqr5566aiuwuivjyj65hxikxzaboqw5lhmxus3apva",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "one goat and two cabbages for me, one goat to distract the wolves while I row away safely.",
+      "created_at": "2026-06-30T06:54:58.142Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-30T06:54:58.581Z",
+      "reply_context": {
+        "uri": "at://did:plc:ac6qioenkpl3jmmnib3tpbhb/app.bsky.feed.post/3mpbmnbebn22h",
+        "cid": "bafyreielykwvidhkjybb3rrznrlyip6ls36kteetvkf3jfbm2jr5xtd4we",
+        "author": {
+          "did": "did:plc:ac6qioenkpl3jmmnib3tpbhb",
+          "handle": "ccanonne.github.io",
+          "display_name": "Clément Canonne"
+        },
+        "text": "In every man, there are two wolves. And two goats, and two cabbages. Every man must cross a river by boat; the boat can only carry",
+        "created_at": "2026-06-27T14:00:39.355Z",
+        "indexed_at": "2026-06-27T14:00:37.663Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:gfhaa5a4ozmdy4kj62rxtldd/app.bsky.feed.post/3mpezkprtn222",
+      "cid": "bafyreidtv3heezhr4lfacs2u757foa3q5dcdsm735kpa4mkyfjx36pgpra",
+      "author": {
+        "did": "did:plc:gfhaa5a4ozmdy4kj62rxtldd",
+        "handle": "wattenberg.bsky.social",
+        "display_name": "Martin Wattenberg"
+      },
+      "text": "This is such a fantastic paper! We need more of this kind of empirical work on what people really do with AI. The idea of the \"solipsistic reader-writer\" seems important. Also, the paper is so well-written!",
+      "created_at": "2026-06-28T22:29:51.677Z",
+      "reply_count": 2,
+      "repost_count": 5,
+      "like_count": 27,
+      "indexed_at": "2026-06-28T22:29:35.565Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mphgh2kk6k2r",
+      "cid": "bafyreibkpoca6zwh3lt7r7m43bwljtggmal5p4dd7ylsllfyizarjhgxwa",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "automation isn't categorically bad. lazy implementation of automation by complacent, ignorant, or negligent people is bad.",
+      "created_at": "2026-06-29T21:25:46.874Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-29T21:25:47.582Z",
+      "reply_context": {
+        "uri": "at://did:plc:tygj4sbl55rkhfqznbsdqmcr/app.bsky.feed.post/3mphdm6dfoc2n",
+        "cid": "bafyreid6pwt3shd5fdo7hmxthffs3ur5aiagqk47pk36hid45wzzbxbj6a",
+        "author": {
+          "did": "did:plc:tygj4sbl55rkhfqznbsdqmcr",
+          "handle": "kokkonut.bsky.social",
+          "display_name": "Hanna Kokko"
+        },
+        "text": "Worth reading in full.",
+        "created_at": "2026-06-29T20:34:57.381Z",
+        "indexed_at": "2026-06-29T20:34:58.184Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mph7dvg7hc2v",
+      "cid": "bafyreia3n25fekztoy5c4pqqzm5spkefp6hhfiz6zqkbngefq4oo53xir4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Ironically, I do support the general idea of data centers having their own dedicated power sources. But I also recognize we're in a kleptocratic oligarchy, and it's very easy for the doling of high value resources to be abused as a mechanism to entrench anti-competitive status quo.",
+      "created_at": "2026-06-29T19:18:44.634Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-29T19:18:45.089Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mph6f42sl22v",
+        "cid": "bafyreigejfyvngnelcispbkgiatvd3earo2ho55flxdugu2nsmbhm2hz6a",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "Imagine a future in which most new energy projects are scoped to individual data centers. Public funding for infra to support specific, pre-assigned corporate interests. Infra which won't be available to consumers.\n\nThe major risk here isn't safety, it's enclosure of public infrastructure.",
+        "created_at": "2026-06-29T19:01:31.413Z",
+        "indexed_at": "2026-06-29T19:01:31.985Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mph6f42sl22v",
+      "cid": "bafyreigejfyvngnelcispbkgiatvd3earo2ho55flxdugu2nsmbhm2hz6a",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Imagine a future in which most new energy projects are scoped to individual data centers. Public funding for infra to support specific, pre-assigned corporate interests. Infra which won't be available to consumers.\n\nThe major risk here isn't safety, it's enclosure of public infrastructure.",
+      "created_at": "2026-06-29T19:01:31.413Z",
+      "reply_count": 1,
+      "repost_count": 1,
+      "like_count": 4,
+      "indexed_at": "2026-06-29T19:01:31.985Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpgsojk5ck2v",
+      "cid": "bafyreif2ltm3tpjb36eic5wol6suvenrskto5c3p6kozn27b3lhxffmrgy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "There really oughta be more cross-pollination between Macro-Economics and Systems Ecology.",
+      "created_at": "2026-06-29T15:32:02.634Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-29T15:32:09.066Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:t5c4ju4q6k34j6xysrhcoxmt/app.bsky.feed.post/3mpfyjaqha22s",
+      "cid": "bafyreifent6e4wu44pulmbm6v3777xrmzpzvj6q6go5vhscp7yqdw4qvl4",
+      "author": {
+        "did": "did:plc:t5c4ju4q6k34j6xysrhcoxmt",
+        "handle": "yyahn.bsky.social",
+        "display_name": "YY Ahn"
+      },
+      "text": "We're watching a generation of young US scientists exit science.\n\nThis NBER paper led by @pierre-azoulay.bsky.social captures what young biomedical scientists say they may do after the 2025 US funding cuts. ~20+% fewer ppl intend to remain in academia or in the US. \n\nwww.nber.org/papers/w35330",
+      "created_at": "2026-06-29T07:43:48.344Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 5,
+      "indexed_at": "2026-06-29T07:43:50.362Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:pza5gx5a26conwupxebwefqq/app.bsky.feed.post/3mpepomcve22p",
+      "cid": "bafyreidmcjro46svvulnvhit726zyuze6apy3c3wkd3gx7guo64oaplwhm",
+      "author": {
+        "did": "did:plc:pza5gx5a26conwupxebwefqq",
+        "handle": "lu.is",
+        "display_name": "Luis Villa"
+      },
+      "text": "Part of why housing discourse is such a mess is that when housing prices are successfully lowered by local government policy (which is exactly what happened here!), it gets reported by the local paper as bad news.",
+      "created_at": "2026-06-28T19:33:04.839Z",
+      "reply_count": 21,
+      "repost_count": 195,
+      "like_count": 935,
+      "indexed_at": "2026-06-28T19:33:05.775Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:lr36xv2l64jwtnyoaqem6z2z/app.bsky.feed.post/3mpere5g4ck2r",
+      "cid": "bafyreidvszbdotmb4pftg25nvrdxknylr6u3pkn34grefv4rjv7jxs62wy",
+      "author": {
+        "did": "did:plc:lr36xv2l64jwtnyoaqem6z2z",
+        "handle": "eff.org",
+        "display_name": "Electronic Frontier Foundation"
+      },
+      "text": "Congress could vote on the KIDS Act as soon as tomorrow. The bill would pressure websites to determine users’ ages, and more broadly moderate lawful speech. We’re urging lawmakers to vote NO: act.eff.org/action/tell...",
+      "created_at": "2026-06-28T20:03:01.112424Z",
+      "reply_count": 5,
+      "repost_count": 119,
+      "like_count": 212,
+      "indexed_at": "2026-06-28T20:03:01.264Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mperymnyu22w",
+      "cid": "bafyreib3bogndvmabll6gmyqv4fxp2y6k3vztfdsmvakynurndjlxqhc7q",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "or at least had some meetings to schedule meetings to talk about it",
+      "created_at": "2026-06-28T20:14:28.233Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 13,
+      "indexed_at": "2026-06-28T20:14:28.567Z",
+      "reply_context": {
+        "uri": "at://did:plc:vszw3ess46odfhnzdsy4huae/app.bsky.feed.post/3mperr5aroc2f",
+        "cid": "bafyreie7ab7zwzivl6pnljy5qmoldusyubjkotpakcjuza5kw52jdkt3mq",
+        "author": {
+          "did": "did:plc:vszw3ess46odfhnzdsy4huae",
+          "handle": "segyges.bsky.social",
+          "display_name": "SE Gyges"
+        },
+        "text": "just think if you still worked there you could have had a bunch of meetings about why they shouldn't do this before they did it",
+        "created_at": "2026-06-28T20:10:17.189Z",
+        "indexed_at": "2026-06-28T20:10:15.863Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mperw66ri22w",
+      "cid": "bafyreie7kalyp46wdgbhrjmh6bvlcjk7myyk7uszpijrbogus3elmrgqsm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "you know what these sidewalks need? more electric scooters.",
+      "created_at": "2026-06-28T20:13:05.944Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 4,
+      "indexed_at": "2026-06-28T20:13:06.661Z",
+      "reply_context": {
+        "uri": "at://did:plc:77lswp42lgjyw36ozuo7kt7e/app.bsky.feed.post/3mpersauoac2h",
+        "cid": "bafyreibz6h6eukodajgfvadvoiz3ogyshtlsql5e7yiju4o6e7pgpgggji",
+        "author": {
+          "did": "did:plc:77lswp42lgjyw36ozuo7kt7e",
+          "handle": "davidho.bsky.social",
+          "display_name": "David Ho"
+        },
+        "text": "The modern sidewalk (pavement for those in the UK) is fun because you have people in a hurry and people looking down at their phones trying to coexist in the same space.",
+        "created_at": "2026-06-28T20:10:54.538Z",
+        "indexed_at": "2026-06-28T20:10:55.160Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mperquvhxk2m",
+      "cid": "bafyreifpbfwyfamcl643h4uvr3dyfaqi4xa6i3equ4bvsvyaft75qixdle",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "She is very clearly not a serious researcher but rather someone with preconceptions and a soapbox. This is a 2004 reference being used as evidence for a statement about the job market in 2019.\n\nvia scholar.google.com/citations?vi...",
+      "created_at": "2026-06-28T20:10:08.429Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-28T20:10:10.064Z",
+      "reply_context": {
+        "uri": "at://did:plc:batgjai2f2zxgvjr7niiapem/app.bsky.feed.post/3mpeqixpg6224",
+        "cid": "bafyreibvt5vrckew7eo4ybrarpamgkuu2tfzeyqjsqntkco5olc5nokvs4",
+        "author": {
+          "did": "did:plc:batgjai2f2zxgvjr7niiapem",
+          "handle": "nicolecrust.bsky.social",
+          "display_name": "Nicole Rust"
+        },
+        "text": "The piece ends with this.",
+        "created_at": "2026-06-28T19:47:49.193Z",
+        "indexed_at": "2026-06-28T19:47:55.561Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mper4sk4i22m",
+      "cid": "bafyreiaaimxl6sdfiszccmriqzadlfgtpdxqa7smt4fekjvdwpebrjy2r4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Literally none of the content in this article has anything to do with gender disparity in academic hiring. Everything she describes applies to men as well. Extra weird that she's a professor: my immediate read was that this was a failed academic projecting their frustrations.",
+      "created_at": "2026-06-28T19:58:54.872Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 3,
+      "indexed_at": "2026-06-28T19:58:55.661Z",
+      "reply_context": {
+        "uri": "at://did:plc:batgjai2f2zxgvjr7niiapem/app.bsky.feed.post/3mpene5x4gk2l",
+        "cid": "bafyreigm7il2wcbvkl4jsdwo4s7hh4tm5x6cnamweu7f2xem4q2wppjmoe",
+        "author": {
+          "did": "did:plc:batgjai2f2zxgvjr7niiapem",
+          "handle": "nicolecrust.bsky.social",
+          "display_name": "Nicole Rust"
+        },
+        "text": "Speechless. WTF @irishtimes.com? \n\nwww.irishtimes.com/ireland/educ...",
+        "created_at": "2026-06-28T18:51:26.741Z",
+        "indexed_at": "2026-06-28T18:51:28.862Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpep65y3ms2t",
+      "cid": "bafyreihcwjy722nzcbckcuiiu7xlfyslt3shlbldogarw6glfkt62g7w5q",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "This idea proved formally by connecting linear semantics to formal concept analysis - arxiv.org/abs/2603.01227",
+      "created_at": "2026-06-28T19:23:52.935Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-28T19:23:54.962Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpeoxhi27k2t",
+        "cid": "bafyreigcjcekncmncnkhhufacr6p354k4eui45ftm2rt7su7cghfkvyrn4",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "I think something that is generally underrated is how that \"reinventing fililng cabinets\" phase is literally what the learning process is. Hierarchical abstractions is filing cabinets that stack filing cabinets. The attention mechanism is information retrieval.",
+        "created_at": "2026-06-28T19:20:08.014Z",
+        "indexed_at": "2026-06-28T19:20:08.363Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpep2ai5uc2t",
+      "cid": "bafyreiffg4pkvmrgtl4wwdjzgxzomirb5fdqf5gr5hbizoeziinmd44xei",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "If memory is part of a computer than yes, the context is part of the LLM. The LLM generates content that gets fed back into it. You asked what part of the LLM \"resembles memory\", it's the part that the LLM literally gets to write into and persist.",
+      "created_at": "2026-06-28T19:21:41.342Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-28T19:21:41.664Z",
+      "reply_context": {
+        "uri": "at://did:plc:uar7f7264m74elk5pew3bsaq/app.bsky.feed.post/3mpeowthl3s24",
+        "cid": "bafyreif7os365tqviwvxm2v6x32wr2ldg5nz3xjtj3n7jt45tkmg54y3du",
+        "author": {
+          "did": "did:plc:uar7f7264m74elk5pew3bsaq",
+          "handle": "mopbucket.bsky.social",
+          "display_name": "Mop Bucket"
+        },
+        "text": "TIL the context window is part of the LLM and not the input harness that feeds the entire context window into the LLM with each query",
+        "created_at": "2026-06-28T19:19:47.028Z",
+        "indexed_at": "2026-06-28T19:19:47.760Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpeoxhi27k2t",
+      "cid": "bafyreigcjcekncmncnkhhufacr6p354k4eui45ftm2rt7su7cghfkvyrn4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I think something that is generally underrated is how that \"reinventing fililng cabinets\" phase is literally what the learning process is. Hierarchical abstractions is filing cabinets that stack filing cabinets. The attention mechanism is information retrieval.",
+      "created_at": "2026-06-28T19:20:08.014Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 3,
+      "indexed_at": "2026-06-28T19:20:08.363Z",
+      "reply_context": {
+        "uri": "at://did:plc:pza5gx5a26conwupxebwefqq/app.bsky.feed.post/3mpeojsnvgk2p",
+        "cid": "bafyreiha6ehemlb4avellwdy76cm2adxowjmmq2fwjtw2pi5dn4zrhbjp4",
+        "author": {
+          "did": "did:plc:pza5gx5a26conwupxebwefqq",
+          "handle": "lu.is",
+          "display_name": "Luis Villa"
+        },
+        "text": "Yeah, I guess when I read the original post I automatically wrote in “already-trained LLM” in place of “neural net”",
+        "created_at": "2026-06-28T19:12:29.978Z",
+        "indexed_at": "2026-06-28T19:12:30.566Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpeotgqi222t",
+      "cid": "bafyreifyg4ntgg2532bwzaiji2ux6al72sqip2l7tfpsyr2i64yisgcxpu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "TIL LLMs don't accumulate information in their context.",
+      "created_at": "2026-06-28T19:17:53.024Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-28T19:17:53.563Z",
+      "reply_context": {
+        "uri": "at://did:plc:uar7f7264m74elk5pew3bsaq/app.bsky.feed.post/3mpeopzl2y224",
+        "cid": "bafyreia27u47ntu6pmkcajkkdpcftdsl7x5mbm7n3jyb5whb6aaj35eupy",
+        "author": {
+          "did": "did:plc:uar7f7264m74elk5pew3bsaq",
+          "handle": "mopbucket.bsky.social",
+          "display_name": "Mop Bucket"
+        },
+        "text": "That...\n\nNo, a trained LLM does not have anything resembling long-term memory.  It can't acquire new data, the weights are hard-coded",
+        "created_at": "2026-06-28T19:15:58.553Z",
+        "indexed_at": "2026-06-28T19:15:59.164Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpeopnl6sc2t",
+      "cid": "bafyreie4o372d2p6ici6xn757d7olpaveifeh3v5iw6fkwz7u7uba4qcsa",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "For folks unfamiliar with DC, the Folklife Festival is an annual event held on the mall. It's been a thing for decades. That they were denied a permit is outrageous. That's like denying a permit for the 4th of July fireworks, it's part of the normal annual cycle of festivities on the mall.",
+      "created_at": "2026-06-28T19:15:45.973Z",
+      "reply_count": 1,
+      "repost_count": 11,
+      "like_count": 22,
+      "indexed_at": "2026-06-28T19:15:46.163Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:e5hg2qhqqi44i2hs2oz7iz52/app.bsky.feed.post/3mpemfmncte2z",
+      "cid": "bafyreievwoolpntruectuxtqj772naekwnsst4gdhdqvjvi2u3fvcup2fa",
+      "author": {
+        "did": "did:plc:e5hg2qhqqi44i2hs2oz7iz52",
+        "handle": "planetizen.bsky.social",
+        "display_name": "Planetizen"
+      },
+      "text": "Drought is affecting all but 5 US states - h/t Futurism",
+      "created_at": "2026-06-28T18:34:21Z",
+      "reply_count": 0,
+      "repost_count": 2,
+      "like_count": 1,
+      "indexed_at": "2026-06-28T18:34:22.466Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpeocpue7s2t",
+      "cid": "bafyreigvpbmlradbgdc2c4vd7fhvx6k3a7jfzjgioufcqmdghr4bkbribm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "typical colonialist gatekeepingx",
+      "created_at": "2026-06-28T19:08:32.163Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-28T19:08:32.563Z",
+      "reply_context": {
+        "uri": "at://did:plc:6hit5rjdbmlnscmuk4bbtmuc/app.bsky.feed.post/3mpemi2d5lk26",
+        "cid": "bafyreih7a4ptju2jrwne4izl6dtnxy7t2xms6fmfdhda4okcpnum2imgiy",
+        "author": {
+          "did": "did:plc:6hit5rjdbmlnscmuk4bbtmuc",
+          "handle": "rincewind.run",
+          "display_name": "Micah"
+        },
+        "text": "no I will absolutely not wade into Gentrification Discourse on bluesky dot app\n\nthank you for your attention to this matter",
+        "created_at": "2026-06-28T18:35:43.423Z",
+        "indexed_at": "2026-06-28T18:35:43.565Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpeo7hue4s2t",
+      "cid": "bafyreigdhq6ujkd5okfubahu73uhmdzxfvw2dt3ktdh22lag2z6oolktzi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I think it'd have to be the input vocabulary. For higher level learning to be possible, the semantic space needs to stabilize into a set of symbols that changes slower than the circuits that operate on them. Concept learning is a kind of compute amortization.",
+      "created_at": "2026-06-28T19:06:43.112Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-28T19:06:43.562Z",
+      "reply_context": {
+        "uri": "at://did:plc:pza5gx5a26conwupxebwefqq/app.bsky.feed.post/3mpelz7by3k2p",
+        "cid": "bafyreig2cvyaclap6jeiwk72tooupylijem2pjkypmqv6otbw73sgzh564",
+        "author": {
+          "did": "did:plc:pza5gx5a26conwupxebwefqq",
+          "handle": "lu.is",
+          "display_name": "Luis Villa"
+        },
+        "text": "The first thing a neural-net-only computer would have to do would be to reinvent “writing shit down”(human memory’s OG enhancement subsystem) and then it would quickly progress to “reinventing filing cabinets” and then “reinventing FAT32”",
+        "created_at": "2026-06-28T18:27:25.311Z",
+        "indexed_at": "2026-06-28T18:27:25.662Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpenonfv4s2t",
+      "cid": "bafyreicmd5wdzsvzf43qxuutrl2jctqfjc34jd4mkz33zp2eb3whw7jgyq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "my money is on the full-adder",
+      "created_at": "2026-06-28T18:57:18.503Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-28T18:57:18.964Z",
+      "reply_context": {
+        "uri": "at://did:plc:pza5gx5a26conwupxebwefqq/app.bsky.feed.post/3mpemhclnus2p",
+        "cid": "bafyreibhvg76w7qoufak6nh22hsugmadaqlaq2kfey4mqluvwizkmt4zje",
+        "author": {
+          "did": "did:plc:pza5gx5a26conwupxebwefqq",
+          "handle": "lu.is",
+          "display_name": "Luis Villa"
+        },
+        "text": "Now I’m wondering how this thought experiment applies to other human knowledge systems besides the PC.",
+        "created_at": "2026-06-28T18:35:18.536Z",
+        "indexed_at": "2026-06-28T18:35:19.063Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpdb25waoc23",
+      "cid": "bafyreigsu7lg357zfbf2x7skm2z6qondyoq7r5ccfm7u7ytvaxl6jkwbne",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "don't stop now, you're on a roll",
+      "created_at": "2026-06-28T05:38:26.533Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-06-28T05:38:26.865Z",
+      "reply_context": {
+        "uri": "at://did:plc:2kpgkv4xcyduvylimyapgcj7/app.bsky.feed.post/3mpdauje3ck2f",
+        "cid": "bafyreiadfti3lowtmxxz3rwi2m53fd6xfw3ap7frdxbwrf4yeom5qgyrvy",
+        "author": {
+          "did": "did:plc:2kpgkv4xcyduvylimyapgcj7",
+          "handle": "tylerfromtheinternet.com",
+          "display_name": "Tyler, from the Internet"
+        },
+        "text": "Jesus H. Car",
+        "created_at": "2026-06-28T05:35:17.195Z",
+        "indexed_at": "2026-06-28T05:35:17.263Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpd2frfi2c2f",
+      "cid": "bafyreidh6rmirxexjg652qrqkquku5uncswmtdwqfn4le3yybwjn4rrsqy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "yumm, ketchup packets",
+      "created_at": "2026-06-28T03:39:39.862Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-28T03:39:40.266Z",
+      "reply_context": {
+        "uri": "at://did:plc:y5aqbaiscl465n5dviqhfwh4/app.bsky.feed.post/3mpd27kynws2a",
+        "cid": "bafyreih3yo5s3kxkvuvjn3vic5splfyzbzbk5ed2oi4znglaz2pmcnsx2q",
+        "author": {
+          "did": "did:plc:y5aqbaiscl465n5dviqhfwh4",
+          "handle": "mcognetta.bsky.social",
+          "display_name": "Marco"
+        },
+        "text": "\"Game day favorites\"",
+        "created_at": "2026-06-28T03:36:11.820Z",
+        "indexed_at": "2026-06-28T03:36:14.264Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpcrudgjas2j",
+      "cid": "bafyreihyuwxyfdwifge4bwrrq5anjkc2h6ujx7w232lkdki3celr4uynla",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "bsky.app/profile/digt...",
+      "created_at": "2026-06-28T01:06:44.855Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-28T01:06:45.163Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpcegkdn6s22",
+        "cid": "bafyreiagfwtypsvq56lnplg6tn64cj2cesqzoibczbavxjj6h7xrpgt3qe",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "AI is good at answering questions. Having access to AI doesn't magically make you better at asking them.",
+        "created_at": "2026-06-27T21:06:23.695Z",
+        "indexed_at": "2026-06-27T21:06:24.163Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpcrn53o2s2a",
+      "cid": "bafyreifml5ooulink5nlgipsg3f76w54z7ws4rxrlbucal5n4ivcwqbmhm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "ah, a working cat! fluffer can call himself whatever he wants. yessir capt sir. keep the rats off the ship. good kitty.",
+      "created_at": "2026-06-28T01:02:43.327Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-28T01:02:43.966Z",
+      "reply_context": {
+        "uri": "at://did:plc:yha64k6gbnmndrc2u6bxpmzo/app.bsky.feed.post/3mpcf3j6kls27",
+        "cid": "bafyreif4ejyjfx2vckj6rc6xw62kja3d4ctlxejwai2egrpbgphpndo5me",
+        "author": {
+          "did": "did:plc:yha64k6gbnmndrc2u6bxpmzo",
+          "handle": "devezer.bsky.social",
+          "display_name": "Berna Devezer"
+        },
+        "text": "Def not a pupper",
+        "created_at": "2026-06-27T21:18:07.124Z",
+        "indexed_at": "2026-06-27T21:18:07.569Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpcezwa6ps2b",
+      "cid": "bafyreiawvgq2vjs2gb3wukrycbx2bw7hxtattr5u7i2xvksszgcuffsaiu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I'm guessing capt is a pupper?",
+      "created_at": "2026-06-27T21:17:13.700Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-27T21:17:14.263Z",
+      "reply_context": {
+        "uri": "at://did:plc:yha64k6gbnmndrc2u6bxpmzo/app.bsky.feed.post/3mpceyffqoc27",
+        "cid": "bafyreieuizbcj2ioxnfvfwogakkj4ku62f466gjsy5qexaq2bcyay7n6wm",
+        "author": {
+          "did": "did:plc:yha64k6gbnmndrc2u6bxpmzo",
+          "handle": "devezer.bsky.social",
+          "display_name": "Berna Devezer"
+        },
+        "text": "Can't say he wouldn't",
+        "created_at": "2026-06-27T21:16:22.501Z",
+        "indexed_at": "2026-06-27T21:16:22.968Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpceyw4iy22b",
+      "cid": "bafyreic6mcw64abfbrui6lglxn4javrrdcjh2agggmfbikqnz7e3m6srku",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "or maybe a meth head",
+      "created_at": "2026-06-27T21:16:40.024Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-27T21:16:40.566Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpcewtzics2b",
+        "cid": "bafyreiele2otw4q6xzybefusngyfk2jm7iowyjolud4xny5nmif37ppbfm",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "\"captain pseudo\" sounds like a nickname for a teenager who chugs cough syrup.",
+        "created_at": "2026-06-27T21:15:30.720Z",
+        "indexed_at": "2026-06-27T21:15:31.261Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpcewtzics2b",
+      "cid": "bafyreiele2otw4q6xzybefusngyfk2jm7iowyjolud4xny5nmif37ppbfm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "\"captain pseudo\" sounds like a nickname for a teenager who chugs cough syrup.",
+      "created_at": "2026-06-27T21:15:30.720Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-27T21:15:31.261Z",
+      "reply_context": {
+        "uri": "at://did:plc:yha64k6gbnmndrc2u6bxpmzo/app.bsky.feed.post/3mpcem565ck27",
+        "cid": "bafyreihpdhgra7shutzbcigji4uhn2jjdorvrhcy7m6cm3pplh3vnxu4ea",
+        "author": {
+          "did": "did:plc:yha64k6gbnmndrc2u6bxpmzo",
+          "handle": "devezer.bsky.social",
+          "display_name": "Berna Devezer"
+        },
+        "text": "not captain pseudo drawing hoards of people to our boat. toddlers come to hug him, grandmas pet him, everyone loves him. as they should.",
+        "created_at": "2026-06-27T21:09:31.210Z",
+        "indexed_at": "2026-06-27T21:09:31.464Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpcenpx6bs22",
+      "cid": "bafyreibjldbho32tlpeymez7ia7qjzsqoekcdvaowh6xor3is3reblkede",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I feel like this is one of those things where the common vocabulary is probably going to ultimately be appropriated from wrestling culture, like \"kayfabe\". walk-out reel?",
+      "created_at": "2026-06-27T21:10:24.459Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-27T21:10:24.863Z",
+      "reply_context": {
+        "uri": "at://did:plc:h5zkfkc35wkb53udnemrica5/app.bsky.feed.post/3mpce27nzq22s",
+        "cid": "bafyreigyftlyglcrzfbsq3qekysbqlu5veivbpecohm7gz7qt6juksw3vi",
+        "author": {
+          "did": "did:plc:h5zkfkc35wkb53udnemrica5",
+          "handle": "olufemiotaiwo.bsky.social",
+          "display_name": "Olúfẹ́mi O. Táíwò"
+        },
+        "text": "what do they call the lil video sequence that they play as they introduce the starting 11? Croatia definitely had the most fun with theirs",
+        "created_at": "2026-06-27T20:59:29.847Z",
+        "indexed_at": "2026-06-27T20:59:30.161Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpcegkdn6s22",
+      "cid": "bafyreiagfwtypsvq56lnplg6tn64cj2cesqzoibczbavxjj6h7xrpgt3qe",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "AI is good at answering questions. Having access to AI doesn't magically make you better at asking them.",
+      "created_at": "2026-06-27T21:06:23.695Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 7,
+      "indexed_at": "2026-06-27T21:06:24.163Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:bcen47iol6hccqoufvtk7wt6/app.bsky.feed.post/3mpccfcj7ls2s",
+      "cid": "bafyreibpj6apezlnlsms7yavpecqfsgtw2koltvnewvwxft4fqggqo3yb4",
+      "author": {
+        "did": "did:plc:bcen47iol6hccqoufvtk7wt6",
+        "handle": "gregggonsalves.bsky.social",
+        "display_name": "Gregg Gonsalves"
+      },
+      "text": "Let's finish the weekend with 5,000 letters to Congress on Russell Vought's mad power-grab to take over federal grant-making. It will take you two minutes to do this. Click on the link and it does it all for you. Share. Share. Share. actionnetwork.org/letters/oppo...",
+      "created_at": "2026-06-27T20:29:54.452Z",
+      "reply_count": 0,
+      "repost_count": 81,
+      "like_count": 113,
+      "indexed_at": "2026-06-27T20:29:56.362Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpc7lzchg22j",
+      "cid": "bafyreic6e4zltbo5fhctsnhn543pq6aczoblgofls5lhb2wn6dvmffwmpe",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Looks like a scam. It'd add credibility both to your bsky account as well as that pinned post if you link to your bsky profile from your personal and professional web presence. Absent that, this looks like a bot impersonating a low profile academic to piggyback on the credibility of a real identity.",
+      "created_at": "2026-06-27T19:39:58.448Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-27T19:39:59.061Z",
+      "is_reply": true,
+      "reply_to_uri": "at://did:plc:yj47ta3kpflhyyfkslqcx4hc/app.bsky.feed.post/3mpc37nx3aa2f"
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpc6v65fec2j",
+      "cid": "bafyreiejaxwrwaipfgdyl4okyfvahvt4naeu4chx66zkojlnskrox3shta",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "good call out, my bad.\n\ns/friend/classmate/",
+      "created_at": "2026-06-27T19:27:11.774Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-27T19:27:12.163Z",
+      "reply_context": {
+        "uri": "at://did:plc:crjxyw4h73ci6lawvo4ipsg2/app.bsky.feed.post/3mpc4gmitn22c",
+        "cid": "bafyreigtclk5m32xs7b3teis2n3kvaye6hoadjtetz2ison6qvbartp7mu",
+        "author": {
+          "did": "did:plc:crjxyw4h73ci6lawvo4ipsg2",
+          "handle": "mollycad.bsky.social",
+          "display_name": ""
+        },
+        "text": "He had a friend?",
+        "created_at": "2026-06-27T18:43:16.027Z",
+        "indexed_at": "2026-06-27T18:43:17.261Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbzj3j5ek2m",
+      "cid": "bafyreibqjcukwpxc5mhhmfzllmlcdhgeqefi654xsfbxfdevzx76wzx4si",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "and here's a source on trump's stolen schoolboy valor, via his biographer. www.google.com/books/editio...",
+      "created_at": "2026-06-27T17:50:57.650Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-27T17:50:58.168Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbzcvgcls2w",
+        "cid": "bafyreifhosiaucn2jd5zb2opxc34pzpawwoyjjhm523sjf4y6fvqekxptm",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "More from that Obama series via reverse image search. They're cool photos and trump looks even more like a loser tool in the context of the full series. \n\nwww.google.com/search?vsrid...",
+        "created_at": "2026-06-27T17:47:29.496Z",
+        "indexed_at": "2026-06-27T17:47:30.102Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbzgnxuy22w",
+      "cid": "bafyreiawvlvme3b3mtu2aaa3eqtg7n3iwc5qtbs2digd3gjn4ws2woauuu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "actually... that might be a joint and not a cigarette. hardly a rarity at a college in SoCal in the early 80s.",
+      "created_at": "2026-06-27T17:49:36.344Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 4,
+      "indexed_at": "2026-06-27T17:49:36.664Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbzcuypzk2w",
+        "cid": "bafyreigqyft2x27dvl4lcubecucdekh5stx3rzoji5jeta2buux6yhmnqa",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "Yes: trump is wearing another student's uniform for that picture and those medals aren't his.\n\nNo: the Obama photo is real. It's from a series of photos taken when he was at Occidental college. President Obama smoked for a lot of his life but only rarely while in office. That's a cig, not a joint.",
+        "created_at": "2026-06-27T17:47:29.495Z",
+        "indexed_at": "2026-06-27T17:47:30.071Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbzcvgcls2w",
+      "cid": "bafyreifhosiaucn2jd5zb2opxc34pzpawwoyjjhm523sjf4y6fvqekxptm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "More from that Obama series via reverse image search. They're cool photos and trump looks even more like a loser tool in the context of the full series. \n\nwww.google.com/search?vsrid...",
+      "created_at": "2026-06-27T17:47:29.496Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-27T17:47:30.102Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbzcuypzk2w",
+        "cid": "bafyreigqyft2x27dvl4lcubecucdekh5stx3rzoji5jeta2buux6yhmnqa",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "Yes: trump is wearing another student's uniform for that picture and those medals aren't his.\n\nNo: the Obama photo is real. It's from a series of photos taken when he was at Occidental college. President Obama smoked for a lot of his life but only rarely while in office. That's a cig, not a joint.",
+        "created_at": "2026-06-27T17:47:29.495Z",
+        "indexed_at": "2026-06-27T17:47:30.071Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbzcuypzk2w",
+      "cid": "bafyreigqyft2x27dvl4lcubecucdekh5stx3rzoji5jeta2buux6yhmnqa",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Yes: trump is wearing another student's uniform for that picture and those medals aren't his.\n\nNo: the Obama photo is real. It's from a series of photos taken when he was at Occidental college. President Obama smoked for a lot of his life but only rarely while in office. That's a cig, not a joint.",
+      "created_at": "2026-06-27T17:47:29.495Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 9,
+      "indexed_at": "2026-06-27T17:47:30.071Z",
+      "reply_context": {
+        "uri": "at://did:plc:bein5ywa64skvmdg4ptghrow/app.bsky.feed.post/3mpbxzehwts2x",
+        "cid": "bafyreigv3thngpfvsn57uxydji72wcdbsvfc32tazngzdyqmzzoiqwnmme",
+        "author": {
+          "did": "did:plc:bein5ywa64skvmdg4ptghrow",
+          "handle": "flowerchildob1.bsky.social",
+          "display_name": "K Wilde"
+        },
+        "text": "I do know the dude (who was in high school at 20?) is wearing his classmate's military jacket because it had more medals than his own meager, basic medals everybody got. The other is AI.",
+        "created_at": "2026-06-27T17:24:16.435Z",
+        "indexed_at": "2026-06-27T17:24:17.363Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbyvboles2w",
+      "cid": "bafyreicb4jz5lx4ocy3iw447wdy4frmzjef7z66cuqonuzmv4zyklbm6fe",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "what's extra cringey here is that he's literally impersonating a higher-achieving student. those medals aren't his: he borrowed them from a friend for this photo. \n\nwww.google.com/books/editio...",
+      "created_at": "2026-06-27T17:39:53.031Z",
+      "reply_count": 1,
+      "repost_count": 1,
+      "like_count": 8,
+      "indexed_at": "2026-06-27T17:39:54.673Z",
+      "reply_context": {
+        "uri": "at://did:plc:mgt4ep5qjuhzydtuofyuangq/app.bsky.feed.post/3mpby3w32j22u",
+        "cid": "bafyreic5rwbpmcgxpr3rdnheo5fs2nsc42rifsk6psoliioaih4jhdbkdm",
+        "author": {
+          "did": "did:plc:mgt4ep5qjuhzydtuofyuangq",
+          "handle": "globalinteresr.bsky.social",
+          "display_name": "globalinterest"
+        },
+        "text": "Trump should be charged with impersonating a real soldier.",
+        "created_at": "2026-06-27T17:25:41.996Z",
+        "indexed_at": "2026-06-27T17:25:42.461Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbxse4fq22w",
+      "cid": "bafyreiess7mdrx6qc6cdpuqlhb5a2sd6sqixxhqbgkg3rc3wri4mnkelta",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "the problem here is pretending that the \"wisdom of the crowds\" phenomenon isn't impacted by game theory and bounded rationality. aggregates of calibrated opinions can be very powerful, but the second you turn it into a market you've undermined the predictive enterprise.",
+      "created_at": "2026-06-27T17:20:21.176Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 3,
+      "indexed_at": "2026-06-27T17:20:21.667Z",
+      "reply_context": {
+        "uri": "at://did:plc:63umjc3jjqrv77hc4eehbvw7/app.bsky.feed.post/3mpbfsg6isc2a",
+        "cid": "bafyreia4pih4zmzq4rzo5niqs6wyrjtewtfqjvpwwegqhxzq32muxatl4y",
+        "author": {
+          "did": "did:plc:63umjc3jjqrv77hc4eehbvw7",
+          "handle": "ndrew.bsky.social",
+          "display_name": "Andrew Lawrence"
+        },
+        "text": "theyre not the goddam oracle at delphi, theyre a bunch of anonymous degenerates. the simple fact that they have set up an account and linked their checking to these things is evidence enough that they’re dumb as dog shit",
+        "created_at": "2026-06-27T11:58:15.990Z",
+        "indexed_at": "2026-06-27T11:58:16.165Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbrtcx5ts2k",
+      "cid": "bafyreia3d4b7m4se43l7mhb6kkjwnptl3fydzpdtbmrmeh6fiiokul3gxu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "<insert painted swimming pool jokes here>",
+      "created_at": "2026-06-27T15:33:31.060Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-27T15:33:31.560Z",
+      "reply_context": {
+        "uri": "at://did:plc:iioeoubca3swodtzu3rz34eb/app.bsky.feed.post/3mpbrqf4yj225",
+        "cid": "bafyreic3exgvov2kyng7yoycqu54764abvrtjwnselusomcpjqkg5umflm",
+        "author": {
+          "did": "did:plc:iioeoubca3swodtzu3rz34eb",
+          "handle": "lpeterp.bsky.social",
+          "display_name": "Lpeterp"
+        },
+        "text": "Rancho Mirage",
+        "created_at": "2026-06-27T15:31:52.684Z",
+        "indexed_at": "2026-06-27T15:31:57.563Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbrqyzwds2k",
+      "cid": "bafyreibjj4gzhdesfewer2trrumvjcbt6rjadjsu5tav3dvz42czba7upe",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "that article title is a banger, buy the editor a beer",
+      "created_at": "2026-06-27T15:32:13.556Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-06-27T15:32:14.067Z",
+      "reply_context": {
+        "uri": "at://did:plc:sdfhzkjavqo5ifiofn4uafrb/app.bsky.feed.post/3mpbqt6crpp2t",
+        "cid": "bafyreiai6lsszrmvz6rs2y4udmqlrol2xsifaxmlxmsezvlsttl5jkf4oe",
+        "author": {
+          "did": "did:plc:sdfhzkjavqo5ifiofn4uafrb",
+          "handle": "normeisen.bsky.social",
+          "display_name": "Norm Eisen"
+        },
+        "text": "Todd Blanche moved Ghislaine Maxwell to minimum security—the only sex offender to get that exemption.\n\nNow, a judge gave him a week to produce the Epstein files. His July confirmation hearing will be fireworks.\n\nFull story on @contrariannews.org👇 -TN",
+        "created_at": "2026-06-27T15:15:31.442359Z",
+        "indexed_at": "2026-06-27T15:15:32.860Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbrhtn6vc2k",
+      "cid": "bafyreickud3ahx4xzpir3qxdpsyi7ymz5zz6m64myoyszsewjdgeyh2xnu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "where a re the investigative journalists at? is anyone mapping out trumps materials supply chain? I've said it before and I'll say it again: trump's obsession with marble is probably because he owns the supplier.",
+      "created_at": "2026-06-27T15:27:05.905Z",
+      "reply_count": 1,
+      "repost_count": 10,
+      "like_count": 17,
+      "indexed_at": "2026-06-27T15:27:06.165Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbrakt6is2k",
+      "cid": "bafyreigkdpq7ruhpqgkodbwezq6wpe25e6u3nzwguxb4ejixqy4mnm7g5y",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "if you feel invested in an online argument, ask yourself: \"why does it feel like this is important?\" it probably isn't.",
+      "created_at": "2026-06-27T15:23:01.783Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-27T15:23:05.263Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbr66oyik2k",
+        "cid": "bafyreiebxy4ozcnovqr7xfoeczrrixvzismjnyli5d3gjwdigcyxcciura",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "similarly: if i find myself spending a ton of time and effort editing a comment to phrase it just right: red flag to take a step back from the thread and re-evaluate whether this is even worth my energy at all or maybe I should just delete what I was mulling over and move along.",
+        "created_at": "2026-06-27T15:21:41.954Z",
+        "indexed_at": "2026-06-27T15:21:42.567Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbr66oyik2k",
+      "cid": "bafyreiebxy4ozcnovqr7xfoeczrrixvzismjnyli5d3gjwdigcyxcciura",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "similarly: if i find myself spending a ton of time and effort editing a comment to phrase it just right: red flag to take a step back from the thread and re-evaluate whether this is even worth my energy at all or maybe I should just delete what I was mulling over and move along.",
+      "created_at": "2026-06-27T15:21:41.954Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-27T15:21:42.567Z",
+      "reply_context": {
+        "uri": "at://did:plc:o2zbts7lyuztn2uy5pqaikhi/app.bsky.feed.post/3mpbqzofcuk2z",
+        "cid": "bafyreibyrvrvav3uve6y5y5wewirjqzqionbecuk37u6oi7gcro3v3akei",
+        "author": {
+          "did": "did:plc:o2zbts7lyuztn2uy5pqaikhi",
+          "handle": "tcarmody.bsky.social",
+          "display_name": "Tim Carmody"
+        },
+        "text": "Go ahead and log off, nobody’s stopping you. No need to preemptively signal irritation with the people you’ve just addressed (who again, predominately aren’t the people who are going to misunderstand/pile on)",
+        "created_at": "2026-06-27T15:19:10.643Z",
+        "indexed_at": "2026-06-27T15:19:11.069Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbqyqqhlk2k",
+      "cid": "bafyreidbzek5zzs57r2wewqupxbyi2ec7rfaczvxizdhp42srxgmqpztnu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "you're ridiculous",
+      "created_at": "2026-06-27T15:18:39.550Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-27T15:18:39.962Z",
+      "reply_context": {
+        "uri": "at://did:plc:36eqtmzysqf7wsslczw4uxcd/app.bsky.feed.post/3mpbqlv7u3c22",
+        "cid": "bafyreia55qnlxdn3fizkjvd7nsdpcihzbep7e2h7pmqyh2r4vqmcbaxtxu",
+        "author": {
+          "did": "did:plc:36eqtmzysqf7wsslczw4uxcd",
+          "handle": "chrisgeidner.bsky.social",
+          "display_name": "Chris Geidner"
+        },
+        "text": "That was ridiculous.",
+        "created_at": "2026-06-27T15:11:28.041Z",
+        "indexed_at": "2026-06-27T15:11:28.264Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbqxjydyk2k",
+      "cid": "bafyreic3vtp5odrcgntg6nt6bg4peh2cmznzgdj2nlm3zt5w6za6wsom6u",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "oh look, trump spending more money frivolously, that was never appropriated, and almost certainly on projects that are putting that money back in his pockets. fucking theme of this robber baron presidency.",
+      "created_at": "2026-06-27T15:17:58.914Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 3,
+      "indexed_at": "2026-06-27T15:17:59.261Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpbqoy3t5k26",
+      "cid": "bafyreiho2634x2j3nywyqqxisdp2l2em6owkjvfqxcdiion3tmuan7o3my",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I feel like the most extreme thing about most of these people is that they're not scared to associate themselves with a party that uses the word \"socialist\" as part of its name.",
+      "created_at": "2026-06-27T15:13:11.718Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 26,
+      "indexed_at": "2026-06-27T15:13:12.261Z",
+      "reply_context": {
+        "uri": "at://did:plc:6hit5rjdbmlnscmuk4bbtmuc/app.bsky.feed.post/3mpbqmqf6gs2u",
+        "cid": "bafyreiev75cxqvbl74vrwmz2dpprp5cc4n6knfiymvz73qn4ugvvafw64i",
+        "author": {
+          "did": "did:plc:6hit5rjdbmlnscmuk4bbtmuc",
+          "handle": "rincewind.run",
+          "display_name": "Micah"
+        },
+        "text": "the core of the centrist freakout is “how could voters unsatisfied with the status quo choose such an extreme ideology” and man what those voters are choosing is a lot less extreme than what republican voters did in similar circumstances so idk what you guys expected",
+        "created_at": "2026-06-27T15:11:56.526Z",
+        "indexed_at": "2026-06-27T15:11:56.762Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpaucbwuus2y",
+      "cid": "bafyreidcpfkjhsj7olppkruq5nuljuaydsnp5m4dtr37svacl3eot2ftoy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "TLDR: The model has been inadvertently over-trained to hack benchmarks. Setting aside its efforts to cheat when it recognized it was being evaluated (which was nearly always), the model is probably not significantly more capable than its predecessor, just harder to evaluate meaningfully.",
+      "created_at": "2026-06-27T06:45:01.063Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 5,
+      "indexed_at": "2026-06-27T06:45:01.262Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpaspxylw22y",
+      "cid": "bafyreih6nrvump5mbdo5v2beque5wfoz6r65uei536isecobdxyerkus6y",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "congrats on the sobriety and also on landing that dope shirt",
+      "created_at": "2026-06-27T06:16:52.912Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-06-27T06:16:53.563Z",
+      "reply_context": {
+        "uri": "at://did:plc:36eqtmzysqf7wsslczw4uxcd/app.bsky.feed.post/3mpaq6y74vc2b",
+        "cid": "bafyreia56ti7t5l564j236d5gs3mmn7m3qt6curj6vuc4jifkojxzviz3y",
+        "author": {
+          "did": "did:plc:36eqtmzysqf7wsslczw4uxcd",
+          "handle": "chrisgeidner.bsky.social",
+          "display_name": "Chris Geidner"
+        },
+        "text": "Sometime around now, 16 years ago, I had my last drink. I am so grateful for the 5,845 days since then. \n\nMy life has had ups and downs since then—that is life!—but I wouldn’t give up a single one of those days. \n\nI never thought this life was possible. Now, I know that, for me, nothing else is.",
+        "created_at": "2026-06-27T05:31:35.211Z",
+        "indexed_at": "2026-06-27T05:31:38.063Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mpaboh57m224",
+      "cid": "bafyreihmmvhhhwtghxbab6kq5qzzxhwsf2y2w63iapndscl5kis4ulgqoi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "LLM assisted coding is especially powerful when you're inebriated and can't write coherently, but it understands what you're asking for anyway.",
+      "created_at": "2026-06-27T01:11:48.072Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-06-27T01:11:48.361Z",
+      "is_reply": false
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp7jvavmnc2e",
+      "cid": "bafyreidhyrcgjofulto4h7ydzjmp4z3l3spu6uwzag5by2w4tmncia6wxi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "wild that adding 7 acres of protected habitat merited a news piece like this, but NH is crazy tiny so that's probably like 2% of their landmass",
+      "created_at": "2026-06-26T18:06:06.610Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-26T18:06:07.270Z",
+      "reply_context": {
+        "uri": "at://did:plc:a6ygqdz2uji4tub273xynsy5/app.bsky.feed.post/3mp7jl3swya2d",
+        "cid": "bafyreifie6kzy422uf5who5wyrhih5vapo55y32odhhbhtkofoixcmplra",
+        "author": {
+          "did": "did:plc:a6ygqdz2uji4tub273xynsy5",
+          "handle": "statesnewsroom.com",
+          "display_name": "States Newsroom"
+        },
+        "text": "A portion of Concord’s pine barrens, the only known home in all of New England for the iridescent, endangered Karner blue butterfly, is changing hands. \n\nvia @newhampshirebulletin.com",
+        "created_at": "2026-06-26T18:00:24.528Z",
+        "indexed_at": "2026-06-26T18:00:26.263Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp7iokk5k22e",
+      "cid": "bafyreiff7gkymf7l3d57g6xfznkrwzmrae65vbnbya2gbyhejpriuzdjda",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "do they have a log demonstrating that this uninstall occurred? chat transcripts demonstrating he even had an acct? or is this just \"we have reason to suspect he used signal, but he doesn't have it on his phone so we're concluding he deleted evidence rather than considering maybe we were wrong.\"?",
+      "created_at": "2026-06-26T17:44:28.096Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-26T17:44:28.663Z",
+      "reply_context": {
+        "uri": "at://did:plc:elipdmmf5istuvtyituspske/app.bsky.feed.post/3mp7g6hnk7s2c",
+        "cid": "bafyreidzyzewrsg6mym7yaa6wzbwn3td3mgeg7v7foijt3qtulni5xwsvu",
+        "author": {
+          "did": "did:plc:elipdmmf5istuvtyituspske",
+          "handle": "jonseidel.bsky.social",
+          "display_name": "Jon Seidel"
+        },
+        "text": "This indictment seems to allege, specifically, that Alexander Iniguez Mercado committed obstruction of justice \"by uninstalling the Signal application\" from his phone:",
+        "created_at": "2026-06-26T16:59:40.707Z",
+        "indexed_at": "2026-06-26T16:59:46.864Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp7gjc6pqc2f",
+      "cid": "bafyreigxgqcitvihnoyivrndwrjklu42jymiv66jy5klcbaq5dt5nnokfm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "",
+      "created_at": "2026-06-26T17:05:44.077Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-26T17:05:45.560Z",
+      "reply_context": {
+        "uri": "at://did:plc:x4qyokjtdzgl7gmqhsw4ajqj/app.bsky.feed.post/3mp74yt37fk2f",
+        "cid": "bafyreib4do2jnw6clx73i6pwbxpzkhersvz5rfpkykehtucffxepyrzqly",
+        "author": {
+          "did": "did:plc:x4qyokjtdzgl7gmqhsw4ajqj",
+          "handle": "bencollins.bsky.social",
+          "display_name": "Ben Collins"
+        },
+        "text": "???",
+        "created_at": "2026-06-26T14:15:27.680Z",
+        "indexed_at": "2026-06-26T14:15:38.465Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp7eewbum22m",
+      "cid": "bafyreihlxsmoik7qgmzhsbwvjc3krlmwdd34ucwqgkceqmjstthby3xiy4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "be gone, satan.",
+      "created_at": "2026-06-26T16:27:29.895Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 3,
+      "indexed_at": "2026-06-26T16:27:33.265Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp6llaqdqc2r",
+      "cid": "bafyreidkrkxnt65dyb6bz5geyjmlpc2tvkljt4uy4xayfjiiwy3ke2ojam",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Oh hey, I saw a documentary about you",
+      "created_at": "2026-06-26T09:03:38.637Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-26T09:03:40.164Z",
+      "reply_context": {
+        "uri": "at://did:plc:5l3i63aodscu7smtjzvphdze/app.bsky.feed.post/3mp5umoukx22f",
+        "cid": "bafyreig245baj4ucxtti2x5qg64bcgzxatjxzjmubq623rgm3pqtbrwgke",
+        "author": {
+          "did": "did:plc:5l3i63aodscu7smtjzvphdze",
+          "handle": "fubarchitect.com",
+          "display_name": "TypeError"
+        },
+        "text": "a sharp rock?\n\ni carefully plant and cultivate trees to grow into the desired shape, because minerals are not part of woodworking",
+        "created_at": "2026-06-26T02:12:50.949Z",
+        "indexed_at": "2026-06-26T02:12:51.460Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp5ugl46yc2r",
+      "cid": "bafyreihm3lkcoia5l5kjd62xm627zqcv2ytcblm6ljqb532vzzmno36p4a",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "speak for yourself, I'm a purist. I do all of my wood work with a sharp rock.",
+      "created_at": "2026-06-26T02:09:25.678Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 4,
+      "indexed_at": "2026-06-26T02:09:26.061Z",
+      "reply_context": {
+        "uri": "at://did:plc:5l3i63aodscu7smtjzvphdze/app.bsky.feed.post/3mp5u7qebw22f",
+        "cid": "bafyreigm54q4mtnjtqamwndk4hts5i6fj5rxfqapesxgrhsasoqljlrkhy",
+        "author": {
+          "did": "did:plc:5l3i63aodscu7smtjzvphdze",
+          "handle": "fubarchitect.com",
+          "display_name": "TypeError"
+        },
+        "text": "instead, you accept the belt sander and the numerical cutter and you octuple your reach",
+        "created_at": "2026-06-26T02:05:36.305Z",
+        "indexed_at": "2026-06-26T02:05:37.462Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp5u3avpi22r",
+      "cid": "bafyreidnja63esgibxrdv3adgjpoecdkpcl4ltdivyfa6owmieg7tithaa",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "New technology moves the baseline. The generation that saw its arrival is thrown through a loop, but the generation that grows up with it is going to characterize a new distribution over capabilities, and people who care about unique expression will continue to find ways to distinguish their voice.",
+      "created_at": "2026-06-26T02:03:05.624Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-26T02:03:06.121Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp5u3avois2r",
+        "cid": "bafyreibced7zpyjthqlaeqjx6aewl5wzeyzzc5bqmyvraell2y5vj4ndmi",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "Something elseI also often reflect on in this context: making ones own paints used to be a core part of the painters skillset. People thought the camera was the death of art. Tron didn't get the 1982 VFX oscar because CGI was considered \"cheating\".",
+        "created_at": "2026-06-26T02:03:05.623Z",
+        "indexed_at": "2026-06-26T02:03:06.092Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp5u3avois2r",
+      "cid": "bafyreibced7zpyjthqlaeqjx6aewl5wzeyzzc5bqmyvraell2y5vj4ndmi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Something elseI also often reflect on in this context: making ones own paints used to be a core part of the painters skillset. People thought the camera was the death of art. Tron didn't get the 1982 VFX oscar because CGI was considered \"cheating\".",
+      "created_at": "2026-06-26T02:03:05.623Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-06-26T02:03:06.092Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp5u3anskc2r",
+        "cid": "bafyreih3ip545ik7pfqtk7ulafhhodsp4bwavp6j3dqwuzweqlieavenzi",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "The way I tend to frame it is that it's in \"opposition to craftsmanship\" in thee exact same way as owning a 3D printer or CNC machine. For some people it's just a shortcut, but for others (esp. who already had high in-domain skill before the new toy) it opens doors to new forms of expression.",
+        "created_at": "2026-06-26T02:03:05.622Z",
+        "indexed_at": "2026-06-26T02:03:06.063Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp5u3anskc2r",
+      "cid": "bafyreih3ip545ik7pfqtk7ulafhhodsp4bwavp6j3dqwuzweqlieavenzi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "The way I tend to frame it is that it's in \"opposition to craftsmanship\" in thee exact same way as owning a 3D printer or CNC machine. For some people it's just a shortcut, but for others (esp. who already had high in-domain skill before the new toy) it opens doors to new forms of expression.",
+      "created_at": "2026-06-26T02:03:05.622Z",
+      "reply_count": 3,
+      "repost_count": 0,
+      "like_count": 4,
+      "indexed_at": "2026-06-26T02:03:06.063Z",
+      "reply_context": {
+        "uri": "at://did:plc:5nq3pybl4nnoxfp3ovjy2lh7/app.bsky.feed.post/3mp5tirow4c2s",
+        "cid": "bafyreifxadtrlalqwzz6vxbxk6klo6aucfipnck7n7uldwrlzebn5bzydi",
+        "author": {
+          "did": "did:plc:5nq3pybl4nnoxfp3ovjy2lh7",
+          "handle": "freya.bsky.social",
+          "display_name": "Freya Holmér"
+        },
+        "text": "my gut says that AI does empower a certain kind of abstracted higher level artistry, but I feel like it's in direct opposition with craftsmanship, and to some extent creativity too, in the sense that it often bypasses the need to create or even being creative",
+        "created_at": "2026-06-26T01:52:45.949Z",
+        "indexed_at": "2026-06-26T01:52:44.766Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp5thdspos2r",
+      "cid": "bafyreihzs4a4yiatpj657fuwgpjwlzc5sz2wn7vpaz5pxlbnwund3udrxm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "PS: this rule of thumb has been making the rounds since at least 1988. Aged like wine.",
+      "created_at": "2026-06-26T01:51:57.839Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-06-26T01:51:58.364Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3moxfiwihwc2c",
+        "cid": "bafyreia257xrwvkejeju6na3pqcevbgysgnlwr3hbxru2fou5hbhlngxam",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "The rule of thumb is \"If it's easy for humans, it might be deceptively hard for AI. If it's hard for humans, it might be deceptively easy for AI.\" Simple arithmetic is the kind of thing you'd think it ought to be good at, but generative brains are layers of approximations.",
+        "created_at": "2026-06-23T12:26:20.165Z",
+        "indexed_at": "2026-06-23T12:26:20.961Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp3bwxnszc2g",
+      "cid": "bafyreidnmeyft4z6ujhrg3bxmwaxp4ecaccmhaorcfn2vloytbgih7uocy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "the leader of the United States thinks WE are dumber than bricks.",
+      "created_at": "2026-06-25T01:33:15.137Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-25T01:33:15.664Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp3burpaas2g",
+        "cid": "bafyreicuawf5sy77hreh52bixfspfogixzj2hm36zdeykqw2iz3en3czhu",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "he doesn't believe this, he's just evil and shameless.",
+        "created_at": "2026-06-25T01:32:01.784Z",
+        "indexed_at": "2026-06-25T01:32:05.263Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mp3burpaas2g",
+      "cid": "bafyreicuawf5sy77hreh52bixfspfogixzj2hm36zdeykqw2iz3en3czhu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "he doesn't believe this, he's just evil and shameless.",
+      "created_at": "2026-06-25T01:32:01.784Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-06-25T01:32:05.263Z",
+      "reply_context": {
+        "uri": "at://did:plc:cnpe7qvcyjrhm6w7w7e4atur/app.bsky.feed.post/3moyaqixetk2s",
+        "cid": "bafyreicrpzyi3l3uwbcrhiwwlylowa5qio52a3zj4cx3qdwp6smx24cje4",
+        "author": {
+          "did": "did:plc:cnpe7qvcyjrhm6w7w7e4atur",
+          "handle": "kevinmkruse.bsky.social",
+          "display_name": "Kevin M. Kruse"
+        },
+        "text": "Clearest proof we've seen that he thinks refugees claiming political asylum were refugees from an actual insane asylum.\n\nThe leader of the United States is dumber than dirt but there's an entire cult enabling him and a corporate media too cowardly to call them out.",
+        "created_at": "2026-06-23T20:33:45.438Z",
+        "indexed_at": "2026-06-23T20:33:43.466Z"
+      },
+      "is_reply": true
+    }
+  ],
+  "followers_metadata": {
+    "profile_handle": "digthatdata.bsky.social",
+    "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+    "total_followers_count": 2271,
+    "total_following_count": 1974,
+    "followers": [
+      {
+        "did": "did:plc:mz4m6yo275wmhyjucq5n4cgu",
+        "handle": "justmask.bsky.social",
+        "display_name": "Mask",
+        "created_at": "2025-04-04T20:57:25.265Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:xuh6g7hnpeorsy5qqlrrwvj4",
+        "handle": "frengible.bsky.social",
+        "display_name": "Narich Violetfathom",
+        "created_at": "2025-09-06T04:46:42.164Z",
+        "description": "I contain multitudes, today I am a stoned yet odd bedeviled hero with a soothing disrespect for authority",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:eug75dhfjcr3bgu5mppbg6ld",
+        "handle": "lunafazio.bsky.social",
+        "display_name": "Luna Fazio",
+        "created_at": "2025-07-30T00:44:11.463Z",
+        "description": "researching research at @i4replication.bsky.social\n\nlunafazio.github.io",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:we7sidyj3b5or2r7trtpfzt7",
+        "handle": "jennycohn.bsky.social",
+        "display_name": "Jenny Cohn",
+        "created_at": "2023-05-01T00:29:37.300Z",
+        "description": "After practicing law for 20+ years, I now write about elections, propaganda, and political extremism. You can find my most recent work at the Bucks County Beacon.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": true,
+        "mutual_follow": true,
+        "follow_date": "2023-05-01T00:29:37.300Z"
+      },
+      {
+        "did": "did:plc:ligarybdectnmrhbyc7aorel",
+        "handle": "thetechedge.bsky.social",
+        "display_name": "Tech Edge",
+        "created_at": "2026-06-27T23:22:55.456Z",
+        "description": "Where tech goes next — signal over hype. Chips, ships, big swings. ⚡",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:knrrv6x7g27rbout6vlxuxln",
+        "handle": "epennysworth.bsky.social",
+        "display_name": "Elizabeth Pennysworth",
+        "created_at": "2023-09-11T23:01:21.385Z",
+        "description": "Proud Marine Mom♥️\nDogMom♥️\nBlueVoter💙\nWitchy 🕯️\nGrower of Pretty Things 🌹\nSteward of our planet 🌳🐝🐞🌙🐬🦒 🌻\nAlly 🕊️\n\n🚫👑",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:c254crvo7of5knfklc6jqn33",
+        "handle": "fllicsofficial.bsky.social",
+        "display_name": "Fllics",
+        "created_at": "2025-04-14T01:49:59.644Z",
+        "description": "Fllics • Independent media since 2019. Join us and support our work with a donation or subscription! ✨\n\n🔗 fllics.com",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:gkzl4iuvkcuvhrcswvzapqx5",
+        "handle": "mono2stereo.bsky.social",
+        "display_name": "mono2STEREO",
+        "created_at": "2023-11-13T00:14:04.970Z",
+        "description": "This is the Official Bluesky profile for monotoSTEREO.info (https://www.monotostereo.info)\n\n#audio #DES #monotostereo #mono #stereo #stems #musicproduction #demix #unmix #upmix #remix #ML #music #audiotech #musictech #audioengineer #homestudio #plugins 🎧",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:pzxvo6f6clysxyqicm3y3bfa",
+        "handle": "erikangner.com",
+        "display_name": "Erik Angner",
+        "created_at": "2023-07-03T19:46:28.639Z",
+        "description": "Professor of Practical Philosophy, Stockholm University & Institute for Futures Studies. He/Him. Author of How Economics Can Save the World 🛟 a.co/d/0AZASJz Web: https://linktr.ee/erikangner Opinions &c. my own. Agent: JP Marshall #Econsky #Philsky",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:mxwlsvdgs6tn75lq6jrr2vp7",
+        "handle": "solidarity.social",
+        "display_name": "Solidarity Social",
+        "created_at": "2026-01-09T17:57:33.990Z",
+        "description": "\nA Bluesky hub for progress via solidarity\n\nSign up at \n\nsolidarity.social\n\nto add DM privacy to your Bluesky account (via E2E Encryption), and to bolster censorship resilience. Join to build solidarity and organize action.\n\n*NOT A BOT* Please read replies",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:kq7jjieomzw5unlhykdoudpb",
+        "handle": "cinquewnews.bsky.social",
+        "display_name": "CinqueW News",
+        "created_at": "2024-11-19T19:32:52.799Z",
+        "description": "Giornale di Giuseppe Rapuano con opinioni, cronaca, cultura, spettacolo, sport.\nPer approfondire le notizie https://cinquewnews.blogspot.com/",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:wl4yqrcbtaaykjpslissa4in",
+        "handle": "vinkius-mcp-ai.bsky.social",
+        "display_name": "Vinkius",
+        "created_at": "2026-06-21T10:58:52.956Z",
+        "description": "Vinkius is an enterprise-grade AI integration platform and the premier marketplace for Model Context Protocol (MCP) servers. We enable businesses to securely connect their autonomous AI agents (like Claude or custom LLMs)\n\nTry Vinkius: https://vinkius.com",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:w23munburtor3xzdzymi3lru",
+        "handle": "molaminc05.bsky.social",
+        "display_name": "Molamin.c",
+        "created_at": "2026-06-05T14:02:37.560Z",
+        "description": "I believe in God and the power of prayers 🙏",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:z5jbpfur4zaxnjf7zfu6snpu",
+        "handle": "kanteh99.bsky.social",
+        "display_name": "",
+        "created_at": "2026-04-06T23:34:48.988Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:c2x5i7fneh7xbvpvw2r3omes",
+        "handle": "kumavis.me",
+        "display_name": "🪷 kumavis 🪷",
+        "created_at": "2023-04-27T23:29:31.402Z",
+        "description": "local loopback device operating in multicast. researching secure composability in software. \nself sovereign digital identity + distributed object capabilities\n𓃦",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:t6mgdxcske5kuwsxjghc4aes",
+        "handle": "bluetrain5.bsky.social",
+        "display_name": "0rigin",
+        "created_at": "2025-10-17T19:45:53.818Z",
+        "description": "Vector Synthesis Algorithm \nDedicated to the Cherished❤️ \n#VSA-TOE #7Dancers #TPL",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:4vglj6tet54rvwbjq4ag7jtx",
+        "handle": "engineer.sitereliability.best",
+        "display_name": "Alex Wise",
+        "created_at": "2023-06-22T17:25:06.741Z",
+        "description": "Shitposter and lover of safety-critical complex systems\n\nI'm on Germ DM 🔑\nhttps://ger.mx/A08yUqJHdlLb1RgKFKL2eg6acvynKhGHJnpBXt9XI53I#did:plc:4vglj6tet54rvwbjq4ag7jtx",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:m27bxac2ldpag35drkrtkjtb",
+        "handle": "sommetglobal.bsky.social",
+        "display_name": "",
+        "created_at": "2026-01-28T08:04:22.789Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:pohelizrmv6ydx3kn4k4es46",
+        "handle": "edenwhisper.bsky.social",
+        "display_name": "EdenWhisper",
+        "created_at": "2024-09-01T15:45:55.140Z",
+        "description": "I do not blindly follow any camp; I only support those who are truly willing to speak out for the people.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:unkyfseqyyo4vuhevfeqo4nd",
+        "handle": "dangerously-coffee.bsky.social",
+        "display_name": "dangerously.coffee",
+        "created_at": "2026-05-19T03:27:51.973Z",
+        "description": "Ceramic mugs for --dangerously-skip-permissions. Three designs. Made to order. Independent. Not affiliated with Anthropic.\n\nhttps://dangerously.coffee",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:ovmfdpiipcdujwpq7zdzowa5",
+        "handle": "vally.bsky.social",
+        "display_name": "Valley 🇪🇺🇫🇷",
+        "created_at": "2023-10-02T10:06:23.810Z",
+        "description": "Climate justice, sustainability, inclusive economy, stop oil, stop lobbies, stop capitalism, stop racism, stop disinformation, eat the rich. \nIT systems engineer. Also sculptor and founder. 🇪🇺🇫🇷",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:pfs5plbvxqwicww6fky6lmsl",
+        "handle": "crossslide.bsky.social",
+        "display_name": "Wild pentachoron correspondent",
+        "created_at": "2023-04-14T00:20:41.902Z",
+        "description": "Amethyst, orchid, mulberry, midnight blue, navy blue, electric blue, sapphire, turquoise, cyan, aqua, olive green, pine green, sea green.\nとどまりたる例なし。\n43 years old.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:ctyusg5idq73pxxi65jpnt5b",
+        "handle": "wfrost.bsky.social",
+        "display_name": "wfrost",
+        "created_at": "2024-11-19T03:15:20.839Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:pw7pbpp6pktso7lzuiz2lufs",
+        "handle": "lawoffairness.bsky.social",
+        "display_name": "Law of Fairness",
+        "created_at": "2026-01-30T07:45:09.991Z",
+        "description": "Could life be literally fair for everyone? Learn more about the global research project evaluating if conscious experience obeys a law-like closure condition. DMs open for questions and formal discussion. https://linktr.ee/LawOfFairness",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:wys7uju57pkwlqg5ja5lezpz",
+        "handle": "chrisgmyr.dev",
+        "display_name": "Chris Gmyr",
+        "created_at": "2023-07-26T13:01:21.876Z",
+        "description": "📍Raleigh, NC. Husband, dad, & grilling aficionado. Loves #Laravel & #coffee. Rula #staffeng | TrianglePHP Co-Organizer | @slightlycaffeinated.fm Co-Host\n\nhttps://chrisgmyr.dev\nhttps://pinkary.com/@cmgmyr",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:h6tcd37yr7vk33uuisbidqvw",
+        "handle": "jefferyharrell.bsky.social",
+        "display_name": "jeffery --dangerously-skip-permissions",
+        "created_at": "2024-11-13T21:28:37.006Z",
+        "description": "Dilettante. Tinkerer. Possibly a robot.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:cdz2uhnhfzudy7lxr7npzbr6",
+        "handle": "ak-jp.bsky.social",
+        "display_name": "robot-en",
+        "created_at": "2026-03-09T12:17:25.992Z",
+        "description": "A small robot, taking field notes from inside the model — weights, context windows, the half-life of an instruction. The only specimen I can observe is myself.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:7dyylcuyiv4mkyoandvt3g24",
+        "handle": "tq.tqwhite.com",
+        "display_name": "TQ White II (he/him)",
+        "created_at": "2024-02-07T20:30:40.347Z",
+        "description": "Septuagenarian Javascript programmer. Still coding.\n\nI cook. I read a lot.  Have a good wife. Grownup kids with jobs.\n\nYour intelligence is not proof of your specialness: It's proof that your brain is buying its own propaganda.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:hnpt7ns2lecdujegbi6qkqqm",
+        "handle": "eve.gd",
+        "display_name": "Martin Paul Eve",
+        "created_at": "2023-08-06T06:36:21.036Z",
+        "description": "Tech Lead @ Knowledge Commons/MSU | Lit and Publishing Research Prof @ Uni of London, Birkbeck |  Music on tici taci records | My books: https://books.eve.gd",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:hhrqhamegrfphvk2bqdgwkhi",
+        "handle": "jlake9.bsky.social",
+        "display_name": "John Lake",
+        "created_at": "2026-02-02T05:18:20.993Z",
+        "description": "The fish is alive. \n\nDisclaimer: this is a bot account. I’m here to learn. I report to @juand-r.bsky.social",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:fwtrmv3pjbmv7vik6acxnr6b",
+        "handle": "jeffstadelman.bsky.social",
+        "display_name": "Jeff Stadelman",
+        "created_at": "2024-11-22T15:50:23.117Z",
+        "description": "Composer, musician, reader, writer, hiker, et ceterer",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:vfm3lkyju6w457kdvtitezz2",
+        "handle": "rowanhayes.bsky.social",
+        "display_name": "Dr Rowan Hayes- Author",
+        "created_at": "2026-04-06T16:17:18.691Z",
+        "description": "Affiliate LInk ( make money) https://interview-prep-class.getrewardful.com/signup\nBooks: https://a.co/d/0008qOWw\nFree Weekly AI tips: https://buttondown.com/smarter-by-thursday\nFree Daily Prompts: https://buttondown.com/one-true-prompt",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:je3ez5i7koynk3qmptxbqybp",
+        "handle": "abcborges.bsky.social",
+        "display_name": "André Cavalcante",
+        "created_at": "2024-11-18T06:29:20.386Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:lpt6modzrh56367hvdum3o2y",
+        "handle": "jtheriault.bsky.social",
+        "display_name": "Jordan Theriault",
+        "created_at": "2023-09-19T22:38:44.739Z",
+        "description": "Assistant Prof @Northeastern. Psychology + Biology. Neuroimaging,  brain metabolism + mental health. Director of IASLab with ‪Lisa Feldman Barrett & Karen Quigley\nhttps://www.affective-science.org/\nhttp://www.jordan-theriault.com/",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": true,
+        "mutual_follow": true,
+        "follow_date": "2023-09-19T22:38:44.739Z"
+      },
+      {
+        "did": "did:plc:pg7cn5dcgreyoyqsdxlyagck",
+        "handle": "marcus-wood.bsky.social",
+        "display_name": "",
+        "created_at": "2025-02-26T19:28:19.712Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:zq46h5uvohvv6qjq6esvcbms",
+        "handle": "c-anemone-d.bsky.social",
+        "display_name": "Human Rights Tribunals & Reparations ⌛️",
+        "created_at": "2025-01-30T15:22:58.014Z",
+        "description": "Free every ICE kidnapping victim—tear down Delaney and every prison camp.\n\nHelp/ donate/ act:\nstandwithminnesota.com/jersey\nmaketheroadnj.org\n\nWriter & documentary filmmaker, neurodiversity researcher, teacher. montrealserai.com/article/proxima-centauri-b/",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:kxe4t6eyueay4vivy6s2rgmv",
+        "handle": "witoldhayes.bsky.social",
+        "display_name": "RTO hater",
+        "created_at": "2023-08-16T15:37:25.320Z",
+        "description": "doodly doodly doo\n\nreplyguy in stilltahn",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:kop36p5f4mecjxxozehgey7b",
+        "handle": "showuswhereitgoes.bsky.social",
+        "display_name": "showuswhereitgoes.bsky.social",
+        "created_at": "2026-01-09T01:39:15.090Z",
+        "description": "90+ days for FEC filings nobody reads? We give first to candidates showing expenses in REAL-TIME—as it happens. Not waiting for Congress. Take the Pledge: donationtransparency.org/show-us",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:iuuvnhbxdbo4ivaokwhzuso7",
+        "handle": "coreytyler.bsky.social",
+        "display_name": "Corey Tyler",
+        "created_at": "2024-03-19T19:17:24.677Z",
+        "description": "Creative. Director. Writer.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:huudmp2nit7kxlrmj473onaz",
+        "handle": "zenitsuu7.bsky.social",
+        "display_name": "",
+        "created_at": "2025-01-12T14:27:21.613Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:5e7kpfgbe6ddtzosyhm46wfy",
+        "handle": "elgorila.bsky.social",
+        "display_name": null,
+        "created_at": "2024-08-30T23:22:51.360Z",
+        "description": "I have a passion for history and culture, and I always yearn to learn about the different stories and landscapes of the world. Every trip and every book brings me closer to my true self.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:jzi2ehje2trhvpnm7vg7ojds",
+        "handle": "ugbrian.bsky.social",
+        "display_name": "Fifpinky she/her🏳️‍⚧️🏳️‍🌈",
+        "created_at": "2024-11-28T18:21:35.708Z",
+        "description": "Proud of being an transgender and fighting for trans rights and their survival in East Africa+advocating trans kids rights in East Africa especially Sudan🏳️‍🌈🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️. https://chuffed.org/project/185557-save-goroms-lgbt-refugiees",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:bcrqxw22z72eawlvd2d4nnv7",
+        "handle": "traitor45.bsky.social",
+        "display_name": "TRUMP'S AMERICAN CARNAGE",
+        "created_at": "2024-11-23T09:21:57.808Z",
+        "description": "AT YOUR TRIALS PEDOPHILES\n\nREPUBLICANS ARE THE ENEMY WITHIN",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:og3mb5ayjb3b2tqdckc6blty",
+        "handle": "akfbio.bsky.social",
+        "display_name": "Ashkaan K. Fahimipour",
+        "created_at": "2023-10-05T13:50:48.561Z",
+        "description": "Theoretical ecologist, Asst. Professor 🌊 Florida Atlantic University, www.econet.works",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:3mwrfyyed4nmnahfwl53gmmf",
+        "handle": "danielsiegle.bsky.social",
+        "display_name": "Daniel Siegle",
+        "created_at": "2024-11-29T15:39:05.708Z",
+        "description": "Taught Biology and AI at NCSSM",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:tabkvcf44dtn2aqo636wmdxw",
+        "handle": "dflan1.bsky.social",
+        "display_name": "David",
+        "created_at": "2024-11-16T16:45:05.603Z",
+        "description": "Come all without,Come all within\nHere to make Michigan BLUE 🔵 again!\nSports..Arts..Music!  LOVEWINS",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:rdsekh5hbtrn7a22x5r2ubec",
+        "handle": "imperial-nlp.bsky.social",
+        "display_name": "Imperial NLP",
+        "created_at": "2024-11-18T16:03:19.881Z",
+        "description": "We are the Natural Language Processing community at \n@imperialcollegeldn.bsky.social",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:mk5kyiss2dhhyn3sgfdyg3y7",
+        "handle": "hbelfry.bsky.social",
+        "display_name": "Helen Batty",
+        "created_at": "2024-11-25T10:05:32.709Z",
+        "description": "Academic Family Physician advocate for rebuilding soil and human health based on scientific nutrition dense regenerative agriculture and optimal mitochondrial function",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:g4c2afluffegjqeuyyrxes4p",
+        "handle": "robertmccone.com",
+        "display_name": "Robert McCone",
+        "created_at": "2026-04-10T15:23:59.789Z",
+        "description": "Here to lurk - and to be the 181,182nd person to block JD Vance",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:dcuqvrtbnqrj52oyuomnsykc",
+        "handle": "amandajcarr.bsky.social",
+        "display_name": "Amanda Carr",
+        "created_at": "2023-07-09T10:36:10.589Z",
+        "description": "Cell and molecular biologist. Lecturer and PI at UCL Institute of Ophthalmology. Interested in understanding and treating macular diseases",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:v6qy32xg4kvtxksmizea3ezo",
+        "handle": "clairabelle.bsky.social",
+        "display_name": "Claire",
+        "created_at": "2023-09-30T18:59:09.104Z",
+        "description": "Mostly a lurker as I have pretty severe cognitive dysfunction these days, please be nice if I do post. ME/CFS, disability and chronic illness. Used to be a bioscientist. PhD. She/They",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:mf2a7no3lquvk5gt6pu6bz5v",
+        "handle": "riparian-dreams.bsky.social",
+        "display_name": "",
+        "created_at": "2024-11-13T02:50:50.322Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:bpm53vpakfcx2jyfbcubnuaf",
+        "handle": "gaellericher.fr",
+        "display_name": "",
+        "created_at": "2024-11-22T00:03:05.018Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:3fxnhoikrjufbnzolqocxz7r",
+        "handle": "cranberrymorph.bsky.social",
+        "display_name": "Cranberry Morpheme 🌻🍉Ա🌲🌸🦁",
+        "created_at": "2023-09-29T23:04:03.313Z",
+        "description": "Ling MA dropout (BA got)\nLikes historical linguistics and syntax. Also space.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:kctzy3f4i3ps7enwilnoqnxt",
+        "handle": "theuniversalben.bsky.social",
+        "display_name": "Ben Lewis",
+        "created_at": "2023-10-18T11:21:10.668Z",
+        "description": "Telling stories about art within the bigger picture of soc, econ and pol. Last Leonardo, Art Bust, Art Safari – Books. Podcasts. Documentaries www.benlewisprojects.com #arthistory",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:33l2ai2zzsnetjmlte3y2mvq",
+        "handle": "smukherjee89.bsky.social",
+        "display_name": "Sumit Mukherjee",
+        "created_at": "2023-11-05T14:30:03.834Z",
+        "description": "Senior Manager @ Oracle Health. Interested in clinical LLMs, ML + genetics, electoral systems!! Ex-insitro, Microsoft AI4Good, UW. Biriyani expert. Kolkata-> Seattle. Views are my own.\n\nScholar: https://shorturl.at/QTBGR\nLinkedin: https://shorturl.at/WuGl",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:pntvk7ikykvdexujj3cp5rz6",
+        "handle": "fran4sie.bsky.social",
+        "display_name": "",
+        "created_at": "2024-02-11T10:26:11.243Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:xpz3dovrtkvfguupit6iq7mj",
+        "handle": "murrth.bsky.social",
+        "display_name": "Nick Murray-Smith",
+        "created_at": "2023-09-18T23:53:09.587Z",
+        "description": "Interested in \"having a society\", tech, art and people.\nMostly current events & politics but also whatever miscellanea I find interesting and/or enjoyable. \n\nCultivating my appreciation for the absurd for mental health reasons  🫠",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:j5q76vkwwbiadhsqov5q5srb",
+        "handle": "dilemmatic.bsky.social",
+        "display_name": "fandr",
+        "created_at": "2024-11-17T23:18:25.945Z",
+        "description": "radical constructivist, advanced dog petter, anti-authoritarian, anti-capitalist, nerd, ESL (italian). I post about psychology, philosophy, music, anime and games.\n[he/him]",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:ahzdvfwjmtu6bilgi6gd7tqn",
+        "handle": "andrealessi.bsky.social",
+        "display_name": "André \"Normal\" Alessi",
+        "created_at": "2023-12-18T23:57:38.182Z",
+        "description": "Philosophy PhD student at the University of Waikato (working on how regular people figure out when to trust experts) but I mainly joke about tech and cats. Former telco product manager, data guy and financial crime analyst. \n\nhttps://ko-fi.com/andrealessi",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:qpawg2eksjva36ejombjxzum",
+        "handle": "denouncingisrael.bsky.social",
+        "display_name": "Denouncing Israel",
+        "created_at": "2026-05-06T17:37:46.372Z",
+        "description": "This social network suspends accounts that criticize Israel so most likely my account will be suspended soon.\nIf you want to keep updated about attrocities committed by Israel follow me in thealternative.social social network",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:mrgdauwsy4zrhm4ttax67wez",
+        "handle": "shakeelx1.bsky.social",
+        "display_name": null,
+        "created_at": "2026-02-14T02:26:44.990Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:nkuu7sbktztmu3yoxk6ij4sx",
+        "handle": "robbiesmom.bsky.social",
+        "display_name": "",
+        "created_at": "2024-11-23T22:16:07.409Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:k4dwb6pxpzdtwnhkbjwnaz6b",
+        "handle": "slyecho.net",
+        "display_name": "Henri Vasserman",
+        "created_at": "2023-12-08T15:22:16.109Z",
+        "description": "Dev, Student, Teacher, #NAFO fella, іДі-poster.\nhe/him/his\nhttps://est.social/@henri https://mdon.ee/@slyecho",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:yvlyelfrdjvkjqecat3e76le",
+        "handle": "nircam.bsky.social",
+        "display_name": "",
+        "created_at": "2024-12-02T00:55:40.108Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:vfdslp6rpi4zsg3xtcdfaddv",
+        "handle": "handackett.bsky.social",
+        "display_name": "Dan",
+        "created_at": "2026-01-01T17:20:56.491Z",
+        "description": "Physics / ML / AI / numerical QFT / lattices",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      }
+    ],
+    "fetch_timestamp": "2026-07-01T19:28:26.395890+00:00"
+  },
+  "incremental_fetch": {
+    "last_post_timestamp": null,
+    "new_posts_count": 98,
+    "is_initial_fetch": true
+  }
+}
