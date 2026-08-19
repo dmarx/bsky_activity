@@ -1,7 +1,537 @@
 {
-  "fetch_timestamp": "2026-08-19T00:36:27.042737+00:00",
+  "fetch_timestamp": "2026-08-19T00:36:14.607325+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf65j6na22z",
+      "cid": "bafyreigvc7wun5o7ucy4bkywqro46tapdrqbut3mnqdkfvuv3tj3ufvmxa",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Do ants collaborate to build an ant hill? If ants have no subjective experience or will, does that have any impact on my statement?",
+      "created_at": "2026-08-18T21:32:43.769Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T21:32:44.225Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf5ycj6dc2z",
+        "cid": "bafyreieicsbsuckstivya5bahrpwsdsc2zqtnia4ca7jon6jyhnzb2towy",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "Obviously, if I'm permitting space to meaningfully make statements like \"collaborating with my tools\", my definition is not carrying any notion of intentionality. Falling back on \"authorship\" does, and that's why I think the distinction is important. I can collaborate with intentionless processes.",
+        "created_at": "2026-08-18T21:29:49.002Z",
+        "indexed_at": "2026-08-18T21:29:49.327Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf5ycj6dc2z",
+      "cid": "bafyreieicsbsuckstivya5bahrpwsdsc2zqtnia4ca7jon6jyhnzb2towy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Obviously, if I'm permitting space to meaningfully make statements like \"collaborating with my tools\", my definition is not carrying any notion of intentionality. Falling back on \"authorship\" does, and that's why I think the distinction is important. I can collaborate with intentionless processes.",
+      "created_at": "2026-08-18T21:29:49.002Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T21:29:49.327Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf5squvts2z",
+        "cid": "bafyreifxot2kblgwpotpqruzbcxkl2ogv5gwn423wsk5pcpzwctqf3m6ci",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "\"collaboration\" doesn't necessarily have a \"point\". It has an *outcome*. It's completely coherent for me to collaborate on a project with someone w/o them even realizing they are a contributor. If I print out this exchange and put it in an art gallery, I've made you an unwitting collaborator.",
+        "created_at": "2026-08-18T21:26:42.740Z",
+        "indexed_at": "2026-08-18T21:26:43.135Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf5squvts2z",
+      "cid": "bafyreifxot2kblgwpotpqruzbcxkl2ogv5gwn423wsk5pcpzwctqf3m6ci",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "\"collaboration\" doesn't necessarily have a \"point\". It has an *outcome*. It's completely coherent for me to collaborate on a project with someone w/o them even realizing they are a contributor. If I print out this exchange and put it in an art gallery, I've made you an unwitting collaborator.",
+      "created_at": "2026-08-18T21:26:42.740Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T21:26:43.135Z",
+      "reply_context": {
+        "uri": "at://did:plc:3bybp6nqszlhuan2ch2cmv66/app.bsky.feed.post/3mtf4oihchc2w",
+        "cid": "bafyreigfxbb55scyrqvsmonu5mqmxrira7se6ppy37back5lbe32dheub4",
+        "author": {
+          "did": "did:plc:3bybp6nqszlhuan2ch2cmv66",
+          "handle": "keithwilson.eu",
+          "display_name": "Dr Keith Wilson 💭"
+        },
+        "text": "But Isn’t the point of collaboration is that you are jointly working on a common project? However, the die is incapable of working on *any* project. And the same, I would say, for LLMs. As for marking the distinction:",
+        "created_at": "2026-08-18T21:06:25.945Z",
+        "indexed_at": "2026-08-18T21:06:26.929Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf5c6g3j22u",
+      "cid": "bafyreiedoww2ey77d4nue4pr4p4kixhrsenfc3abqoi6peohil3cigysye",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "",
+      "created_at": "2026-08-18T21:17:26.507Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T21:17:29.130Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf537hexk2z",
+        "cid": "bafyreihvxbkgqfbhk7nsh6p4pmzxthbtaxxapn62uspxwwz3yeqi64fdq4",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "And in turn, your position devalues what our instruments contribute to the process. You can work with ink and paper without them being collaborators, but when describing your sketch work you would absolutely credit those materials as a critical element of your expressive medium.",
+        "created_at": "2026-08-18T21:13:32.719Z",
+        "indexed_at": "2026-08-18T21:13:33.135Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf537hexk2z",
+      "cid": "bafyreihvxbkgqfbhk7nsh6p4pmzxthbtaxxapn62uspxwwz3yeqi64fdq4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "And in turn, your position devalues what our instruments contribute to the process. You can work with ink and paper without them being collaborators, but when describing your sketch work you would absolutely credit those materials as a critical element of your expressive medium.",
+      "created_at": "2026-08-18T21:13:32.719Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T21:13:33.135Z",
+      "reply_context": {
+        "uri": "at://did:plc:3bybp6nqszlhuan2ch2cmv66/app.bsky.feed.post/3mtf4t7te7s2w",
+        "cid": "bafyreidt55w5sewjoa2oq3xaepisnljt7636xx53ujmxnvy5ek7c6aypwu",
+        "author": {
+          "did": "did:plc:3bybp6nqszlhuan2ch2cmv66",
+          "handle": "keithwilson.eu",
+          "display_name": "Dr Keith Wilson 💭"
+        },
+        "text": "Working with doesn’t entail collaborating with. I can work with ink and paper without them thereby being collaborators. Putting it this devalues what actual human collaborators bring to the creative process, which is not merely instrumental.",
+        "created_at": "2026-08-18T21:09:04.675Z",
+        "indexed_at": "2026-08-18T21:09:05.631Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf3tokryc2z",
+      "cid": "bafyreiaiardjlilvev4n3xzglvduesvzjgmyz2a7kxfwdnth5jgvnuko44",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Naming the influences that contributed to an outcome isn't just about standing behind one's work, it's also about disclosure.",
+      "created_at": "2026-08-18T20:51:26.382Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T20:51:26.826Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf3qbctuk2z",
+        "cid": "bafyreiew6k7vfo6ereoqg7s4a54477nsq3fmhivyvptikxrsnont4pv6fq",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "If my photoshop work leaned heavily on a particular 3rd party plugin w/o which the work would have been substantively different (e.g. a set of brushes), I think it would be perfectly reasonable and appropriate to name that tool and its creator for having had significant influence on the project.",
+        "created_at": "2026-08-18T20:49:31.826Z",
+        "indexed_at": "2026-08-18T20:49:33.036Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf3qbctuk2z",
+      "cid": "bafyreiew6k7vfo6ereoqg7s4a54477nsq3fmhivyvptikxrsnont4pv6fq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "If my photoshop work leaned heavily on a particular 3rd party plugin w/o which the work would have been substantively different (e.g. a set of brushes), I think it would be perfectly reasonable and appropriate to name that tool and its creator for having had significant influence on the project.",
+      "created_at": "2026-08-18T20:49:31.826Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T20:49:33.036Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf3ncmaes2z",
+        "cid": "bafyreicldcvqlz7kd7ie63rru23bkwptihosa2elit43q5uqsmzudugliu",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "The questions you are probing admit gradations. If I could swap out photoshop for GIMP and end up easily end up with the same result: probably no reason to mention I used photoshop.",
+        "created_at": "2026-08-18T20:47:52.348Z",
+        "indexed_at": "2026-08-18T20:47:52.756Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf3ncmaes2z",
+      "cid": "bafyreicldcvqlz7kd7ie63rru23bkwptihosa2elit43q5uqsmzudugliu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "The questions you are probing admit gradations. If I could swap out photoshop for GIMP and end up easily end up with the same result: probably no reason to mention I used photoshop.",
+      "created_at": "2026-08-18T20:47:52.348Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T20:47:52.756Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf3ncgyfs2z",
+        "cid": "bafyreidkx27h6sav2rlghswpchiaciedwfb4zzvflnzysclchll6oitx3i",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "I think why I'm privileging the LLM here becomes clearer if you step out of the LLM frame specifically and think about this in terms of generative creative processes more generally. For example, it's pretty normal to see TouchDesigner credited by name in interactive art exhibitions.",
+        "created_at": "2026-08-18T20:47:52.347Z",
+        "indexed_at": "2026-08-18T20:47:52.727Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtf3ncgyfs2z",
+      "cid": "bafyreidkx27h6sav2rlghswpchiaciedwfb4zzvflnzysclchll6oitx3i",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I think why I'm privileging the LLM here becomes clearer if you step out of the LLM frame specifically and think about this in terms of generative creative processes more generally. For example, it's pretty normal to see TouchDesigner credited by name in interactive art exhibitions.",
+      "created_at": "2026-08-18T20:47:52.347Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-08-18T20:47:52.727Z",
+      "reply_context": {
+        "uri": "at://did:plc:r3hl5udsbhenyneix6nnydod/app.bsky.feed.post/3mtf2j2jqhc2v",
+        "cid": "bafyreibaxmlbtmbv5bv4mj6xycmpg4emitereon5dga762dtydjr6bfpke",
+        "author": {
+          "did": "did:plc:r3hl5udsbhenyneix6nnydod",
+          "handle": "cjkarr.bsky.social",
+          "display_name": "Chris J. Karr"
+        },
+        "text": "I'm just curious why you're privileging the LLM when you're choosing to endow different software components with credit as collaborators.\n\nFor example, Xcode and Photoshop are tools that certainly structure and shape my thinking about the things I create, should I be crediting them as well?",
+        "created_at": "2026-08-18T20:27:36.089Z",
+        "indexed_at": "2026-08-18T20:27:36.425Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mteyvcbho226",
+      "cid": "bafyreif3m3jhglatjro6wg4d43dtlydnsnag25tvqhcrfqld6yolyezs3u",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I agree that it is *my* project, and that is why I continue to draw a distinction between co-authorship and collaboration that you have ignored for the duration of this exchange.",
+      "created_at": "2026-08-18T19:58:39.088Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T19:58:39.557Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mteyvbymhk26",
+        "cid": "bafyreiglxjqo2qniw6jwtg5qfufv7uyrdry2dauanz2rdugow3f43pvege",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "I think any creative who has ever described their process as \"working with my tools rather than against them\" would disagree with your characterization of the project not being a joint effort in which one collaborates with their tools.",
+        "created_at": "2026-08-18T19:58:39.087Z",
+        "indexed_at": "2026-08-18T19:58:39.529Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mteyvbymhk26",
+      "cid": "bafyreiglxjqo2qniw6jwtg5qfufv7uyrdry2dauanz2rdugow3f43pvege",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I think any creative who has ever described their process as \"working with my tools rather than against them\" would disagree with your characterization of the project not being a joint effort in which one collaborates with their tools.",
+      "created_at": "2026-08-18T19:58:39.087Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T19:58:39.529Z",
+      "reply_context": {
+        "uri": "at://did:plc:3bybp6nqszlhuan2ch2cmv66/app.bsky.feed.post/3mtewyacal222",
+        "cid": "bafyreiba33cf6bpgjv46mgzlww3ujmv5v4h7a2cs7lotptlw2nyfgwvssq",
+        "author": {
+          "did": "did:plc:3bybp6nqszlhuan2ch2cmv66",
+          "handle": "keithwilson.eu",
+          "display_name": "Dr Keith Wilson 💭"
+        },
+        "text": "In order to be collaborating you have to be engaged in a joint project. When you’re working with an LLM, it’s very much *your* project, not the machine’s. The machine doesn’t have any projects in the relevant sense. It might act like it does, but that’s a pretence—one encouraged by AI companies.",
+        "created_at": "2026-08-18T19:24:29.628Z",
+        "indexed_at": "2026-08-18T19:24:30.861Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtewqd3z3k2c",
+      "cid": "bafyreidcbupidzwhlg2vgphfyvqjnrpa7pfw2tgc3k3d5kfv5wwu4lphpu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "If I tread on someone's garden, it's my fault. I can't blame the die, I am responsible. It was my choice to obey the die.\n\nIf that person asks me why I treaded on their garden, it'd still be correct to say \"It was a performance art piece where I collaborated with a die to determine my route. Sorry.\"",
+      "created_at": "2026-08-18T19:20:04.991Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T19:20:05.629Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mteweyedrk2c",
+        "cid": "bafyreiepnqgsfxhutudyyxwqkdqlo7hrwha4vcyzxlmdpnmc6ex5amt26y",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "It is not \"coauthoring\" my route with me, but it seems unquestionable to me that I am \"collaborating\" with the die in planning my route.",
+        "created_at": "2026-08-18T19:13:44.312Z",
+        "indexed_at": "2026-08-18T19:13:44.768Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mteweyedrk2c",
+      "cid": "bafyreiepnqgsfxhutudyyxwqkdqlo7hrwha4vcyzxlmdpnmc6ex5amt26y",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "It is not \"coauthoring\" my route with me, but it seems unquestionable to me that I am \"collaborating\" with the die in planning my route.",
+      "created_at": "2026-08-18T19:13:44.312Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T19:13:44.768Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtewey2mas2c",
+        "cid": "bafyreibunz6m5n2w6ho2elrohkitmqffikuu37wcwn2kqxe4tf7snzhwsu",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "The way I engage with the LLM is a form of role play, but the delegation of authority is real.\n\nImagine I go for a walk and every three steps I roll a die. Even I turn left, odd I turn right. The die is collaborating in my decision making process. I have delegated real authority to it.",
+        "created_at": "2026-08-18T19:13:44.311Z",
+        "indexed_at": "2026-08-18T19:13:44.733Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtewey2mas2c",
+      "cid": "bafyreibunz6m5n2w6ho2elrohkitmqffikuu37wcwn2kqxe4tf7snzhwsu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "The way I engage with the LLM is a form of role play, but the delegation of authority is real.\n\nImagine I go for a walk and every three steps I roll a die. Even I turn left, odd I turn right. The die is collaborating in my decision making process. I have delegated real authority to it.",
+      "created_at": "2026-08-18T19:13:44.311Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T19:13:44.733Z",
+      "reply_context": {
+        "uri": "at://did:plc:3bybp6nqszlhuan2ch2cmv66/app.bsky.feed.post/3mtevh6l6zc2u",
+        "cid": "bafyreiaulgshgygqwgjuf2fdstnxfat3ntftc2i7yvrc362vymswaveexe",
+        "author": {
+          "did": "did:plc:3bybp6nqszlhuan2ch2cmv66",
+          "handle": "keithwilson.eu",
+          "display_name": "Dr Keith Wilson 💭"
+        },
+        "text": "That‘s exactly the point I dispute. You’re using an automated tool to do some of the work in a way that feels like you’re collaborating. But it’s a kind of role play, with you projecting the role of collaborator onto the machine.",
+        "created_at": "2026-08-18T18:57:04.513Z",
+        "indexed_at": "2026-08-18T18:57:05.553Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtevi7uls22u",
+      "cid": "bafyreiga6g2hthcrftk7e2o6jhddhbmy5b3ihwt5ltwbfedqtrowyqymi4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "TLDR: \"Using generative AI inherently exposes you to the risk of career-ending accusations of plagiarism [..] whether or not the GenAI tool smuggles in something that does, actually, constitute plagiarism.\"",
+      "created_at": "2026-08-18T18:57:39.425Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 3,
+      "indexed_at": "2026-08-18T18:57:39.628Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtev2u7iws2u",
+      "cid": "bafyreic6oharbryq4t4z3ymguknitnubp3o2hvcf5dk4czvzjg57t7t5ba",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "",
+      "created_at": "2026-08-18T18:50:10.991Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-08-18T18:50:12.031Z",
+      "reply_context": {
+        "uri": "at://did:plc:brnnpb6x3pdapjeqqs275gbd/app.bsky.feed.post/3mteg4nwhte2i",
+        "cid": "bafyreigw3zrfreb3ttjlfa7mtmx3tfbcbf63mylv256ck6dxd5ys52g3aa",
+        "author": {
+          "did": "did:plc:brnnpb6x3pdapjeqqs275gbd",
+          "handle": "sjshancoxli.liberalcurrents.com",
+          "display_name": "Dr. Samantha Hancox-Li"
+        },
+        "text": "",
+        "created_at": "2026-08-18T14:22:45.385Z",
+        "indexed_at": "2026-08-18T14:22:45.530Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mteucyttfd2j",
+      "cid": "bafyreia6iaxj32vrqvdjuscojkg7qy7yqj47dzi7wewrgl5lr774wgvv7e",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Also, I'm not strictly talking about \"code\". One of these projects is philosophy research, and the LLM has made significant contributions to the direction and shape of my argument. I still take ownership of my argumentation, but I also have zero qualms describing my process as collaborating w/an LLM",
+      "created_at": "2026-08-18T18:36:50.545Z",
+      "reply_count": 1,
+      "repost_count": 1,
+      "like_count": 1,
+      "indexed_at": "2026-08-18T18:36:50.825Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtetubbjql2j",
+        "cid": "bafyreigjj6o3r4p2l3s7ejcgpbsywlqlmpfbw7mpx3to27xs5qr7w6pxjq",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "Right now, I'm talking about influencing the high-level, guiding principles. The choices that change slowly and have the most influence. Wherever the floor might be, the example I'm invoking right now is much closer to the ceiling.",
+        "created_at": "2026-08-18T18:28:36.067Z",
+        "indexed_at": "2026-08-18T18:28:36.425Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtetvure7l2j",
+      "cid": "bafyreichvb2sfcm3lvgk4vrawgyp3x4moxv4b2cycw6qbbgnbusb5wlsn4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "concretely: github.com/dmarx/luria/...",
+      "created_at": "2026-08-18T18:29:30.062Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T18:29:30.331Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtetubbjql2j",
+        "cid": "bafyreigjj6o3r4p2l3s7ejcgpbsywlqlmpfbw7mpx3to27xs5qr7w6pxjq",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "Right now, I'm talking about influencing the high-level, guiding principles. The choices that change slowly and have the most influence. Wherever the floor might be, the example I'm invoking right now is much closer to the ceiling.",
+        "created_at": "2026-08-18T18:28:36.067Z",
+        "indexed_at": "2026-08-18T18:28:36.425Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mtetubbjql2j",
+      "cid": "bafyreigjj6o3r4p2l3s7ejcgpbsywlqlmpfbw7mpx3to27xs5qr7w6pxjq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Right now, I'm talking about influencing the high-level, guiding principles. The choices that change slowly and have the most influence. Wherever the floor might be, the example I'm invoking right now is much closer to the ceiling.",
+      "created_at": "2026-08-18T18:28:36.067Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-18T18:28:36.425Z",
+      "reply_context": {
+        "uri": "at://did:plc:r3hl5udsbhenyneix6nnydod/app.bsky.feed.post/3mtethsb5u22t",
+        "cid": "bafyreifjgbhzaqmxs6rdaszieodnr5hmpgr4hnrhbs5rrs5krsamc7pprm",
+        "author": {
+          "did": "did:plc:r3hl5udsbhenyneix6nnydod",
+          "handle": "cjkarr.bsky.social",
+          "display_name": "Chris J. Karr"
+        },
+        "text": "What's the floor that code has to reach to achieve \"collaborator\" status? Does your statistical analysis suite, programming environment, or presentation environment meet that threshold?\n\nAll of those influence decision making and shape the direction a project can go in addition to human cognition.",
+        "created_at": "2026-08-18T18:21:37.673Z",
+        "indexed_at": "2026-08-18T18:21:38.028Z"
+      },
+      "is_reply": true
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1309,11 +1839,11 @@
         "follow_date": "2023-09-19T22:38:44.739Z"
       }
     ],
-    "fetch_timestamp": "2026-08-19T00:36:28.147988+00:00"
+    "fetch_timestamp": "2026-08-19T00:36:17.414657+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-08-18T21:32:43.769000+00:00",
-    "new_posts_count": 0,
+    "last_post_timestamp": "2026-08-18T18:20:43.976000+00:00",
+    "new_posts_count": 19,
     "is_initial_fetch": false
   }
 }
