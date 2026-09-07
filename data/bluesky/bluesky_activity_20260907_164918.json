@@ -1,7 +1,611 @@
 {
-  "fetch_timestamp": "2026-09-07T16:49:19.145405+00:00",
+  "fetch_timestamp": "2026-09-07T16:48:59.473031+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muvssz6hwc2r",
+      "cid": "bafyreihtnimbelwfujgdg2mghwtu2fdiskkpeltoxookabatbjzrbwvrlu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "the republicans stopped transmitting real historical facts amongst themselves a few generations back. there's no number of millenia of effort that can defeat willful systemic ignorance.",
+      "created_at": "2026-09-07T05:50:27.461Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 6,
+      "indexed_at": "2026-09-07T05:50:27.879Z",
+      "reply_context": {
+        "uri": "at://did:plc:565ebob5f6hw33hjdkxty6qj/app.bsky.feed.post/3muvsjgw3mk26",
+        "cid": "bafyreifjqzhxqjs2bysbo5totl6ycnq3k2uf7gqrlqpij7dpouusppgcli",
+        "author": {
+          "did": "did:plc:565ebob5f6hw33hjdkxty6qj",
+          "handle": "tedunderwood.com",
+          "display_name": "Ted Underwood"
+        },
+        "text": "Didn't we already spend like 5,000 years on this shit? I thought \"don't give absolute power to vain and terrified old men\" was the whole point of everything between the pyramids and 1789. Were people not paying attention?",
+        "created_at": "2026-09-07T05:45:06.323Z",
+        "indexed_at": "2026-09-07T05:45:07.178Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muuzpwxyws24",
+      "cid": "bafyreid7ucma4x3quf6myahpduefro2gkvrljfxtrcp4vjqyf3mbkgbvb4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "the DSA is rapidy crystalizing into a viable alternative to the democratic party while still falling under the \"is in touch with reality\" constraint the republicans reject",
+      "created_at": "2026-09-06T22:21:20.943Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-09-06T22:21:21.380Z",
+      "reply_context": {
+        "uri": "at://did:plc:kpqhtkgsxuoasxxrld7uds5g/app.bsky.feed.post/3muupkrywj22t",
+        "cid": "bafyreidjr4z7536ij5ll6l6e5rmwp2jkfg2ff7pjvw5srdwy3tzssv2iai",
+        "author": {
+          "did": "did:plc:kpqhtkgsxuoasxxrld7uds5g",
+          "handle": "pibasedlifeform.bsky.social",
+          "display_name": "Rich"
+        },
+        "text": "yeah, but banning them is essentially turning the US into a one party state \n\nWhich is exactly the outcome you want to avoid",
+        "created_at": "2026-09-06T19:19:30.540Z",
+        "indexed_at": "2026-09-06T19:19:30.880Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muuzmnfat224",
+      "cid": "bafyreia5xwrurogyvcnu4vxmklnpyfmcd3ltxlt76m76ibthywhx622h7y",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "but germany is not a special case. germans aren't especially susceptible to fascism or populism, they were just the first modern government to get swallowed by it. the lessons they learned and implemented in policy should be taken seriously by every modern state.\n\nfree speech != all speech is legal",
+      "created_at": "2026-09-06T22:19:30.228Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 11,
+      "indexed_at": "2026-09-06T22:19:30.581Z",
+      "reply_context": {
+        "uri": "at://did:plc:kpqhtkgsxuoasxxrld7uds5g/app.bsky.feed.post/3muulw7pcf22t",
+        "cid": "bafyreib5vjcqupqwatjmgluwfy7n75tqr4evy6jwhwuaefarm6rmkey3gm",
+        "author": {
+          "did": "did:plc:kpqhtkgsxuoasxxrld7uds5g",
+          "handle": "pibasedlifeform.bsky.social",
+          "display_name": "Rich"
+        },
+        "text": "I'll happily make an argument that Germany is a special case granted but say for instance banning restore here would have negative consequences and be self defeating\n\nYou can't win and hold on to liberal democracy if we ban them*\n\n*but if they give us a chance by going too far then all for it",
+        "created_at": "2026-09-06T18:14:19.037Z",
+        "indexed_at": "2026-09-06T18:14:14.380Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muuyxs25k22p",
+      "cid": "bafyreicrzkymngozd6jsnh6qsnjveqwtlx5eq2uqwnxysrvb55v55hhj6e",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "There's an England-France joke here somewhere",
+      "created_at": "2026-09-06T22:07:50.465Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-09-06T22:07:50.880Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muuu5oagkc2p",
+        "cid": "bafyreihx2eirh2sb2ujvshi3xkm4xajsknpbpd2bdwj5gzr7d6kjogdnj4",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "England -> Old England",
+        "created_at": "2026-09-06T20:41:39.093Z",
+        "indexed_at": "2026-09-06T20:41:39.381Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muuygfatak24",
+      "cid": "bafyreihmsq3m37t7dej5z5lkti5dqhchuh3zuknnyti4ff2ro75bkftnde",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Share a song you haven't heard in a while",
+      "created_at": "2026-09-06T21:58:06.627Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-09-06T21:58:07.681Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.recordWithMedia"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muuxsxw74224",
+      "cid": "bafyreif7iqqljcu22djotpg4sik7rxlnzrnx4767zfhbnk3umiprzrhybu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I think this might be totally new to me, thanks for sharing it",
+      "created_at": "2026-09-06T21:47:15.112Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-09-06T21:47:15.680Z",
+      "reply_context": {
+        "uri": "at://did:plc:3bybp6nqszlhuan2ch2cmv66/app.bsky.feed.post/3muuwpj43ds2a",
+        "cid": "bafyreicfjqru2wqwh2r6vmqpvwbchvf244ppmt32y5srknphmolz5kuapa",
+        "author": {
+          "did": "did:plc:3bybp6nqszlhuan2ch2cmv66",
+          "handle": "keithwilson.eu",
+          "display_name": "Dr Keith Wilson 💭"
+        },
+        "text": "Same! It was @digthatdata.bsky.social ’s post that reminded me of it, but it resonates just as much today as it did then.",
+        "created_at": "2026-09-06T21:27:25.171Z",
+        "indexed_at": "2026-09-06T21:27:26.278Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muuu5oagkc2p",
+      "cid": "bafyreihx2eirh2sb2ujvshi3xkm4xajsknpbpd2bdwj5gzr7d6kjogdnj4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "England -> Old England",
+      "created_at": "2026-09-06T20:41:39.093Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-09-06T20:41:39.381Z",
+      "reply_context": {
+        "uri": "at://did:plc:3bybp6nqszlhuan2ch2cmv66/app.bsky.feed.post/3muutqqryjk2a",
+        "cid": "bafyreiavdh2bshd4ghiluptyxhn5j7vqizhdattqh6lsoq2ocfieqhqfzm",
+        "author": {
+          "did": "did:plc:3bybp6nqszlhuan2ch2cmv66",
+          "handle": "keithwilson.eu",
+          "display_name": "Dr Keith Wilson 💭"
+        },
+        "text": "New England → New America",
+        "created_at": "2026-09-06T20:34:25.559Z",
+        "indexed_at": "2026-09-06T20:34:26.679Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muhtn4z3oc2y",
+      "cid": "bafyreiezfpukkzbghizxeecu3n3zhne76lrwhnzqv2ryfrjjibd3k6jv6i",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "tell me you have a cocaine problem without telling me you have a cocaine problem",
+      "created_at": "2026-09-01T16:27:47.557Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 7,
+      "indexed_at": "2026-09-01T16:27:48.109Z",
+      "reply_context": {
+        "uri": "at://did:plc:tbqqvyv6pjjww44glrmycaxl/app.bsky.feed.post/3muhtf4hho22e",
+        "cid": "bafyreigesda2hjuzrilhxe66i5eofo2y3tv5pge4khtjlmvu5cbxb7hzsi",
+        "author": {
+          "did": "did:plc:tbqqvyv6pjjww44glrmycaxl",
+          "handle": "carlbergstrom.com",
+          "display_name": "Carl T. Bergstrom"
+        },
+        "text": "OK, I’m not a Sequoia partner so maybe I’m missing the 4D chess ￼ here but why not just reschedule for tomorrow?",
+        "created_at": "2026-09-01T16:23:18.537Z",
+        "indexed_at": "2026-09-01T16:23:21.806Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muhrnu4fjs2w",
+      "cid": "bafyreig6k7p7pjuqxajesj6yf2lpzp7wicohd7gkkisvaqy3tcgdjjmufu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "en.wikipedia.org/wiki/Rasch_m...",
+      "created_at": "2026-09-01T15:52:24.140Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-09-01T15:52:24.442Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muhrntxick2w",
+        "cid": "bafyreifscb4wa3wsdlzqv4wedll6azfr4lx4mygqykiirgezwelvmjumhy",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "Super interesting stuff! Your take on \"informativeness\" reminds me of Item Response Theory. Maybe you could take it a step further: in addition to determining what is informative within a teacher, identifying informative dimensions that are differentiating across teachers, and permuting those.",
+        "created_at": "2026-09-01T15:52:24.139Z",
+        "indexed_at": "2026-09-01T15:52:24.416Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muhrntxick2w",
+      "cid": "bafyreifscb4wa3wsdlzqv4wedll6azfr4lx4mygqykiirgezwelvmjumhy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Super interesting stuff! Your take on \"informativeness\" reminds me of Item Response Theory. Maybe you could take it a step further: in addition to determining what is informative within a teacher, identifying informative dimensions that are differentiating across teachers, and permuting those.",
+      "created_at": "2026-09-01T15:52:24.139Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-09-01T15:52:24.416Z",
+      "reply_context": {
+        "uri": "at://did:plc:zkelgcgqwktjesacrhqizle5/app.bsky.feed.post/3muhnbypc722p",
+        "cid": "bafyreifxnc3gor3kguwvdq2casevjydu724uhq62j6aomtimnjrbetv7bi",
+        "author": {
+          "did": "did:plc:zkelgcgqwktjesacrhqizle5",
+          "handle": "mbsariyildiz.bsky.social",
+          "display_name": "Mert Bulent Sariyildiz"
+        },
+        "text": "Work with @fyavuz1.bsky.social and @dlarlus.bsky.social at NAVER LABS Europe\n📄 Paper: arxiv.org/abs/2608.24759\n🌐 Project page: blisgard.github.io/ideal_project/\n💻 Code: coming soon!",
+        "created_at": "2026-09-01T14:34:06.149Z",
+        "indexed_at": "2026-09-01T14:34:15.663Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:zkelgcgqwktjesacrhqizle5/app.bsky.feed.post/3muhnbtlzlk2p",
+      "cid": "bafyreicu6mklxdehsy6i3hfku4d56feekgeduwion5jqh2e6bkuergqoze",
+      "author": {
+        "did": "did:plc:zkelgcgqwktjesacrhqizle5",
+        "handle": "mbsariyildiz.bsky.social",
+        "display_name": "Mert Bulent Sariyildiz"
+      },
+      "text": "🧐 Can you distill knowledge from 4 vision teachers into one student using ZERO real images?\n\n🥳 Turns out: YES, and surprisingly well.\n\n📣 Our ECCV 2026 paper \"IDeaL\" closes most of the gap with real-image distillation, using optimized structured noise.",
+      "created_at": "2026-09-01T14:34:06.143Z",
+      "reply_count": 1,
+      "repost_count": 9,
+      "like_count": 27,
+      "indexed_at": "2026-09-01T14:34:15.510Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.video"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muhqyshiak2w",
+      "cid": "bafyreiamv4ruv3tqmktevggrbxfnkjtmjmvgpjsbr7qtuxsflswkpdccti",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Don't even need a whole blog post. Here's the same conclusion in two bullet points:\n\n1. This is an \"advertisement\" that doesn't name the restaurant, so it's obviously not a real ad.\n2. The burrito literally contains a maggot, so it was obviously prompted intending it to be disgusting.\n\nQED.",
+      "created_at": "2026-09-01T15:40:37.922Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-09-01T15:40:38.305Z",
+      "reply_context": {
+        "uri": "at://did:plc:rhkcyc46ubi523e47bhnkpbb/app.bsky.feed.post/3muhqlqlwun2v",
+        "cid": "bafyreiatr46p3jylwetro7zugqllgksiorppymvv2kc4n2h4ryqvwvwv4q",
+        "author": {
+          "did": "did:plc:rhkcyc46ubi523e47bhnkpbb",
+          "handle": "nic221.bsky.social",
+          "display_name": "Nicole Hennig"
+        },
+        "text": "Neither the restaurants using AI slop photos nor the people critiquing them care about pictures - Mike Caulfield mikecaulfield.substack.com/p/neither-the-… #AI #images #beliefs",
+        "created_at": "2026-09-01T15:33:19.741Z",
+        "indexed_at": "2026-09-01T15:33:20.305Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:4z7vjxv47t6gk4yknfxiaiwb/app.bsky.feed.post/3muhqob3kjc2f",
+      "cid": "bafyreib43y4sfqrdctf4m3ud273cw3zhhzaloi7l222w2hsx6mtqntda7a",
+      "author": {
+        "did": "did:plc:4z7vjxv47t6gk4yknfxiaiwb",
+        "handle": "drugmonkey.bsky.social",
+        "display_name": "Drug Monkey"
+      },
+      "text": "More purging",
+      "created_at": "2026-09-01T15:34:44.159Z",
+      "reply_count": 0,
+      "repost_count": 2,
+      "like_count": 1,
+      "indexed_at": "2026-09-01T15:34:44.606Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muhec272wc2w",
+      "cid": "bafyreid6jibku6ppslcege46xjglrit2kiglj57mefjsvdydxq2vuxoqlm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "charismatic mini-fauna",
+      "created_at": "2026-09-01T11:53:09.382Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-09-01T11:53:09.807Z",
+      "reply_context": {
+        "uri": "at://did:plc:ppsghcl5bbpgjcljnhra353s/app.bsky.feed.post/3muhbreycrc26",
+        "cid": "bafyreiepbtwpalcvorvik6uhlvjty7fzacvhkptnxpyq6wvzh5cb6d2xee",
+        "author": {
+          "did": "did:plc:ppsghcl5bbpgjcljnhra353s",
+          "handle": "nmouquet.bsky.social",
+          "display_name": "Nicolas Mouquet"
+        },
+        "text": "The prettier the butterflies 🦋, the more we study & protect them!  \n\nWith L. Dapporto & M. Portera, we found beauty bias drives public attention, research & conservation efforts; but not IUCN Red Lists, which flag real risk. \n\n@currentbiology.bsky.social \n\n👉 doi.org/10.1016/j.cub.2026.07.049\n\n🌐🧪🌍🦤",
+        "created_at": "2026-09-01T11:08:02.785Z",
+        "indexed_at": "2026-09-01T11:08:12.403Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muhe6xt2ls2w",
+      "cid": "bafyreigiqji4epatbujhvjjrfsho6jrgkxy5s5icagpzzgcuxgfe4cxz5m",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Oh shit, I think Poincare might be empirically wrong! You can infer notions of spatial geometry by developing linear representational spaces up from boolean logic. Meaning has geometry, so you can get to a concept of \"space\" without invoking a visual capacity at all!",
+      "created_at": "2026-09-01T11:51:26.228Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-09-01T11:51:26.807Z",
+      "reply_context": {
+        "uri": "at://did:plc:ppamp6bqrppcvjukxxe3avch/app.bsky.feed.post/3muh7tdfogs2o",
+        "cid": "bafyreid5fahag3v3b3panzkfsws2hs6jgeuogpyj3j7xowwq6jf4fjfbj4",
+        "author": {
+          "did": "did:plc:ppamp6bqrppcvjukxxe3avch",
+          "handle": "davidpicard.eurosky.social",
+          "display_name": "David Picard"
+        },
+        "text": "Ha ha! That book from Poincaré get the first quote in my new lecture notes for my ML course this year!",
+        "created_at": "2026-09-01T10:33:20.752Z",
+        "indexed_at": "2026-09-01T10:33:21.505Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3muhaysuigs26",
+      "cid": "bafyreiga27lngyhdpoiy2mpij2cdteorfgspbck674p5rfuzz6hs4aurli",
+      "author": {
+        "did": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+        "handle": "jamellebouie.net",
+        "display_name": "jamelle"
+      },
+      "text": "why would any agency abide an injunction knowing there is a decent chance the supreme court will lift it because the president is a special birthday boy? www.nytimes.com/2026/09/01/u...",
+      "created_at": "2026-09-01T10:54:18.479Z",
+      "reply_count": 34,
+      "repost_count": 505,
+      "like_count": 2481,
+      "indexed_at": "2026-09-01T10:54:19.610Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:eijqdygh72wuei7faamrclpc/app.bsky.feed.post/3muhbxybo2c2o",
+      "cid": "bafyreic26rbzho2l7nihu2uynwhxal2kadcpurrynlq4xyw3ln2s46qbcy",
+      "author": {
+        "did": "did:plc:eijqdygh72wuei7faamrclpc",
+        "handle": "hansilowang.bsky.social",
+        "display_name": "Hansi Lo Wang (he/him)"
+      },
+      "text": "My latest @npr.org story: A whistleblower report says the U.S. Postal Service is rushing out an online system for President Trump’s push to restrict mail-in voting that could “derail” the midterm election if courts allow it to proceed. Key parts of USPS' plan are currently blocked by a court order",
+      "created_at": "2026-09-01T11:11:44.337Z",
+      "reply_count": 8,
+      "repost_count": 163,
+      "like_count": 281,
+      "indexed_at": "2026-09-01T11:11:46.503Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3muhczjovtc2w",
+      "cid": "bafyreidxq6epjopbz4avcvkcolzqsutnlbibi2iiczcxkotoph2cc5k44u",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "thanks, now I have cancer.",
+      "created_at": "2026-09-01T11:30:29.897Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-09-01T11:30:30.506Z",
+      "reply_context": {
+        "uri": "at://did:plc:v46ojbiop5ebs5h7gaomixcc/app.bsky.feed.post/3mufy74mxnk2p",
+        "cid": "bafyreia7xvr5ixsxyr6zpot3hiv7kvmeywyhgkzdwktu5kjnadu7pykfvi",
+        "author": {
+          "did": "did:plc:v46ojbiop5ebs5h7gaomixcc",
+          "handle": "brookie.blog",
+          "display_name": "Brookie"
+        },
+        "text": "you call yourself designers ?? this is what real design looks like.",
+        "created_at": "2026-08-31T22:44:06.623Z",
+        "indexed_at": "2026-08-31T22:44:54.208Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mug6i3gwzc2x",
+      "cid": "bafyreidllp6gyrx367tnguz7ffxcovwsfjwjfm5jh4x2bhm5dceamreexy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "\"regime change\"",
+      "created_at": "2026-09-01T00:36:29.824Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 2,
+      "indexed_at": "2026-09-01T00:36:30.005Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mug2wijdwk22",
+      "cid": "bafyreihom44htqrpd62s62aqtrcfra5vthvg53msuxu7nu3mcjtssqkdiq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "shiny new toy",
+      "created_at": "2026-08-31T23:32:58.323Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 4,
+      "indexed_at": "2026-08-31T23:33:05.713Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:z6rujpf4u56jfie7aqic2nfg/app.bsky.feed.post/3mufx4wap7k2a",
+      "cid": "bafyreibqsyqxiocgv2jizfx5hhst4lmynnutnuaymj4jqsz6nvcgu3qdfi",
+      "author": {
+        "did": "did:plc:z6rujpf4u56jfie7aqic2nfg",
+        "handle": "carlquintanilla.bsky.social",
+        "display_name": "Carl Quintanilla"
+      },
+      "text": "YARDENI, on Canada/US:\n\n“.. This is no longer a squabble at the margins. \n\n.. the more interesting question may be whether other blocs—the European Union, the BRICS nations .. read Carney’s ‘not for sale’ stance as a template for dealing with Trump through the rest of his second term.”",
+      "created_at": "2026-08-31T22:24:59.082Z",
+      "reply_count": 10,
+      "repost_count": 69,
+      "like_count": 317,
+      "indexed_at": "2026-08-31T22:25:00.909Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mufxvo4fdc2x",
+      "cid": "bafyreihfa76o7yptfrtpwyhriuarssx4j4xgfyuu74iq6iuu767zszljb4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "This has me thinking about Kuhn's \"paradigm shift\" stuff",
+      "created_at": "2026-08-31T22:38:49.417Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-31T22:38:49.806Z",
+      "reply_context": {
+        "uri": "at://did:plc:nvfposmpmhegtyvhbs75s3pw/app.bsky.feed.post/3mufxcrjxfc2f",
+        "cid": "bafyreieatkdcrzjxuowp3u2ff2beejysctztebathteiem4nnxgra23aqy",
+        "author": {
+          "did": "did:plc:nvfposmpmhegtyvhbs75s3pw",
+          "handle": "jamellebouie.net",
+          "display_name": "jamelle"
+        },
+        "text": "cut this portion of the video for time but this is a good example of my argument that major political reform will be *partisan* in nature. i should elaborate on this.",
+        "created_at": "2026-08-31T22:28:15.473Z",
+        "indexed_at": "2026-08-31T22:28:15.707Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mufmoskuyc2l",
+      "cid": "bafyreidsziddm66j6zgghjqcs2brpvlr2ux4qmnc73ruv4wf6tji2qpvxi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Also: who's Sue and why does she get a show all to herself?",
+      "created_at": "2026-08-31T19:18:08.045Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-08-31T19:18:08.504Z",
+      "reply_context": {
+        "uri": "at://did:plc:gqbrsb2cdeaz5ybuo3kk7vs7/app.bsky.feed.post/3mufkj4kdus2h",
+        "cid": "bafyreiex3j6txc3zu4xvx3kbmztadvbzob34jue3jgr2iczhfp5tdnprd4",
+        "author": {
+          "did": "did:plc:gqbrsb2cdeaz5ybuo3kk7vs7",
+          "handle": "joedudekjd.bsky.social",
+          "display_name": "Joe Dudek"
+        },
+        "text": "I've never been to a court records show.",
+        "created_at": "2026-08-31T18:39:09.703Z",
+        "indexed_at": "2026-08-31T18:39:09.212Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mufhaifba22n",
+      "cid": "bafyreie7zhzoi35wr2v5woeb6f2ahrob75sd3ngs3iihrw6dlb45femfku",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "exactly. the problem here is pretending that CBS is still a news organization rather than an arm of the neofascist propaganda machine that has taken control of american conservatism.",
+      "created_at": "2026-08-31T17:40:38.904Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-08-31T17:40:39.404Z",
+      "reply_context": {
+        "uri": "at://did:plc:z36xlxd2lqlgqo2j54sv6azz/app.bsky.feed.post/3mufh45vit22i",
+        "cid": "bafyreifi475ecsapsi3bvkqgkrmqeseoppep3zaphbz57otscpniv7cyx4",
+        "author": {
+          "did": "did:plc:z36xlxd2lqlgqo2j54sv6azz",
+          "handle": "dreggas13.bsky.social",
+          "display_name": "Dreggas13"
+        },
+        "text": "Why is anyone surprised by this? It's CBS now run by Bari Weiss and owned by the Ellisons. It's now a propaganda arm for Islamophobia and the right.",
+        "created_at": "2026-08-31T17:38:13.685Z",
+        "indexed_at": "2026-08-31T17:38:14.506Z"
+      },
+      "is_reply": true
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1283,11 +1887,11 @@
         "follow_date": "2024-09-21T23:40:40.640Z"
       }
     ],
-    "fetch_timestamp": "2026-09-07T16:49:19.761059+00:00"
+    "fetch_timestamp": "2026-09-07T16:49:04.045480+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-09-07T05:50:27.461000+00:00",
-    "new_posts_count": 0,
-    "is_initial_fetch": false
+    "last_post_timestamp": null,
+    "new_posts_count": 24,
+    "is_initial_fetch": true
   }
 }
