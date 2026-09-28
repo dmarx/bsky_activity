@@ -1,7 +1,120 @@
 {
-  "fetch_timestamp": "2026-09-28T12:18:00.301674+00:00",
+  "fetch_timestamp": "2026-09-28T12:17:49.076951+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mwkfqyqgrk2u",
+      "cid": "bafyreife3jmzex5qcitax2nmrh25hfkgbnfyvvqfcsq74k3rt3dxwfvf7u",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I think the level of intelligence available from the most capable model in the \"Fable\" call stack is probably notably better than Opus', but it's nerfed by everything they build around to try to make it \"safer\" and/or cheaper.",
+      "created_at": "2026-09-28T03:47:47.383Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-09-28T03:47:47.779Z",
+      "reply_context": {
+        "uri": "at://did:plc:w2jujqedsm6kqfamnhzlml6b/app.bsky.feed.post/3mwkeq4jc7k2i",
+        "cid": "bafyreicoapwzmxzoflvgansepqwv36gre3ztsw2u6cqezric2wxo3si53a",
+        "author": {
+          "did": "did:plc:w2jujqedsm6kqfamnhzlml6b",
+          "handle": "jdcmedlock.bsky.social",
+          "display_name": "James Medlock"
+        },
+        "text": "But the new one makes fable feel more or less irrelevant, it's both more expensive and slightly worse",
+        "created_at": "2026-09-28T03:29:24.047Z",
+        "indexed_at": "2026-09-28T03:29:24.579Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mwkedgod7c2u",
+      "cid": "bafyreib5v7uuq7juqavezwxirz3uo36pvvsuu4dngpgxywez5qopf7zy2q",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I think it's less that the gulf is actually like that than that that's a supposed to be a poorly mapped region, so its representation on the map and its actual topology aren't the same thing which is why we have two representations available to us",
+      "created_at": "2026-09-28T03:22:18.489Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-09-28T03:22:18.783Z",
+      "reply_context": {
+        "uri": "at://did:plc:akb2i3f7ajqvso4m2neqns3j/app.bsky.feed.post/3mwke7pd5dk2s",
+        "cid": "bafyreiesq3wycjebmfutc6ymmofhta7xsxp6w5jjb2bbzutrwfjv3icluy",
+        "author": {
+          "did": "did:plc:akb2i3f7ajqvso4m2neqns3j",
+          "handle": "sagastar.bsky.social",
+          "display_name": "Sagittarius A*"
+        },
+        "text": "why do the galapagos still exist when the gulf of mexico is....like that.",
+        "created_at": "2026-09-28T03:20:13.343Z",
+        "indexed_at": "2026-09-28T03:20:13.777Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mwkeb6s4r22u",
+      "cid": "bafyreiej5pcm5krzvh6puirskngl3axnlg73bbsfqesi4oryfu2wynwo4a",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "> \"nobody knows from where\"\n\n...nobody thinks to ask? they don't carry maps on these ships?",
+      "created_at": "2026-09-28T03:21:03.116Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-09-28T03:21:06.296Z",
+      "reply_context": {
+        "uri": "at://did:plc:ptwfknk5mn2c7mwpvjrfnoay/app.bsky.feed.post/3mwke4chnns22",
+        "cid": "bafyreifg4fym5q2ejv3a4z2jp7lti7ixxxsnswnifbxqtugzbyvwgq2wmu",
+        "author": {
+          "did": "did:plc:ptwfknk5mn2c7mwpvjrfnoay",
+          "handle": "theophite.bsky.social",
+          "display_name": "rev. howard arson"
+        },
+        "text": "i am open to questions",
+        "created_at": "2026-09-28T03:18:19.194Z",
+        "indexed_at": "2026-09-28T03:18:18.977Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mwkdba6oek2u",
+      "cid": "bafyreiblbaelodwjllj4t5iwggpb2qxvxpwklg725u3lz7kz7g6c3plm3q",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Had you been using Opus 5.3? I had been mostly using Opus already because I found it was already really good. I believe 5.5 is better, but I don't think the difference is huge. I think a lot of people moved on to Fable prematurely. Fable is good no doubt, but it's not like Opus 5.3 was bad.",
+      "created_at": "2026-09-28T03:03:10.835Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-09-28T03:03:11.277Z",
+      "reply_context": {
+        "uri": "at://did:plc:w2jujqedsm6kqfamnhzlml6b/app.bsky.feed.post/3mwkbto7jjk2e",
+        "cid": "bafyreighmzmveg6bswkjllby22zzjkrhvywtju7q6geledc2htrkufcmhu",
+        "author": {
+          "did": "did:plc:w2jujqedsm6kqfamnhzlml6b",
+          "handle": "jdcmedlock.bsky.social",
+          "display_name": "James Medlock"
+        },
+        "text": "The most notable thing is the cost. It's on the same level as fable/astra, but more usable and at a fifth the cost. Getting frontier level performance in a small model strikes me as very economically significant.",
+        "created_at": "2026-09-28T02:37:42.039Z",
+        "indexed_at": "2026-09-28T02:37:42.678Z"
+      },
+      "is_reply": true
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1283,11 +1396,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-09-28T12:18:00.838706+00:00"
+    "fetch_timestamp": "2026-09-28T12:17:50.319361+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-09-28T03:47:47.383000+00:00",
-    "new_posts_count": 0,
+    "last_post_timestamp": "2026-09-28T02:28:12.920000+00:00",
+    "new_posts_count": 4,
     "is_initial_fetch": false
   }
 }
