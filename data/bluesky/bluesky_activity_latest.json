@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-10T16:33:32.150998+00:00",
+  "fetch_timestamp": "2026-10-10T20:51:23.556571+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2569,
+    "total_followers_count": 2570,
     "total_following_count": 1990,
     "followers": [
       {
@@ -13,6 +13,19 @@
         "handle": "justmask.bsky.social",
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:bkzrq7mqx2y62aepym5k3k3o",
+        "handle": "vguinea.eurosky.social",
+        "display_name": "vguinea 🇪🇺",
+        "created_at": "2024-11-14T21:49:14.772Z",
         "description": null,
         "followers_count": 0,
         "follows_count": 0,
@@ -1138,25 +1151,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:tie3hrx45cacciavkn47k7gn",
-        "handle": "purdylab.bsky.social",
-        "display_name": "John Purdy",
-        "created_at": "2023-12-19T06:14:13.150Z",
-        "description": "Viruses, metabolism, lipids, mass spec, herpes (both 🦠 and 🦎, but not reptile viruses).",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-10T16:33:32.772169+00:00"
+    "fetch_timestamp": "2026-10-10T20:51:24.477435+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-10T16:20:33.304000+00:00",
+    "last_post_timestamp": "2026-10-10T19:51:19.406000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
