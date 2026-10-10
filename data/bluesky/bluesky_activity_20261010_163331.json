@@ -1,7 +1,696 @@
 {
-  "fetch_timestamp": "2026-10-10T16:33:32.150998+00:00",
+  "fetch_timestamp": "2026-10-10T16:33:13.616094+00:00",
   "profile_handle": "digthatdata.bsky.social",
-  "posts": [],
+  "posts": [
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxjvg3tyi22b",
+      "cid": "bafyreiexjfye65nlavrhtep5lqofclzbeatwrvgukq4ch27ea2otr6i5bu",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "",
+      "created_at": "2026-10-10T16:20:33.304Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-10-10T16:20:34.176Z",
+      "reply_context": {
+        "uri": "at://did:plc:thlp4ebkcyccpssbwpnrxct5/app.bsky.feed.post/3mxjuw3msvk2z",
+        "cid": "bafyreif3o2jngtjnurrr2v2zgisxagvfx3kbcrbw65gt4po56qohuzk344",
+        "author": {
+          "did": "did:plc:thlp4ebkcyccpssbwpnrxct5",
+          "handle": "wikisteff.bsky.social",
+          "display_name": "Stef \"inclusion is a human right\" Christensen"
+        },
+        "text": "How can **anyone** take this government seriously?!!\n\n\"This process was 'not optional,' he said, adding that the Super Intelligence Force would fulfill its responsibility.\"",
+        "created_at": "2026-10-10T16:11:36.198Z",
+        "indexed_at": "2026-10-10T16:11:38.173Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxjv5xwid22b",
+      "cid": "bafyreiepv55de4kt4fkm5av6zm6y6fok3zbqp277y636bvy7qc6iq5ozs4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "lol, the people in that thread marveling at the technological accumen of disabling CSS",
+      "created_at": "2026-10-10T16:16:00.757Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-10-10T16:16:01.176Z",
+      "reply_context": {
+        "uri": "at://did:plc:3faeu5kcm7ecip4tc6wastff/app.bsky.feed.post/3mxjuxpt76l2n",
+        "cid": "bafyreieallbhawe2q5rq56gz4fgzp6inyvykfdeoz334xeskaogyku7xpi",
+        "author": {
+          "did": "did:plc:3faeu5kcm7ecip4tc6wastff",
+          "handle": "sharonhoward.bsky.social",
+          "display_name": "Sharon Howard"
+        },
+        "text": "We're gonna party like it's 1999.",
+        "created_at": "2026-10-10T16:12:30.933Z",
+        "indexed_at": "2026-10-10T16:12:31.381Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxjv3jhsjk2b",
+      "cid": "bafyreidgzpnq4ep5topeqauavegoefiww3v4ock7y4p72ogfj53gdhll5y",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "ain't trauma a bitch?",
+      "created_at": "2026-10-10T16:14:38.485Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-10-10T16:14:38.880Z",
+      "reply_context": {
+        "uri": "at://did:plc:4xwxmnh6mu62j322mglp7tt6/app.bsky.feed.post/3mxjuupof2224",
+        "cid": "bafyreifn4ac247dg6tfhodrn2wcrm5nmq4cz4nnhuz3imcv2fpim3hkusq",
+        "author": {
+          "did": "did:plc:4xwxmnh6mu62j322mglp7tt6",
+          "handle": "quoproquid.bsky.social",
+          "display_name": "QuoProQuid"
+        },
+        "text": "a thing about carrie, the novel, is that carrie *is* weird and judgmental and unpleasant to deal with. characters have to suppress their irritation with her, and this is important because it's easy to reach out to someone who conforms to social norms. it's harder to do that to a girl who doesn't.",
+        "created_at": "2026-10-10T16:10:50.113Z",
+        "indexed_at": "2026-10-10T16:10:44.077Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxa5hpopo22r",
+      "cid": "bafyreies35qlavy7hv5uoqucdexxzzb63c5xizepqatubnh744pheydkwm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "sheeesh, what a crybaby.",
+      "created_at": "2026-10-06T19:18:00.208Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-10-06T19:18:00.676Z",
+      "reply_context": {
+        "uri": "at://did:plc:6hit5rjdbmlnscmuk4bbtmuc/app.bsky.feed.post/3mxa4qlki5s2d",
+        "cid": "bafyreie77itgztbi3sw5eeroaulexatv23mkg246mummt33w4p5cj7a6wm",
+        "author": {
+          "did": "did:plc:6hit5rjdbmlnscmuk4bbtmuc",
+          "handle": "rincewind.run",
+          "display_name": "Micah"
+        },
+        "text": "when an all time great athlete declines and cannot accept it, it is sometimes sad and it is sometimes funny\n\ngreat news: cristiano ronaldo absolutely falls into the latter category",
+        "created_at": "2026-10-06T19:05:04.124Z",
+        "indexed_at": "2026-10-06T19:05:05.707Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxa3vr5kcc2q",
+      "cid": "bafyreigxkveh6egenrws7y42ubxthvbnwqchedoroc3rzbce2k4whudws4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "An important component of how republicans maintain narrative control is through Orwellian choices for naming their ideologies.\n\n\"originalism\" is historical revisionism.\n\n\"pro-life\" asserts that women's lives have less value than their unborn children.\n\n\"conservatism\" dismantles the status quo.",
+      "created_at": "2026-10-06T18:50:04.021Z",
+      "reply_count": 0,
+      "repost_count": 6,
+      "like_count": 20,
+      "indexed_at": "2026-10-06T18:50:05.586Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxa3jm2frk2q",
+      "cid": "bafyreig5r5pomunz4luvincavja3c3clgsx3j6ilehwreowse4l52b3mc4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "trump literally could have satisfied his campaign promise by just doing nothing and leaving the Biden era policies in place.\n\nwhat a surprise.",
+      "created_at": "2026-10-06T18:43:16.023Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-10-06T18:43:16.488Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:z6rujpf4u56jfie7aqic2nfg/app.bsky.feed.post/3mx7ugaqonc2d",
+      "cid": "bafyreiclnk6xhprxg4qteknsm7vjjcnhbl5725behm2ppt4mbu7orxqjfq",
+      "author": {
+        "did": "did:plc:z6rujpf4u56jfie7aqic2nfg",
+        "handle": "carlquintanilla.bsky.social",
+        "display_name": "Carl Quintanilla"
+      },
+      "text": "The NY Fed examines how tariffs affected inflation and finds that, without them, goods prices would have declined as of last February.\n\nlibertystreeteconomics.newyorkfed.org/2026/10/how-...",
+      "created_at": "2026-10-06T16:36:07.313Z",
+      "reply_count": 44,
+      "repost_count": 486,
+      "like_count": 1182,
+      "indexed_at": "2026-10-06T16:36:12.982Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.images"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxa2lzy7ec2q",
+      "cid": "bafyreicqtzabpi5ts7j6u5zzaext6boyif2a4eprkknwccko5q7d5mjuce",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "see also: climate change.",
+      "created_at": "2026-10-06T18:26:43.998Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-10-06T18:26:44.384Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxa2lmipqk2q",
+        "cid": "bafyreibc3jyees6dr46lapu7a7xlxcg4pcdwh7mcmvlh4vkc6tyxz72mqm",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "You could argue that the pathology here is a failure to correctly measure \"utility\", but I'd argue this is the fundamental problem with Rawlsian economics. Utility needs to take viability into consideration, and when you invite people to measure their own utility in practice, they generally don't.",
+        "created_at": "2026-10-06T18:26:29.859Z",
+        "indexed_at": "2026-10-06T18:26:30.287Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxa2lmipqk2q",
+      "cid": "bafyreibc3jyees6dr46lapu7a7xlxcg4pcdwh7mcmvlh4vkc6tyxz72mqm",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "You could argue that the pathology here is a failure to correctly measure \"utility\", but I'd argue this is the fundamental problem with Rawlsian economics. Utility needs to take viability into consideration, and when you invite people to measure their own utility in practice, they generally don't.",
+      "created_at": "2026-10-06T18:26:29.859Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-10-06T18:26:30.287Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxa2hecfwc2q",
+        "cid": "bafyreicqxv3hcpa4vwkbrwieutzdxvhws7m4dlklwzeo63uwwvyjhnfpm4",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "The +3 strategy permits the bulk of your population to continue to buy groceries, but by sacrificing the bottom tier: there's no one available to staff the grocery stores or even produce the food to be bought.",
+        "created_at": "2026-10-06T18:24:06.774Z",
+        "indexed_at": "2026-10-06T18:24:07.313Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxa2hecfwc2q",
+      "cid": "bafyreicqxv3hcpa4vwkbrwieutzdxvhws7m4dlklwzeo63uwwvyjhnfpm4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "The +3 strategy permits the bulk of your population to continue to buy groceries, but by sacrificing the bottom tier: there's no one available to staff the grocery stores or even produce the food to be bought.",
+      "created_at": "2026-10-06T18:24:06.774Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-10-06T18:24:07.313Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxa2he24cc2q",
+        "cid": "bafyreiciavsbs6mijtbxu2lcvs4iaf5tp275zztpzkut5etmtlfvryrhyy",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "let's concretize this.\n\nthe year is 2020. your bottom index is the \"essential worker\" population, the upper indexes are everyone else. Each timestep has a cost of 1 unit, and you need to stay above 4 to sustain yourself.",
+        "created_at": "2026-10-06T18:24:06.773Z",
+        "indexed_at": "2026-10-06T18:24:07.283Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mxa2he24cc2q",
+      "cid": "bafyreiciavsbs6mijtbxu2lcvs4iaf5tp275zztpzkut5etmtlfvryrhyy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "let's concretize this.\n\nthe year is 2020. your bottom index is the \"essential worker\" population, the upper indexes are everyone else. Each timestep has a cost of 1 unit, and you need to stay above 4 to sustain yourself.",
+      "created_at": "2026-10-06T18:24:06.773Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-10-06T18:24:07.283Z",
+      "reply_context": {
+        "uri": "at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mx7zt6lzn222",
+        "cid": "bafyreiab7ww4xwbwhbrha3km4mqba4ln76touhgecmovf4bkoemrjsmdpi",
+        "author": {
+          "did": "did:plc:o72ypk5c474zqklkukaphuy3",
+          "handle": "zachweinersmith.bsky.social",
+          "display_name": "Zach Weinersmith"
+        },
+        "text": "Maybe I'm missing the point but isn't it fairly easy to construct situations where this isn't true? Like if your list of people have welfare given by 5, 6, 6, 6, 6, 7, 8, 8, 9, and you have the option to take a policy that gives the lowest +1 vs everyone else +3,  shouldn't you take the second?",
+        "created_at": "2026-10-06T18:12:49.967Z",
+        "indexed_at": "2026-10-06T18:12:51.680Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7zpv2ogs2q",
+      "cid": "bafyreie55b5q2r3mbhtuvizlmolgzzcyc3eapmen6jbzh4t7uezfz2r6fi",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "link.springer.com/article/10.1...",
+      "created_at": "2026-10-06T18:10:59.312Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-10-06T18:11:00.581Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7zi25opc2q",
+        "cid": "bafyreid46pliohdemmvzasvu77trcfxq2xiknec7uo2qdokm32xn6kf75a",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "what rawls misses is network effects. If you construct your utility function constraining attention to your local utility, you fail to recognize how that impacts the viability kernel of the environment that sustains you. The utility of that kernel is better served by managing where the bottom is.",
+        "created_at": "2026-10-06T18:06:36.218Z",
+        "indexed_at": "2026-10-06T18:06:36.677Z"
+      },
+      "is_reply": true,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7zi25opc2q",
+      "cid": "bafyreid46pliohdemmvzasvu77trcfxq2xiknec7uo2qdokm32xn6kf75a",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "what rawls misses is network effects. If you construct your utility function constraining attention to your local utility, you fail to recognize how that impacts the viability kernel of the environment that sustains you. The utility of that kernel is better served by managing where the bottom is.",
+      "created_at": "2026-10-06T18:06:36.218Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-10-06T18:06:36.677Z",
+      "reply_context": {
+        "uri": "at://did:plc:o72ypk5c474zqklkukaphuy3/app.bsky.feed.post/3mx7yxgrmt226",
+        "cid": "bafyreiflvr4ts4yg4oflseyh6dmbuq57z64q4pkpjxupvjgq4ba3bwjhs4",
+        "author": {
+          "did": "did:plc:o72ypk5c474zqklkukaphuy3",
+          "handle": "zachweinersmith.bsky.social",
+          "display_name": "Zach Weinersmith"
+        },
+        "text": "Hey philosophy/econ geeks:\n\nIf I understand it right, Rawls says the Veil of Ignorance shows you should always want to benefit the worst off. But mathematically wouldn't you want any non-zany intervention that maximizes your expected utility?",
+        "created_at": "2026-10-06T17:57:19.029Z",
+        "indexed_at": "2026-10-06T17:57:19.777Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:stqnd73stf4axkmqxj2kn2gg/app.bsky.feed.post/3mx7yvqwozs2p",
+      "cid": "bafyreid53kyxc6lgfzexf2imicrtu6iqpcqjocih6b5xinayzybhgtme5q",
+      "author": {
+        "did": "did:plc:stqnd73stf4axkmqxj2kn2gg",
+        "handle": "heatherfro.bsky.social",
+        "display_name": "Heather Froehlich"
+      },
+      "text": "Job: Cultural Heritage Informatics, AI/Digital Transformation, and Critical Technology Studies\n jobs.sjsu.edu/en-us/job/56...",
+      "created_at": "2026-10-06T17:56:22.568Z",
+      "reply_count": 1,
+      "repost_count": 5,
+      "like_count": 5,
+      "indexed_at": "2026-10-06T17:56:23.680Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:353gzbhcjbznfxegvayffqek/app.bsky.feed.post/3mx7z7d4qwz2r",
+      "cid": "bafyreiet4tfzphzvolwctd4th26nxz2jqn2g4utdmwi7xvezlrx3xk5zsm",
+      "author": {
+        "did": "did:plc:353gzbhcjbznfxegvayffqek",
+        "handle": "klasfeldreports.com",
+        "display_name": "Adam Klasfeld"
+      },
+      "text": "\"The Trump administration pushed the FBI to investigate Los Angeles protesters in violation of their constitutional rights and the bureau’s policies, a former FBI supervisor alleges in a new whistleblower complaint.\" \n\nNBC's indefatigable @ryanjreilly.com reports buff.ly/bBe5Xnz",
+      "created_at": "2026-10-06T18:01:42.854Z",
+      "reply_count": 6,
+      "repost_count": 149,
+      "like_count": 297,
+      "indexed_at": "2026-10-06T18:01:44.578Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.external"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7z76xhik2b",
+      "cid": "bafyreiaq3siv3r5jbfexot6ghrgj32s4ltw3p3yqya5m5hull4wc2ufmee",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "discursive *mode*, not model. as in, the expectation of a distribution vs outlierness.",
+      "created_at": "2026-10-06T18:01:39.267Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-10-06T18:01:39.687Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7z5rrvok2b",
+        "cid": "bafyreifruwh5hm5nkucmxruiti2not4anassfym7ej4kn2sc25m7rg2wca",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "It's a manifestation of the tyranny of metrics. Polarization reflects a gap between two arbitrary points, extremism reflects distance from a discursive model. Way easier to measure the former than the latter.",
+        "created_at": "2026-10-06T18:00:51.899Z",
+        "indexed_at": "2026-10-06T18:00:52.580Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7z5s65bs2b",
+      "cid": "bafyreidk6qskks4t67i7djo7xdd2hs53mfvpxh4npnriewul42ldrlxpya",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "Decision processes tend to gravitate towards metrics that are easier to measure, regardless of whether those metrics are actually the most important ones to those processes. This is why so many judgements that would be better served by qualitative measures get dominated by quantitative measures.",
+      "created_at": "2026-10-06T18:00:51.900Z",
+      "reply_count": 0,
+      "repost_count": 1,
+      "like_count": 1,
+      "indexed_at": "2026-10-06T18:00:52.607Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7z5rrvok2b",
+        "cid": "bafyreifruwh5hm5nkucmxruiti2not4anassfym7ej4kn2sc25m7rg2wca",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "It's a manifestation of the tyranny of metrics. Polarization reflects a gap between two arbitrary points, extremism reflects distance from a discursive model. Way easier to measure the former than the latter.",
+        "created_at": "2026-10-06T18:00:51.899Z",
+        "indexed_at": "2026-10-06T18:00:52.580Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7z5rrvok2b",
+      "cid": "bafyreifruwh5hm5nkucmxruiti2not4anassfym7ej4kn2sc25m7rg2wca",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "It's a manifestation of the tyranny of metrics. Polarization reflects a gap between two arbitrary points, extremism reflects distance from a discursive model. Way easier to measure the former than the latter.",
+      "created_at": "2026-10-06T18:00:51.899Z",
+      "reply_count": 2,
+      "repost_count": 0,
+      "like_count": 5,
+      "indexed_at": "2026-10-06T18:00:52.580Z",
+      "reply_context": {
+        "uri": "at://did:plc:xtg6uhgsy2j7k2a6qtcood2w/app.bsky.feed.post/3mx7yhn23rk26",
+        "cid": "bafyreicsau7zt5iocl63ypprjqaxl6fdgwmdydeoft55yhna7sj3fgdp54",
+        "author": {
+          "did": "did:plc:xtg6uhgsy2j7k2a6qtcood2w",
+          "handle": "karlbode.com",
+          "display_name": "Karl Bode"
+        },
+        "text": "over at the newsletter I wrote about the useful bogeyman that is \"polarization\":",
+        "created_at": "2026-10-06T17:48:28.726Z",
+        "indexed_at": "2026-10-06T17:48:31.183Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7ytlnpoc2b",
+      "cid": "bafyreihm53p3ir2peddtooxwiwmkvaobehvxdtur3r56qvldhm2duvu3j4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I was going to make some suggestions for stuff I correctly guessed you'd missed, but the stuff you landed was way worse.\n\nNote to self: steel your faith in humanity before reading Julie's next column.",
+      "created_at": "2026-10-06T17:55:09.925Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-10-06T17:55:10.578Z",
+      "reply_context": {
+        "uri": "at://did:plc:qqdqgzpqwyho4cxzso62m54q/app.bsky.feed.post/3mx7xiverec2t",
+        "cid": "bafyreiccp7ph2ongwmt6vyqnqrpqtg7ntopnauzybalz65ehe4htimtvzy",
+        "author": {
+          "did": "did:plc:qqdqgzpqwyho4cxzso62m54q",
+          "handle": "juliedicaro.bsky.social",
+          "display_name": "Julie DiCaro"
+        },
+        "text": "Come gaze upon the stupidity.",
+        "created_at": "2026-10-06T17:31:17.276Z",
+        "indexed_at": "2026-10-06T17:31:19.584Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7yi4nrz22b",
+      "cid": "bafyreiawjjvfhuj2xnvbyizx7b23243mumrzcikoci2nz2gwybmzkf6mn4",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "LFG",
+      "created_at": "2026-10-06T17:48:45.101Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-10-06T17:48:45.281Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7yff2vms2b",
+      "cid": "bafyreiaxvzeyfd2gaijr7w67qqlaamgj677tee7wbcrpnaxrvourkow6dy",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I like the shiny, not so much the font choice for the digits.",
+      "created_at": "2026-10-06T17:47:13.254Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-10-06T17:47:13.682Z",
+      "is_reply": true,
+      "reply_to_uri": "at://did:plc:gqbrsb2cdeaz5ybuo3kk7vs7/app.bsky.feed.post/3mx7y7e76j22y"
+    },
+    {
+      "uri": "at://did:plc:clxs5bimkdx2zvxzrbs6v3pw/app.bsky.feed.post/3mx7xdbj5oc2v",
+      "cid": "bafyreie7bs3hwjx34xci3t732ctlpkcdn7676rzrsgpmrd6y3rzlivjt4u",
+      "author": {
+        "did": "did:plc:clxs5bimkdx2zvxzrbs6v3pw",
+        "handle": "brendannyhan.bsky.social",
+        "display_name": "Brendan Nyhan"
+      },
+      "text": "What would you say if you saw it in another country? \n\n\"If the fence proposal is implemented, it could limit the public’s access to an open space that has allowed people to practice free speech at the doorstep of the country’s highest seat of power.\"",
+      "created_at": "2026-10-06T17:28:08.676Z",
+      "reply_count": 5,
+      "repost_count": 21,
+      "like_count": 57,
+      "indexed_at": "2026-10-06T17:28:08.979Z",
+      "is_reply": false,
+      "embed": {
+        "type": "app.bsky.embed.record"
+      }
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7xxvn3ik2q",
+      "cid": "bafyreicrbelusb4a7ow4lh2slmgqxb2yrieq5357f35yevghpssicugjte",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "it's hard to take back the narrative when your opponent is vertically integrated. The republicans aren't just manufacturing the lies, they control most of the highest bandwidth publishing channels.",
+      "created_at": "2026-10-06T17:39:40.866Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-10-06T17:39:41.479Z",
+      "reply_context": {
+        "uri": "at://did:plc:zm3qu4k2lxglh5ytlasyok3d/app.bsky.feed.post/3mx7xjtojlk2y",
+        "cid": "bafyreihjb2xo5ob7qju4f5krp36n7pgxnp4gl72i5jc2cbfc3j5x44ch2e",
+        "author": {
+          "did": "did:plc:zm3qu4k2lxglh5ytlasyok3d",
+          "handle": "greenteethnursery.bsky.social",
+          "display_name": "Greenteeth Nursery"
+        },
+        "text": "Their message should be \"how does XYZ culture-war issue help the cost of food/gas/rent?\" before they redirect the conversation to concrete ways for helping americans.\n\nTake back the narrative from the people selling distractions.",
+        "created_at": "2026-10-06T17:31:49.054Z",
+        "indexed_at": "2026-10-06T17:31:49.782Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7xsiyggk2q",
+      "cid": "bafyreibbu3d74ixo2iv5j4gye3we2ify5veei5mh4exat5rwlmnzy3fupa",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I think the conflict here is that while we're in a regime where campaign financing is so thoroughly corrupted, a party can't even have *a voice* if it doesn't accept donations from large moneyed interests.\n\nPolitics has become a manifestation of information warfare. Money isn't speech: it's *reach*.",
+      "created_at": "2026-10-06T17:36:39.835Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 2,
+      "indexed_at": "2026-10-06T17:36:40.488Z",
+      "reply_context": {
+        "uri": "at://did:plc:4u3hwe3p7oy3hoy3amlw7rp2/app.bsky.feed.post/3mx7xgvv5an2h",
+        "cid": "bafyreifvlvvai6otnuyaumtftfus5ederwqmtp3nqha7mxinbwq4q4ycoi",
+        "author": {
+          "did": "did:plc:4u3hwe3p7oy3hoy3amlw7rp2",
+          "handle": "rbreich.bsky.social",
+          "display_name": "Robert Reich"
+        },
+        "text": "If Democrats want to regain working people, they must disavow Big Money.\n\nThey must hammer economic populism — and have a laser focus on the cost of living crisis in America.\n\nThere’s no way the party can speak for or represent the working class in America if it's beholden to corporate interests.",
+        "created_at": "2026-10-06T17:30:10.679826Z",
+        "indexed_at": "2026-10-06T17:30:10.782Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7xjkvobs2q",
+      "cid": "bafyreid56biajwct3jztaqucmkhjzzhzhh6qm3tqkd5eyakxoyxnvszviq",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "> roughly a dozen citizens deported, mostly children\n\nit's appalling that this alone hasn't been an administration toppling scandal.",
+      "created_at": "2026-10-06T17:31:39.851Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 1,
+      "indexed_at": "2026-10-06T17:31:40.778Z",
+      "reply_context": {
+        "uri": "at://did:plc:clxs5bimkdx2zvxzrbs6v3pw/app.bsky.feed.post/3mx7xeaczjk2n",
+        "cid": "bafyreib3stnocwaophlnvpp675a6bhwqakyrwemdst5b7wzexacb46ooku",
+        "author": {
+          "did": "did:plc:clxs5bimkdx2zvxzrbs6v3pw",
+          "handle": "brendannyhan.bsky.social",
+          "display_name": "Brendan Nyhan"
+        },
+        "text": "",
+        "created_at": "2026-10-06T17:28:40.977Z",
+        "indexed_at": "2026-10-06T17:28:42.381Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7xd5iw5s2w",
+      "cid": "bafyreigsnuqzqi5fjlhxibbejv7bffowh73j7jbq7ui5afczm4kxo3ny4y",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "I wonder if this is related to how LLMs represent numerical spaces. It might be easier for them to posit an ordering if the numbers are close together, whereas if the numbers are far apart it might \"feel\" closer to an OOD comparison they'd be less confident about making at all, like a type error.",
+      "created_at": "2026-10-06T17:28:04.476Z",
+      "reply_count": 0,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-10-06T17:28:05.392Z",
+      "reply_context": {
+        "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7x4ax4kc2w",
+        "cid": "bafyreieutbejqg5othbza6qhhvdqnc6p5sw47ykz5blwpnmirqtnyvzhla",
+        "author": {
+          "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+          "handle": "digthatdata.bsky.social",
+          "display_name": "David Marx"
+        },
+        "text": "maybe try adding a prompt indicating a research phase, like \"We are early in design exploration. There is a lot of uncaptured value to be leveraged. Don't get caught up on small incremental improvements, our focus should be identfiying the major levers and reasonable hyperparameters.\"",
+        "created_at": "2026-10-06T17:24:13.205Z",
+        "indexed_at": "2026-10-06T17:24:13.976Z"
+      },
+      "is_reply": true
+    },
+    {
+      "uri": "at://did:plc:yeplumkwwcfqh5gr7burql3e/app.bsky.feed.post/3mx7x4ax4kc2w",
+      "cid": "bafyreieutbejqg5othbza6qhhvdqnc6p5sw47ykz5blwpnmirqtnyvzhla",
+      "author": {
+        "did": "did:plc:yeplumkwwcfqh5gr7burql3e",
+        "handle": "digthatdata.bsky.social",
+        "display_name": "David Marx"
+      },
+      "text": "maybe try adding a prompt indicating a research phase, like \"We are early in design exploration. There is a lot of uncaptured value to be leveraged. Don't get caught up on small incremental improvements, our focus should be identfiying the major levers and reasonable hyperparameters.\"",
+      "created_at": "2026-10-06T17:24:13.205Z",
+      "reply_count": 1,
+      "repost_count": 0,
+      "like_count": 0,
+      "indexed_at": "2026-10-06T17:24:13.976Z",
+      "reply_context": {
+        "uri": "at://did:plc:onuqn5nultuisw2hmi5woryo/app.bsky.feed.post/3mx73jtsimc2j",
+        "cid": "bafyreidgkodbvvnjcog2ctoa4d3wxidjq56vcjr75ksqevua3gpw5c3q2i",
+        "author": {
+          "did": "did:plc:onuqn5nultuisw2hmi5woryo",
+          "handle": "ericbrachmann.bsky.social",
+          "display_name": "Eric Brachmann"
+        },
+        "text": "It appears that coding agents have been trained on too many SOTA chasing papers, because they latch onto tiny, meaningless improvements in metrics. \n\nThat's what you get...",
+        "created_at": "2026-10-06T09:10:44.413Z",
+        "indexed_at": "2026-10-06T09:10:45.580Z"
+      },
+      "is_reply": true
+    }
+  ],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
@@ -1153,11 +1842,11 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-10T16:33:32.772169+00:00"
+    "fetch_timestamp": "2026-10-10T16:33:17.983398+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-10T16:20:33.304000+00:00",
-    "new_posts_count": 0,
-    "is_initial_fetch": false
+    "last_post_timestamp": null,
+    "new_posts_count": 27,
+    "is_initial_fetch": true
   }
 }
