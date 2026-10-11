@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2026-10-10T20:51:23.556571+00:00",
+  "fetch_timestamp": "2026-10-11T02:47:36.755301+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -1075,19 +1075,6 @@
         "follow_date": null
       },
       {
-        "did": "did:plc:cfjwhomenjnl5izldkmeksqs",
-        "handle": "creatinganewworld.bsky.social",
-        "display_name": "thealternative.social",
-        "created_at": "2026-08-19T17:37:14.623Z",
-        "description": "I created a social network in which 50% of the profits will be given to homeless charities. The social network is www.thealternative.social Please join and invite people to it.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
         "did": "did:plc:japvxsia7c24aecqr745czsi",
         "handle": "avasaysso.bsky.social",
         "display_name": "Ava",
@@ -1153,10 +1140,10 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-10T20:51:24.477435+00:00"
+    "fetch_timestamp": "2026-10-11T02:47:37.665353+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-10T19:51:19.406000+00:00",
+    "last_post_timestamp": "2026-10-10T22:07:10.116000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
