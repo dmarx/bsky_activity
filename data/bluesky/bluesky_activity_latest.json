@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2026-10-12T03:10:42.699940+00:00",
+  "fetch_timestamp": "2026-10-12T13:50:11.648341+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -13,6 +13,19 @@
         "handle": "justmask.bsky.social",
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:qerxhk4ucymgsbd3wkoelk3a",
+        "handle": "mou3ad.bsky.social",
+        "display_name": "",
+        "created_at": "2026-10-08T14:35:13.575Z",
         "description": null,
         "followers_count": 0,
         "follows_count": 0,
@@ -144,19 +157,6 @@
         "display_name": "Evelyn",
         "created_at": "2025-11-22T23:56:03.090Z",
         "description": "The future you will thank the present you for being brave, persistent, and never giving up.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:vjuz6skey77bk4zo47anggoq",
-        "handle": "playlittlelodge.com",
-        "display_name": "Little Lodge Games",
-        "created_at": "2026-08-14T00:19:54.726Z",
-        "description": "🎮 Canadian Indie Game Studio & Publisher. \n🕹️ Small studio. Big ideas. Games made to be explored, understood, and played your way.\n🔗 Start your adventure at https://playlittlelodge.com 👈",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1127,10 +1127,10 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-12T03:10:43.715018+00:00"
+    "fetch_timestamp": "2026-10-12T13:50:12.889857+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-12T02:47:38.423000+00:00",
+    "last_post_timestamp": "2026-10-12T06:37:05.629000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
