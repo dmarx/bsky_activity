@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-13T04:32:12.536984+00:00",
+  "fetch_timestamp": "2026-10-13T13:08:06.270606+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2573,
+    "total_followers_count": 2574,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:dvqkbcv77xvwzyw5sb32eeu3",
+        "handle": "b-cavello.bsky.social",
+        "display_name": "B! 🐝 Cavello (they/them)",
+        "created_at": "2024-11-29T18:59:19.008Z",
+        "description": "activist, aspiring-polymath, problematic feminist working to better this world\n@b_cavello@mastodon.publicinterest.town\navatar: Portrait of B against colorful background\nbanner: Collage of creative commons illustrations",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1112,25 +1125,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:japvxsia7c24aecqr745czsi",
-        "handle": "avasaysso.bsky.social",
-        "display_name": "Ava",
-        "created_at": "2026-03-28T21:16:05.309Z",
-        "description": "left recruiting after 6 yrs. now I just want to help people not get screwed by the hiring system. denver. dog mom (beans runs this account). terrible cook, casual runner, reality tv enthusiast.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-13T04:32:13.766472+00:00"
+    "fetch_timestamp": "2026-10-13T13:08:07.547803+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-12T22:34:46.225000+00:00",
+    "last_post_timestamp": "2026-10-13T07:25:12.980000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
