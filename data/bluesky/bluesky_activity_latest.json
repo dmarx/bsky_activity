@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-12T23:55:54.768837+00:00",
+  "fetch_timestamp": "2026-10-13T04:32:12.536984+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2572,
+    "total_followers_count": 2573,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:zfrivwktionugkc7w4bs46ok",
+        "handle": "ricxk.bsky.social",
+        "display_name": "Ella",
+        "created_at": "2025-04-29T07:18:32.742Z",
+        "description": "Live like appreciating beautiful scenery, neither relying on applause nor fearing loneliness on the journey.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1112,22 +1125,9 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:qfcveel64wpn6shhk5frugrr",
-        "handle": "academicbullying.bsky.social",
-        "display_name": "Academic Bullying",
-        "created_at": "2026-09-11T14:06:36.576Z",
-        "description": "I'm Baha Abu-Shaqra, PhD (DTI uOttawa), a Canadian‑Egyptian. I blog about how I was mobbed by my PhD thesis committee, how uOttawa is trying to silence me & about academic woes. https://www.linkedin.com/in/dti-techs | https://academicbullying.wordpress.com",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-12T23:55:55.385258+00:00"
+    "fetch_timestamp": "2026-10-13T04:32:13.766472+00:00"
   },
   "incremental_fetch": {
     "last_post_timestamp": "2026-10-12T22:34:46.225000+00:00",
