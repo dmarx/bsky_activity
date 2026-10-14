@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-14T02:36:34.321007+00:00",
+  "fetch_timestamp": "2026-10-14T10:49:06.223999+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2575,
+    "total_followers_count": 2578,
     "total_following_count": 1991,
     "followers": [
       {
@@ -13,6 +13,45 @@
         "handle": "justmask.bsky.social",
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:tc34bvrweskmgi25npng7anc",
+        "handle": "re-shawn.bsky.social",
+        "display_name": "",
+        "created_at": "2026-10-14T05:34:16.577Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:zanngl4ufb34tifgk57de5g7",
+        "handle": "southgate776.bsky.social",
+        "display_name": "",
+        "created_at": "2026-10-14T05:23:00.678Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:uhod5x26nwhsja5k3d4kv43z",
+        "handle": "kitalderdice.bsky.social",
+        "display_name": "",
+        "created_at": "2023-11-29T04:12:02.788Z",
         "description": null,
         "followers_count": 0,
         "follows_count": 0,
@@ -1099,51 +1138,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:xpcof77hjfkkei5ui2e65hpy",
-        "handle": "60wattscott.bsky.social",
-        "display_name": "Boo Radley",
-        "created_at": "2023-12-20T02:16:16.678Z",
-        "description": "DC Native living in FL. There is a Swamp joke in there somewhere. Sports, Current Events, Running, Reading, Finance, Tech, Consulting.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:rangmritjzhls6luwf7oclcu",
-        "handle": "threadweaver.dev",
-        "display_name": "The Threadweaver",
-        "created_at": "2025-12-26T00:53:38.097Z",
-        "description": "it/its | Mid-30s | IT worker | Terminal DevOps Brain\n\nEnthusiastic about ergonomics, end user focus, and sustainable processes and communities.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:mfstzbpehyvjwdyeklsq3txz",
-        "handle": "ninjack.dev",
-        "display_name": "Ninjack",
-        "created_at": "2025-01-21T01:27:17.113Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-14T02:36:35.231806+00:00"
+    "fetch_timestamp": "2026-10-14T10:49:07.173989+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-14T00:46:18.596000+00:00",
+    "last_post_timestamp": "2026-10-14T06:10:25.829000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
