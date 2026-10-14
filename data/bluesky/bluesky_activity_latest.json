@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-14T10:49:06.223999+00:00",
+  "fetch_timestamp": "2026-10-14T16:08:11.107300+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2578,
+    "total_followers_count": 2579,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:jl5s7l7e4b4ycdkwig3cas75",
+        "handle": "tommis.fi",
+        "display_name": "Tommi Somersuo",
+        "created_at": "2023-08-31T14:03:39.977Z",
+        "description": "AI Tech Lead @ Solita.fi | Agentic engineering, architecture & governance.\n\nOffline: Runner, angler, RES/SRA, Tibetan Terrier owner.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -37,7 +50,7 @@
       {
         "did": "did:plc:zanngl4ufb34tifgk57de5g7",
         "handle": "southgate776.bsky.social",
-        "display_name": "",
+        "display_name": "Larry",
         "created_at": "2026-10-14T05:23:00.678Z",
         "description": null,
         "followers_count": 0,
@@ -988,7 +1001,7 @@
         "handle": "natemoo.re",
         "display_name": "natemoore on elm street 👻",
         "created_at": "2024-10-31T18:39:39.159Z",
-        "description": "💣 building @bomb.sh\n🚀 co-creator of @astro.build\n🔥 design engineer at @sentry.io\n✨ they/them",
+        "description": "building open source software for more inclusive, empowering future\n\n💣 modern TUI tooling @bomb.sh\n🎨 design systems at @sentry.io\n🧑‍🚀 co-created @astro.build\n🏳️‍⚧️ they/them",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1125,22 +1138,9 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:r5no27wzrezgg7gppc4mxb5j",
-        "handle": "lulstrup.bsky.social",
-        "display_name": "Leif Ulstrup",
-        "created_at": "2024-11-12T02:42:24.137Z",
-        "description": "Emerging information technology, management, innovation, analytics, and intrapreneurship. Gallup CliftonStrengths coach. “Luck Favors the Prepared Mind\"",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-14T10:49:07.173989+00:00"
+    "fetch_timestamp": "2026-10-14T16:08:12.035695+00:00"
   },
   "incremental_fetch": {
     "last_post_timestamp": "2026-10-14T06:10:25.829000+00:00",
