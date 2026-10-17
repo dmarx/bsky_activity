@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-16T20:13:11.877539+00:00",
+  "fetch_timestamp": "2026-10-17T02:01:40.805038+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2589,
+    "total_followers_count": 2590,
     "total_following_count": 1991,
     "followers": [
       {
@@ -22,11 +22,11 @@
         "follow_date": null
       },
       {
-        "did": "did:plc:ui4zcnuahcwqtkun2fhp7p3c",
-        "handle": "eusoucris2.bsky.social",
-        "display_name": "Julianaa 🌟",
-        "created_at": "2024-09-19T03:30:13.344Z",
-        "description": null,
+        "did": "did:plc:w7ne6ip26uyhajwh3tcbmy54",
+        "handle": "xanaxrx.bsky.social",
+        "display_name": "Mr. Continental",
+        "created_at": "2025-03-31T16:58:26.265Z",
+        "description": "Forged by a Veteran Ethos. Refined by Insight. Built for Innovation.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1099,25 +1099,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:i2r4fkz7ge35u5tbcj2ntasf",
-        "handle": "natemoo.re",
-        "display_name": "natemoore on elm street 👻",
-        "created_at": "2024-10-31T18:39:39.159Z",
-        "description": "building open source software for more inclusive, empowering future\n\n💣 modern TUI tooling @bomb.sh\n🎨 design systems at @sentry.io\n🧑‍🚀 co-created @astro.build\n🏳️‍⚧️ they/them",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-16T20:13:12.464011+00:00"
+    "fetch_timestamp": "2026-10-17T02:01:41.340799+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-16T19:40:09.030000+00:00",
+    "last_post_timestamp": "2026-10-17T00:58:40.361000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
