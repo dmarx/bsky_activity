@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-18T10:04:14.385939+00:00",
+  "fetch_timestamp": "2026-10-18T15:04:03.682423+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2590,
+    "total_followers_count": 2589,
     "total_following_count": 1991,
     "followers": [
       {
@@ -334,19 +334,6 @@
         "follow_date": null
       },
       {
-        "did": "did:plc:jysjm23nwtv5jefna3m632o3",
-        "handle": "janet453.bsky.social",
-        "display_name": "Janet",
-        "created_at": "2025-09-08T06:09:30.163Z",
-        "description": "I am 39 years old, of Singaporean and Italian descent, and currently reside in Seattle, USA. I am a partner in a plastic surgery clinic.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
         "did": "did:plc:apn3gnwn52da4k7oiifqg3yb",
         "handle": "flicstar.bsky.social",
         "display_name": "flicstar",
@@ -599,6 +586,19 @@
         "display_name": "Kyra",
         "created_at": "2026-09-26T08:47:44.576Z",
         "description": "Happily married 💍 Proud mom ❤️\nAffiliate creator • Investing • Lifestyle 📈✨\nSharing products I love, money lessons, and my journey toward a brighter financial future.\nFamily first, always. 🤍",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:fbrpboqe5jxnjiqb7af2c7vz",
+        "handle": "handgunyoga.bsky.social",
+        "display_name": "Handgun Yoga 🇺🇦🇬🇱🇩🇰🇺🇸",
+        "created_at": "2024-11-24T15:29:33.508Z",
+        "description": "Feminist, LGBTQ+ BLM Ally, someday Vegan. Father of 3 Amazing Daughters. Armed Pacifist, CCDW instructor for 17 years, meditator since age 17. Ex-NRA, ex-GOP, Adult Recovering Asshole™️",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1086,9 +1086,22 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
+      },
+      {
+        "did": "did:plc:i2r4fkz7ge35u5tbcj2ntasf",
+        "handle": "natemoo.re",
+        "display_name": "natemoore on elm street 👻",
+        "created_at": "2024-10-31T18:39:39.159Z",
+        "description": "building open source software for more inclusive, empowering future\n\n💣 modern TUI tooling @bomb.sh\n🎨 design systems at @sentry.io\n🧑‍🚀 co-created @astro.build\n🏳️‍⚧️ they/them",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-18T10:04:15.223179+00:00"
+    "fetch_timestamp": "2026-10-18T15:04:04.244437+00:00"
   },
   "incremental_fetch": {
     "last_post_timestamp": "2026-10-18T09:45:23.286000+00:00",
