@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2026-10-19T11:30:33.634122+00:00",
+  "fetch_timestamp": "2026-10-19T17:55:32.710781+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -482,19 +482,6 @@
         "display_name": "Brian Hendrickson",
         "created_at": "2023-08-20T18:09:22.878Z",
         "description": "proptech founder https://radious.pro - created the official pickleball ratings system, gold medalist 2025 World Championships + 2023 US Open / pickleball - sports photog/owner of Bullet Cat @bulletcatmeme.bsky.social",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:lzv475orcr6odrnsmfyrqaus",
-        "handle": "visualchordplanner.bsky.social",
-        "display_name": "Visual Chord Planner",
-        "created_at": "2026-03-14T03:40:11.689Z",
-        "description": "DTM/作曲向けコード進行デザインアプリ。色で比較→ループ試聴→MIDI書き出し。App Store: https://apps.apple.com/jp/app/visual-chord-planner/id6760151335\n\nサイト: https://visual-chord-planner.pages.dev",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1101,10 +1088,10 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-19T11:30:34.302611+00:00"
+    "fetch_timestamp": "2026-10-19T17:55:33.222589+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-19T04:43:14.158000+00:00",
+    "last_post_timestamp": "2026-10-19T16:39:13.163000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
