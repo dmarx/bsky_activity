@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-18T19:50:17.148164+00:00",
+  "fetch_timestamp": "2026-10-19T02:18:36.850174+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2589,
+    "total_followers_count": 2588,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:xuh6g7hnpeorsy5qqlrrwvj4",
+        "handle": "frengible.bsky.social",
+        "display_name": "Narich Violetfathom",
+        "created_at": "2025-09-06T04:46:42.164Z",
+        "description": "I contain multitudes, today I am a stoned yet odd bedeviled hero with a soothing disrespect for authority",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -243,19 +256,6 @@
         "follow_date": null
       },
       {
-        "did": "did:plc:zfrivwktionugkc7w4bs46ok",
-        "handle": "ricxk.bsky.social",
-        "display_name": "Ella",
-        "created_at": "2025-04-29T07:18:32.742Z",
-        "description": "Live like appreciating beautiful scenery, neither relying on applause nor fearing loneliness on the journey.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
         "did": "did:plc:b3bpvrk5op2tu7jfed5qy2w4",
         "handle": "yo-momma.bsky.social",
         "display_name": "We Are Stardust We Are Golden",
@@ -365,19 +365,6 @@
         "display_name": "Glencora",
         "created_at": "2023-10-01T06:54:18.739Z",
         "description": "Ognuno sta solo sul cuor della terra trafitto da un raggio di sole: ed e’ subito sera - S. Quasimodo",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:nabbifojjoiwitghalseshsl",
-        "handle": "evelyn27552.bsky.social",
-        "display_name": "Evelyn",
-        "created_at": "2025-11-22T23:56:03.090Z",
-        "description": "The future you will thank the present you for being brave, persistent, and never giving up.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1099,12 +1086,25 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
+      },
+      {
+        "did": "did:plc:kfb3sec3zjyjpphnhtcmjneg",
+        "handle": "allandeutsch.com",
+        "display_name": "Aaaaaallan Deutsch",
+        "created_at": "2024-10-26T01:05:24.239Z",
+        "description": "👨‍💻 Software craftsman\n\n🎟️ SeattleJS Organizer\n\nCurrently building:\n🐤 docduck.dev - inline feedback for developer docs\n🪟 paneform.com/wm - window manager for MacOS\n🦺 typesafe-ts to help you write safer code with confidence",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-18T19:50:17.765638+00:00"
+    "fetch_timestamp": "2026-10-19T02:18:37.664060+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-18T17:00:46.986000+00:00",
+    "last_post_timestamp": "2026-10-18T23:29:28.381000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
