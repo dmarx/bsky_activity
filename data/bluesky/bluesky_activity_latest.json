@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2026-10-21T10:47:54.790751+00:00",
+  "fetch_timestamp": "2026-10-21T16:16:30.777200+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -22,11 +22,11 @@
         "follow_date": null
       },
       {
-        "did": "did:plc:a5hygpychvncyb77gn4wrwul",
-        "handle": "mayemusk12-96.bsky.social",
-        "display_name": "maye",
-        "created_at": "2026-10-21T07:34:58.068Z",
-        "description": "International author/dietitian/speaker/model",
+        "did": "did:plc:7o5fvmrv5rgd55zmn7okvfoz",
+        "handle": "jie-immunology.bsky.social",
+        "display_name": "",
+        "created_at": "2024-12-11T02:55:21.314Z",
+        "description": "Harrison professor of medicine at UVA. We study respiratory immunity and immunopathology. Working on COVID, Influenza, Aging, T cells, macrophages, lung regeneration and tumorigenesis. https://www.immunology.virginia.edu/Sun/publications.php",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -456,19 +456,6 @@
         "display_name": "Country Over Party 🌵",
         "created_at": "2024-04-25T22:41:27.483Z",
         "description": "5th generation Arizonan. Politically homeless (former Republican). Member of The Church of Jesus Christ of Latter-day Saints\n@ComeUntoChrist ",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:vy65uw3krt2evuh76hc44p64",
-        "handle": "brooklynvance.bsky.social",
-        "display_name": "Brooklyn Vance",
-        "created_at": "2025-04-10T18:28:53.544Z",
-        "description": "Fueled by iced lattes and spontaneous adventures. Keeping",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1075,10 +1062,10 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-21T10:47:55.355958+00:00"
+    "fetch_timestamp": "2026-10-21T16:16:31.407872+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-21T07:17:07.632000+00:00",
+    "last_post_timestamp": "2026-10-21T16:14:52.449000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
