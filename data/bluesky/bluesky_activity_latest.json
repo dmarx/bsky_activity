@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-20T20:59:29.913510+00:00",
+  "fetch_timestamp": "2026-10-21T02:26:22.255782+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2591,
+    "total_followers_count": 2592,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:tza5bdlchqpmwyxqct6kygcx",
+        "handle": "thefinancenewsletter.com",
+        "display_name": "Andrew Lokenauth | TheFinanceNewsletter.com",
+        "created_at": "2023-11-12T03:51:44.465Z",
+        "description": "I write TheFinanceNewsletter.com, trusted by 100,000 to get smarter with the economy, geopolitics, personal finance and decision-making.\n\n20 years of finance experience — Follow for daily insights & turn on notifications!",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1060,25 +1073,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:ebu5purqqbehpiuxp7kgjkdm",
-        "handle": "pieterpeach.com",
-        "display_name": "Dr Pieter Peach",
-        "created_at": "2023-08-04T20:48:55.831Z",
-        "description": "Anaesthesiologist, paediatric and adult | MPH | Royal Children’s Hospital, Melbourne @rchanaesthesia.bsky.social\n\nAlso mastodon.social/@pieterpeach\n\n#AnSky #MedSky",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-20T20:59:30.476591+00:00"
+    "fetch_timestamp": "2026-10-21T02:26:22.731574+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-20T20:43:52.877000+00:00",
+    "last_post_timestamp": "2026-10-21T02:14:54.635000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
