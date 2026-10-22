@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-22T02:22:18.111294+00:00",
+  "fetch_timestamp": "2026-10-22T10:49:03.216852+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2596,
+    "total_followers_count": 2598,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:zp6fygwu62y6d5pakw6gz5az",
+        "handle": "creampie6974.bsky.social",
+        "display_name": "Juliii 🍬",
+        "created_at": "2025-11-12T11:25:49.816Z",
+        "description": "18 🍡 new & shy\nkinda clingy ngl\neverything else is here 🫣 👇🏻\nhttps://cutie.bio/h0neyjuliex",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:jm7elstegpl7d346nbeenjep",
+        "handle": "thehumanstop.bsky.social",
+        "display_name": "Humans top, ranked.",
+        "created_at": "2026-07-30T20:32:56.222Z",
+        "description": "https://humans.top",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1034,38 +1060,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:gq5kznnsbf7jcb3a7jb7cpgp",
-        "handle": "del.winters.rodeo",
-        "display_name": "Del Winters",
-        "created_at": "2024-10-22T20:19:59.742Z",
-        "description": "The aroma of Coca-Cola, melted M&M's, and stale popcorn marinating in a movie theater trash can.\n\nmid.winters.rodeo\n\nmoviejawn.com contributor, Philly resident",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:danquophndol7n2ho6g3rqns",
-        "handle": "frabarz.cl",
-        "display_name": "Francisco",
-        "created_at": "2023-08-31T06:05:48.503Z",
-        "description": "ChemE not doing ChemE.\n\n🇨🇱 Concepción",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-22T02:22:18.690846+00:00"
+    "fetch_timestamp": "2026-10-22T10:49:04.099727+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-21T21:41:32.120000+00:00",
+    "last_post_timestamp": "2026-10-22T09:55:03.801000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
