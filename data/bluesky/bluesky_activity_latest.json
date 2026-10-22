@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2026-10-22T10:49:03.216852+00:00",
+  "fetch_timestamp": "2026-10-22T16:15:18.723293+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -14,19 +14,6 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:zp6fygwu62y6d5pakw6gz5az",
-        "handle": "creampie6974.bsky.social",
-        "display_name": "Juliii 🍬",
-        "created_at": "2025-11-12T11:25:49.816Z",
-        "description": "18 🍡 new & shy\nkinda clingy ngl\neverything else is here 🫣 👇🏻\nhttps://cutie.bio/h0neyjuliex",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -131,6 +118,19 @@
         "display_name": "Karl Steel",
         "created_at": "2023-07-03T11:54:23.688Z",
         "description": "Brooklyn College / Grad Center Medievalist. Posthumanism. How to Make a Human (Ohio State UP 2011); How Not to Make a Human (Minnesota UP 2019). Currently working on The Irrational Animal.\n\nwebsite is medievalkarl.com",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:3ulqzt32rqa5jnqmq356kl44",
+        "handle": "vardon.world",
+        "display_name": "Vardon Hamdiu | Sparkable",
+        "created_at": "2023-07-04T13:25:38.166Z",
+        "description": "Executive Director, @sparkable.cc\n\nPeacebuilding | Healthier Social Media | Tech & Democracy | Prosocial Design | Human Rights\n\n🔗 vardon.world/links",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1062,10 +1062,10 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-22T10:49:04.099727+00:00"
+    "fetch_timestamp": "2026-10-22T16:15:19.388480+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-22T09:55:03.801000+00:00",
+    "last_post_timestamp": "2026-10-22T16:01:28.674000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
