@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-23T16:04:56.009358+00:00",
+  "fetch_timestamp": "2026-10-23T20:46:45.732450+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2599,
+    "total_followers_count": 2601,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:7g3ekclibiwpnh42c53vfm2x",
+        "handle": "prateek.fyi",
+        "display_name": "Satya Prateek",
+        "created_at": "2023-08-24T11:20:55.357Z",
+        "description": "I exist (he/him) ",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:jicxvqh63i7yut5ntewurarm",
+        "handle": "zacharykstine.bsky.social",
+        "display_name": "Zachary K Stine",
+        "created_at": "2023-10-07T20:25:19.539Z",
+        "description": "Asst prof of computer science interested in computational methods for the study of language and culture.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1034,38 +1060,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:3vtqptjegsxtmobqp6dcobcl",
-        "handle": "jonathan.boxcake.net",
-        "display_name": "Jonathan Baker",
-        "created_at": "2024-11-10T06:46:38.811Z",
-        "description": "Principal Engineer crafting better-as-a-service solutions\n| Physics | Philosophy | AI/ML | Podcast at https://thecloudpod.net |\n\nEx strepitu consensus, ex consensu veritas\n\n🌍 SF Bay Area",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:bcnwxolw3tffy55yan47b444",
-        "handle": "dagnis.bsky.social",
-        "display_name": "Dagnis Skurbe",
-        "created_at": "2024-11-16T21:17:01.383Z",
-        "description": "Horizonts sasniegts, sākam iet atpakaļgaitā. Daudzšūnu organisms 🐥🧬\ngetdagnis.vercel.app",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-23T16:04:56.544537+00:00"
+    "fetch_timestamp": "2026-10-23T20:46:46.346357+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-23T15:53:13.293000+00:00",
+    "last_post_timestamp": "2026-10-23T20:06:39.354000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
