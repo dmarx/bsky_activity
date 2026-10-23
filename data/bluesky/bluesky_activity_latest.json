@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-23T10:41:04.455710+00:00",
+  "fetch_timestamp": "2026-10-23T16:04:56.009358+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2598,
+    "total_followers_count": 2599,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:xf2ghp3xb4prggutkwhd3dng",
+        "handle": "filmfreewaycodes.bsky.social",
+        "display_name": "Daily FilmFreeway Festival Discount Codes",
+        "created_at": "2025-08-16T21:29:08.263Z",
+        "description": "Daily discount codes for various festivals to submit to on FilmFreeway\n\nhttps://filmfreeway.com/festivals/discounts",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1047,25 +1060,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:kef63ihhci7f5xhriu4asjhb",
-        "handle": "tautologer.com",
-        "display_name": "tautologer",
-        "created_at": "2023-04-09T17:42:16.739Z",
-        "description": "It's been like this since man first came and chased a wild bear and gave a part of himself to please the gods.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-23T10:41:05.189118+00:00"
+    "fetch_timestamp": "2026-10-23T16:04:56.544537+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-23T05:14:30.584000+00:00",
+    "last_post_timestamp": "2026-10-23T15:53:13.293000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
