@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-23T20:46:45.732450+00:00",
+  "fetch_timestamp": "2026-10-24T02:25:32.690245+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2601,
+    "total_followers_count": 2603,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:jtigxpdutncmqd7zf3u4z5av",
+        "handle": "romancefestival.bsky.social",
+        "display_name": "Romance & Relationships Film Festival",
+        "created_at": "2024-12-06T22:43:34.009Z",
+        "description": "Submit your ROMANCE or RELATIONSHIP Film or Screenplay.\n\nGet your short or feature film showcased and receive an audience feedback promotional video.\n\n-Submit for a guaranteed acceptance.\n\nhttps://filmfreeway.com/RomanceFestival\n\nwww.festivalforromance.com",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:ra5vm6fpv2vuoe6ybibtenjb",
+        "handle": "environmentalfest.bsky.social",
+        "display_name": "Environmental Film & Screenplay Festival",
+        "created_at": "2024-11-20T23:00:45.139Z",
+        "description": "A festival designed to showcase the best of new environmentally themed films (shorts, features) and screenplays (shorts, features, TV pilots) from around the world. We accept any genre.\n\nhttps://filmfreeway.com/EnvironmentalFestival",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -858,7 +884,7 @@
         "handle": "paulswartz.net",
         "display_name": "Paul Swartz",
         "created_at": "2023-08-18T19:19:02.579Z",
-        "description": "computer-er, cyclist, chessplayer, real-estate novelist.\n\nsignal: paulswartz.01",
+        "description": "computer-er, cyclist, chessplayer, real-estate novelist.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1034,35 +1060,9 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:jejor35p5t6dktfxptr7473d",
-        "handle": "mikevc.bsky.social",
-        "display_name": "",
-        "created_at": "2024-09-02T21:31:07.340Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:2bovv3ujttnwkceufjnfdjtd",
-        "handle": "rhyscazenove.bsky.social",
-        "display_name": "Rhys C",
-        "created_at": "2023-11-20T09:17:17.577Z",
-        "description": "Senior Lead Engineer @ loveholidays.  Previously Natural History Museum London",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-23T20:46:46.346357+00:00"
+    "fetch_timestamp": "2026-10-24T02:25:33.175182+00:00"
   },
   "incremental_fetch": {
     "last_post_timestamp": "2026-10-23T20:06:39.354000+00:00",
