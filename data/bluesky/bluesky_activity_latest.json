@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-24T02:25:32.690245+00:00",
+  "fetch_timestamp": "2026-10-24T09:58:18.980173+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2603,
+    "total_followers_count": 2604,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:rqsifrr4xwgeyrvohx3tdw2d",
+        "handle": "troisvallees.bsky.social",
+        "display_name": "Philippe, 72 . Belgium",
+        "created_at": "2024-11-19T08:12:45.337Z",
+        "description": "https://www.facebook.com/slava.ukraini.805539/FROM BELGIUM, 73 now, HELP SAVE OUR DEMOCRATIES, DEFEAT FASCIST RUZZIA.SIC SEMPER TYRANNIS  Slava Ukraini",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1047,25 +1060,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:ao4r3ead2dj3bub6ihj5qrzf",
-        "handle": "cullenmiller.bsky.social",
-        "display_name": "Cullen Miller",
-        "created_at": "2023-06-13T08:28:12.357Z",
-        "description": "noise && nature && networks \n\nhttps://pointlinesurface.com",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-24T02:25:33.175182+00:00"
+    "fetch_timestamp": "2026-10-24T09:58:19.598079+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-23T20:06:39.354000+00:00",
+    "last_post_timestamp": "2026-10-24T07:23:52.195000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
