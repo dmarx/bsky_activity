@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-24T19:57:47.326608+00:00",
+  "fetch_timestamp": "2026-10-25T02:12:59.627678+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2604,
+    "total_followers_count": 2606,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:ip6xjiuo67jtezznbxf7cdfd",
+        "handle": "thrillersuspense.bsky.social",
+        "display_name": "Thriller/Suspense Film Festival",
+        "created_at": "2024-12-07T21:08:14.408Z",
+        "description": "Entering its 10th year, this festival is a showcase of Thriller/Suspense Films & Screenplays from around the world, using the popular audience feedback video.\n\nhttps://filmfreeway.com/ThrillerSuspenseFestival\n\nhttps://thrillersuspensefestival.com",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:xuh6g7hnpeorsy5qqlrrwvj4",
+        "handle": "frengible.bsky.social",
+        "display_name": "Narich Violetfathom",
+        "created_at": "2025-09-06T04:46:42.164Z",
+        "description": "I contain multitudes, today I am a stoned yet odd bedeviled hero with a soothing disrespect for authority",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1034,38 +1060,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:c5uhfkkgzv5idsynjevsgxv7",
-        "handle": "obinnaokpolu.bsky.social",
-        "display_name": "Obinna Okpolu ",
-        "created_at": "2024-11-19T08:27:53.738Z",
-        "description": "Computer Science student at University of Nigeria.\nData Seance & Deep Yearning.\nPretentious writer",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:ggudiwnsnihgu2f7vbpxrwmz",
-        "handle": "lawrencejones.dev",
-        "display_name": "Lawrence Jones",
-        "created_at": "2023-04-25T11:43:47.140Z",
-        "description": "Engineer at https://incident.io/. Previously @GoCardless | Writes at http://blog.lawrencejones.dev | @lawrjones on Twitter",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-24T19:57:48.126472+00:00"
+    "fetch_timestamp": "2026-10-25T02:13:00.285416+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-24T17:01:20.473000+00:00",
+    "last_post_timestamp": "2026-10-25T01:36:09.776000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
