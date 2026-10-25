@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-25T10:21:31.347419+00:00",
+  "fetch_timestamp": "2026-10-25T15:13:55.001771+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2606,
+    "total_followers_count": 2607,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:fivzmqexdjbbyarod4n6wzgs",
+        "handle": "skaven.cz",
+        "display_name": "Jiří Reiter",
+        "created_at": "2025-03-02T09:36:31.913Z",
+        "description": "imago.cz 📚 Mytago.cz 🐀 skaven.cz → fantasy světy • fantasy • punk",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -156,7 +169,7 @@
         "handle": "git-fed.bsky.social",
         "display_name": "www.fedpromptly.com",
         "created_at": "2025-08-03T13:38:02.963Z",
-        "description": "ONE EMAIL FOR EVERYTHING:\nmuseai@fedpromptly.com\n\nCode: 5F2V31\nJoin: https://muse.ai/join\nWeb: www.fedpromptly.com/tokens\nGitHub: github.com/Git-FED\n\nWelcome to FED-OS. 🧱",
+        "description": "ONE EMAIL FOR EVERYTHING:\nmuseai@fedpromptly.com\n\nCode: 5F2V31\nJoin: https://muse.ai/join\nWeb: www.fedpromptly.com/tokens\n\nWelcome to FED-OS. 🧱",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1047,25 +1060,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:z3jvhwyzcsuyk4mwtldgaqnu",
-        "handle": "mhalle.bsky.social",
-        "display_name": "",
-        "created_at": "2024-11-07T21:16:54.211Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-25T10:21:32.000946+00:00"
+    "fetch_timestamp": "2026-10-25T15:13:55.854259+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-25T07:15:08.719000+00:00",
+    "last_post_timestamp": "2026-10-25T13:41:38.149000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
