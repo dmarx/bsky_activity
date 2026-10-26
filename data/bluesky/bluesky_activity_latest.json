@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-26T17:51:36.324185+00:00",
+  "fetch_timestamp": "2026-10-26T22:03:31.970011+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2608,
+    "total_followers_count": 2607,
     "total_following_count": 1991,
     "followers": [
       {
@@ -27,6 +27,19 @@
         "display_name": "Quantum Zeitgeist Superposition",
         "created_at": "2023-12-30T18:22:50.668Z",
         "description": "Quantum Computing and Quantum Technology.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:zv5ssuzgqryqaxcbq2v6jasx",
+        "handle": "theskyisnotblue.bsky.social",
+        "display_name": "⚫️🐦‍⬛ 🇬🇪🇺🇦🇪🇺",
+        "created_at": "2024-11-13T21:00:36.914Z",
+        "description": "🇬🇪🇪🇺 #GeorgiaProtests   #TerrorinGeorgia",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -66,19 +79,6 @@
         "display_name": "Thriller/Suspense Film Festival",
         "created_at": "2024-12-07T21:08:14.408Z",
         "description": "Entering its 10th year, this festival is a showcase of Thriller/Suspense Films & Screenplays from around the world, using the popular audience feedback video.\n\nhttps://filmfreeway.com/ThrillerSuspenseFestival\n\nhttps://thrillersuspensefestival.com",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:5uexuke6dhio5356chr4h7s4",
-        "handle": "johnhtran.bsky.social",
-        "display_name": "H. John Tran",
-        "created_at": "2024-11-23T04:23:56.609Z",
-        "description": "The story behind the story.\n\nSignals on money, power, people & consequences.\n🔴 Harm · 🟠 Pressure · 🟡 Emerging\n🟢 Positive · 🔵 Structural",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -416,7 +416,7 @@
         "handle": "tommis.fi",
         "display_name": "Tommi Somersuo",
         "created_at": "2023-08-31T14:03:39.977Z",
-        "description": "AI Tech Lead @ Solita.fi | Agentic engineering, architecture & governance.\n\nOffline: Runner, angler, RES/SRA, Tibetan Terrier owner.",
+        "description": "CTO at ALM Partners | Technology, ICT and AI\n\nOffline: Runner, angler, RES/SRA, Tibetan Terrier owner.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1047,12 +1047,25 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
+      },
+      {
+        "did": "did:plc:vapvsoeujj4ylqkvsna7mz34",
+        "handle": "skottkle.be",
+        "display_name": "With a K",
+        "created_at": "2023-08-03T16:53:37.860Z",
+        "description": "He/him. Trans women are women.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-26T17:51:37.224329+00:00"
+    "fetch_timestamp": "2026-10-26T22:03:32.623581+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-26T03:14:32.449000+00:00",
+    "last_post_timestamp": "2026-10-26T19:52:06.949000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
