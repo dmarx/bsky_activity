@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2026-10-25T20:07:53.182787+00:00",
+  "fetch_timestamp": "2026-10-26T02:13:12.439318+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -13,6 +13,19 @@
         "handle": "justmask.bsky.social",
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:mlzy3puquwytqdfoihrfoagz",
+        "handle": "vcustomer0722.bsky.social",
+        "display_name": "",
+        "created_at": "2026-08-04T23:13:42.424Z",
         "description": null,
         "followers_count": 0,
         "follows_count": 0,
@@ -40,19 +53,6 @@
         "display_name": "Thriller/Suspense Film Festival",
         "created_at": "2024-12-07T21:08:14.408Z",
         "description": "Entering its 10th year, this festival is a showcase of Thriller/Suspense Films & Screenplays from around the world, using the popular audience feedback video.\n\nhttps://filmfreeway.com/ThrillerSuspenseFestival\n\nhttps://thrillersuspensefestival.com",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:xuh6g7hnpeorsy5qqlrrwvj4",
-        "handle": "frengible.bsky.social",
-        "display_name": "Narich Violetfathom",
-        "created_at": "2025-09-06T04:46:42.164Z",
-        "description": "I contain multitudes, today I am a stoned yet odd bedeviled hero with a soothing disrespect for authority",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1062,10 +1062,10 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-25T20:07:54.178875+00:00"
+    "fetch_timestamp": "2026-10-26T02:13:13.098649+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-25T13:41:38.149000+00:00",
+    "last_post_timestamp": "2026-10-25T23:57:03.240000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
