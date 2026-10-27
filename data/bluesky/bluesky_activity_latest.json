@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-27T02:49:33.993763+00:00",
+  "fetch_timestamp": "2026-10-27T11:14:15.298564+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2607,
+    "total_followers_count": 2606,
     "total_following_count": 1991,
     "followers": [
       {
@@ -53,19 +53,6 @@
         "display_name": "",
         "created_at": "2026-08-04T23:13:42.424Z",
         "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:fivzmqexdjbbyarod4n6wzgs",
-        "handle": "skaven.cz",
-        "display_name": "Jiří Reiter",
-        "created_at": "2025-03-02T09:36:31.913Z",
-        "description": "imago.cz 📚 Mytago.cz 🐀 skaven.cz → fantasy světy • fantasy • punk",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1060,12 +1047,25 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
+      },
+      {
+        "did": "did:plc:z3jvhwyzcsuyk4mwtldgaqnu",
+        "handle": "mhalle.bsky.social",
+        "display_name": "",
+        "created_at": "2024-11-07T21:16:54.211Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-27T02:49:34.797957+00:00"
+    "fetch_timestamp": "2026-10-27T11:14:15.955247+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-26T19:52:06.949000+00:00",
+    "last_post_timestamp": "2026-10-27T08:55:20.944000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
