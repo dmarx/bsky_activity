@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2026-10-28T02:57:48.481877+00:00",
+  "fetch_timestamp": "2026-10-28T11:48:07.968503+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -13,19 +13,6 @@
         "handle": "justmask.bsky.social",
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:oz7os4iavzdw4m2zcdlnz5ke",
-        "handle": "maryskiller.bsky.social",
-        "display_name": "I’M BEGGING YOU — MY CHILD CAN’T WAIT... 💔🙏",
-        "created_at": "2024-10-17T05:06:42.643Z",
         "description": null,
         "followers_count": 0,
         "follows_count": 0,
@@ -1062,10 +1049,10 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-28T02:57:49.086473+00:00"
+    "fetch_timestamp": "2026-10-28T11:48:08.619913+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-28T02:22:59.956000+00:00",
+    "last_post_timestamp": "2026-10-28T06:42:04.464000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
