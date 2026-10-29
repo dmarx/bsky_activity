@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-29T03:23:58.749125+00:00",
+  "fetch_timestamp": "2026-10-29T11:56:47.460137+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2610,
+    "total_followers_count": 2612,
     "total_following_count": 1991,
     "followers": [
       {
@@ -14,6 +14,45 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:3s7lryyc7ti33bkxwbmp3gbz",
+        "handle": "bonniegray372.bsky.social",
+        "display_name": "Bonnie",
+        "created_at": "2026-10-28T20:07:48.868Z",
+        "description": "❤️💋",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:yvnpvysjkaow3xun6227c67r",
+        "handle": "puffandretti.bsky.social",
+        "display_name": "Mark 🌊🌊🌊",
+        "created_at": "2024-11-06T13:37:21.211Z",
+        "description": "No Kings, No Oligarchs, Tax the rich at Eisenhower rates | 🇺🇦 | Previously in legal & scientific professions | 💙 in the formerly great state of Texas | No DMs",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:3gxlxk3amjly6j2jraww3prf",
+        "handle": "bmasters.bsky.social",
+        "display_name": "Brandon M",
+        "created_at": "2024-10-25T05:47:41.047Z",
+        "description": "Tech. Facts > Narrative, Discussion > Echoes, Kindness > Legalists, Persistence > Dopamine. Equality for All obviously",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -209,19 +248,6 @@
         "display_name": "Daily FilmFreeway Festival Discount Codes",
         "created_at": "2025-08-16T21:29:08.263Z",
         "description": "Daily discount codes for various festivals to submit to on FilmFreeway\n\nhttps://filmfreeway.com/festivals/discounts",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:jm7elstegpl7d346nbeenjep",
-        "handle": "thehumanstop.bsky.social",
-        "display_name": "Humans top, ranked.",
-        "created_at": "2026-07-30T20:32:56.222Z",
-        "description": "https://humans.top",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1034,38 +1060,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:tmubaxfav54gtzaw2mv7ztwn",
-        "handle": "drkickface.bsky.social",
-        "display_name": "",
-        "created_at": "2024-12-01T01:49:39.108Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:jbx6r7lxwbkktfokwex7im7n",
-        "handle": "littlefierymario.bsky.social",
-        "display_name": "Little Fiery Mario",
-        "created_at": "2025-07-25T02:08:28.397Z",
-        "description": "Social democrat. Abortion is good and we should say so. He/him.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-29T03:23:59.751960+00:00"
+    "fetch_timestamp": "2026-10-29T11:56:48.415851+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-29T00:55:10.059000+00:00",
+    "last_post_timestamp": "2026-10-29T11:24:58.847000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
