@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-28T21:59:31.394064+00:00",
+  "fetch_timestamp": "2026-10-29T03:23:58.749125+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2609,
+    "total_followers_count": 2610,
     "total_following_count": 1991,
     "followers": [
       {
@@ -13,6 +13,19 @@
         "handle": "justmask.bsky.social",
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:u3xfjqlim3fro3tq2huhqa2h",
+        "handle": "blockrecursiveqm.bsky.social",
+        "display_name": "",
+        "created_at": "2025-12-08T19:23:07.090Z",
         "description": null,
         "followers_count": 0,
         "follows_count": 0,
@@ -750,6 +763,19 @@
         "follow_date": null
       },
       {
+        "did": "did:plc:lzv475orcr6odrnsmfyrqaus",
+        "handle": "visualchordplanner.bsky.social",
+        "display_name": "Visual Chord Planner",
+        "created_at": "2026-03-14T03:40:11.689Z",
+        "description": "DTM/作曲向けコード進行デザインアプリ。色で比較→ループ試聴→MIDI書き出し。App Store: https://apps.apple.com/jp/app/visual-chord-planner/id6760151335\n\nサイト: https://visual-chord-planner.pages.dev",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
         "did": "did:plc:b5xwyy5xuocvgqxqhzulj5o7",
         "handle": "indoorhill.bsky.social",
         "display_name": "# Ethan Hill",
@@ -1034,25 +1060,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:fwks525g7gw5wc7ul2wg4wj5",
-        "handle": "mims.bsky.social",
-        "display_name": "Christopher Mims",
-        "created_at": "2023-04-26T13:43:19.190Z",
-        "description": "Reply guy who writes about tech for WSJ. Author of two books, both of which people seem to like and are worth looking up.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-28T21:59:32.353898+00:00"
+    "fetch_timestamp": "2026-10-29T03:23:59.751960+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-28T20:19:30.913000+00:00",
+    "last_post_timestamp": "2026-10-29T00:55:10.059000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
