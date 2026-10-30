@@ -1,12 +1,12 @@
 {
-  "fetch_timestamp": "2026-10-30T17:25:33.700652+00:00",
+  "fetch_timestamp": "2026-10-30T21:46:44.896062+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2613,
-    "total_following_count": 1991,
+    "total_followers_count": 2615,
+    "total_following_count": 1992,
     "followers": [
       {
         "did": "did:plc:mz4m6yo275wmhyjucq5n4cgu",
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:yxnv3xkrumyvxrtsjuyrak2a",
+        "handle": "festivalreviews.bsky.social",
+        "display_name": "Festival Reviews .org",
+        "created_at": "2024-12-02T22:49:41.108Z",
+        "description": "Daily posts about film & film festivals. From mainstream to Indy movies.\n\nhttps://festivalreviews.org",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:vbf6qz77aaqvhqqomjruuiqn",
+        "handle": "hannah6367.bsky.social",
+        "display_name": "Hannah Brooks",
+        "created_at": "2026-10-30T19:02:20.972Z",
+        "description": "This is my only account",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1034,38 +1060,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:q5ygrbdhqxe5gzpmump2jn3i",
-        "handle": "daddyshark.bsky.social",
-        "display_name": "Daddy Shark",
-        "created_at": "2023-07-04T01:30:20.518Z",
-        "description": "Formerly @dotahype on Twitter. Love my 2 girls! Enjoyer of urbanism, welfare liberalism🧦, econ, generative AI, nature and shitposts.\n\nBA for life insurance living in Brooklyn 🇺🇸",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:in4hnqdqurt3hjnr2v6sd3mg",
-        "handle": "admiralkit.bsky.social",
-        "display_name": "An Utter Kitastrophe",
-        "created_at": "2023-08-24T03:41:10.602Z",
-        "description": "Tech nerd and dad living near the Rocky Mountains",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-30T17:25:34.253833+00:00"
+    "fetch_timestamp": "2026-10-30T21:46:45.475297+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-30T17:24:00.152000+00:00",
+    "last_post_timestamp": "2026-10-30T21:45:30.968000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
