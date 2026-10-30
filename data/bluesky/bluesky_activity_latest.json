@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-30T11:50:24.517725+00:00",
+  "fetch_timestamp": "2026-10-30T17:25:33.700652+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2614,
+    "total_followers_count": 2613,
     "total_following_count": 1991,
     "followers": [
       {
@@ -815,19 +815,6 @@
         "follow_date": null
       },
       {
-        "did": "did:plc:lzv475orcr6odrnsmfyrqaus",
-        "handle": "visualchordplanner.bsky.social",
-        "display_name": "Visual Chord Planner",
-        "created_at": "2026-03-14T03:40:11.689Z",
-        "description": "DTM/作曲向けコード進行デザインアプリ。色で比較→ループ試聴→MIDI書き出し。App Store: https://apps.apple.com/jp/app/visual-chord-planner/id6760151335\n\nサイト: https://visual-chord-planner.pages.dev",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
         "did": "did:plc:b5xwyy5xuocvgqxqhzulj5o7",
         "handle": "indoorhill.bsky.social",
         "display_name": "# Ethan Hill",
@@ -1060,12 +1047,25 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
+      },
+      {
+        "did": "did:plc:in4hnqdqurt3hjnr2v6sd3mg",
+        "handle": "admiralkit.bsky.social",
+        "display_name": "An Utter Kitastrophe",
+        "created_at": "2023-08-24T03:41:10.602Z",
+        "description": "Tech nerd and dad living near the Rocky Mountains",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-30T11:50:25.387514+00:00"
+    "fetch_timestamp": "2026-10-30T17:25:34.253833+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-30T07:36:05.749000+00:00",
+    "last_post_timestamp": "2026-10-30T17:24:00.152000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
