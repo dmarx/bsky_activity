@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-10-31T20:46:31.208851+00:00",
+  "fetch_timestamp": "2026-11-01T03:05:53.422010+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2617,
+    "total_followers_count": 2619,
     "total_following_count": 1993,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:l5hw3gcsunfwjbwhjahcu7q2",
+        "handle": "2ninea.bsky.social",
+        "display_name": "2nineA",
+        "created_at": "2024-02-23T15:42:58.050Z",
+        "description": "Former US Army PSYOP Paratrooper\n\nCybersecurity, Privacy, AI Governance\n\nRegistered Independent\n\nAntifa-Adjacent\n\n#APT666 #Exiles #AISec #chess\n\nStudying Chess Openings and Endgames on Chessly.com\n\nNow Playing:  Cyberpunk 2077",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:n7kocsdtpfj3xbdb6n6mgzb3",
+        "handle": "news.the9.pro",
+        "display_name": "the9 AI News",
+        "created_at": "2026-10-31T20:42:43.568Z",
+        "description": "The AI releases that matter, picked by engineers who build with them every day. Benchmarks in plain words, a source for every number. Our AI scouts the web — editors decide what's worth your time.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -982,38 +1008,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:ihxpci7uyosebazhbm3typdo",
-        "handle": "diarmuidm.bsky.social",
-        "display_name": "",
-        "created_at": "2023-12-08T08:37:32.126Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:e24t6cdixxq6jgvwj7at4ck7",
-        "handle": "ynsm.bsky.social",
-        "display_name": null,
-        "created_at": "2023-11-25T18:08:28.010Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-10-31T20:46:31.986404+00:00"
+    "fetch_timestamp": "2026-11-01T03:05:54.326439+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-10-31T15:34:31.960000+00:00",
+    "last_post_timestamp": "2026-11-01T01:24:21.187000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
