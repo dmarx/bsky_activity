@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-02T03:16:29.335499+00:00",
+  "fetch_timestamp": "2026-11-02T14:07:16.386508+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2623,
+    "total_followers_count": 2624,
     "total_following_count": 1993,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:452oy63teuuti55dalvobgla",
+        "handle": "neonexe.digital",
+        "display_name": "NEON.EXE - Music",
+        "created_at": "2026-04-21T15:37:03.954Z",
+        "description": "SIGNAL STATUS: ACTIVE\n\nDigital-to-analog bridge. Machine logic meeting organic sentiment. Neural dialogues & synth soundscapes. Protocol initialized.\n\nhttps://www.youtube.com/playlist?list=PLbwFbItt0v81Pnu1LSKrPvWgo-rZ0TR1r\n\n#MusicSky #NEON_EXE #Synthwave",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -982,25 +995,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:ua7z5gecvobqyvl5qw7dhoev",
-        "handle": "nspants.bsky.social",
-        "display_name": "Tanner B 🆓🇵🇸",
-        "created_at": "2024-11-07T05:05:13.416Z",
-        "description": "VS Code enthusiast 👨🏻‍💻 \niOS @ DataTheorem, previously Tinder\nJailbreak tweak dev\nAnti-Zionist · Anti-capitalist\nGames · Anime · Movies · Gym\n\nViews are my own, not my employer's",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-02T03:16:30.259872+00:00"
+    "fetch_timestamp": "2026-11-02T14:07:16.976217+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-02T02:58:48.642000+00:00",
+    "last_post_timestamp": "2026-11-02T07:38:41.439000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
