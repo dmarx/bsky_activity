@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2026-11-02T14:07:16.386508+00:00",
+  "fetch_timestamp": "2026-11-03T00:09:48.334127+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -13,6 +13,19 @@
         "handle": "justmask.bsky.social",
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:lv6sho2ft4lnultdfltqz657",
+        "handle": "ayanetworks.bsky.social",
+        "display_name": "",
+        "created_at": "2026-09-29T20:24:38.774Z",
         "description": null,
         "followers_count": 0,
         "follows_count": 0,
@@ -982,25 +995,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:d3njtwx6nqajowbhcb6f2lyb",
-        "handle": "heatherrasley.bsky.social",
-        "display_name": "Heather Rasley",
-        "created_at": "2023-09-27T21:08:40.841Z",
-        "description": "80% shitposting, 20% actually smart things. | Content moderation at glif.app | Taller than she seems on the internet. | https://www.heatherrasley.com/",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-02T14:07:16.976217+00:00"
+    "fetch_timestamp": "2026-11-03T00:09:49.033695+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-02T07:38:41.439000+00:00",
+    "last_post_timestamp": "2026-11-02T14:55:34.841000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
