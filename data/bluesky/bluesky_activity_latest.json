@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-05T13:41:01.612708+00:00",
+  "fetch_timestamp": "2026-11-05T23:00:20.358250+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2635,
+    "total_followers_count": 2637,
     "total_following_count": 1994,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:6wrn7zf476yxuw7v7bvfquvh",
+        "handle": "democracyhere.bsky.social",
+        "display_name": "@DemocracyHere",
+        "created_at": "2023-10-03T14:25:07.126Z",
+        "description": "💙Democrat on a mission to fight the right!💙Stand with Ukraine🇺🇦💙Animal Rescuer🐕‍🦺🐈‍⬛. 💙LBGTQIA Ally🌈\n💙No bio-No posts=No follow💙\n🚫Crypto🚫DM🚫Smut-🚫Go Fund Yourself💙       💙VOTE💙\n💙Inflation is temporary-Fascism is permanent!💙impeachtherapist💙\n#Blues",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:vzagaqx6vie7vql6l4x5o3kc",
+        "handle": "research-quotes.bsky.social",
+        "display_name": null,
+        "created_at": "2026-10-29T14:50:51.169Z",
+        "description": "Probably approximately correct",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -219,9 +245,9 @@
       {
         "did": "did:plc:l5hw3gcsunfwjbwhjahcu7q2",
         "handle": "2ninea.bsky.social",
-        "display_name": "2nineA",
+        "display_name": "2nineA - 2026 Retaliation Tour",
         "created_at": "2024-02-23T15:42:58.050Z",
-        "description": "Former US Army PSYOP Paratrooper\n\nCybersecurity, Privacy, AI Governance\n\nRegistered Independent\n\nAntifa-Adjacent\n\nRetribution 2026\n\n#APT666 #Exiles #AISec #chess\n\nStudying Chess Openings and Endgames on Chessly.com\n\nNow Playing:  Cyberpunk 2077",
+        "description": "Former US Army PSYOP Paratrooper\n\nCybersecurity, Privacy, AI Governance\n\nRegistered Independent\n\nAntifa-Adjacent\n\nSocialist-Curious\n\n#APT666 #Exiles #AISec #chess\n\nStudying Chess Openings and Endgames on Chessly.com\n\nNow Playing:  Cyberpunk 2077",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -546,7 +572,7 @@
         "handle": "quigleyproject.bsky.social",
         "display_name": "Quigley Accountability Project",
         "created_at": "2024-11-12T21:33:40.349Z",
-        "description": "We hold our representatives responsible for any perfunctory governing that allows MAGA to thrive. \n\nResident: Illinois’ 5th district. \n\nCall Congress. Demand a detailed MAGA Accountability plan for the midterms + 2028: \n(202) 224-3121",
+        "description": "We hold our representatives responsible for any perfunctory governing that allows MAGA to thrive. \n\nResident of Illinois’ 5th district. \n\nCall Congress. Demand a detailed MAGA Accountability plan: \n\n(202) 224-3121",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -817,7 +843,7 @@
       {
         "did": "did:plc:dvqkbcv77xvwzyw5sb32eeu3",
         "handle": "b-cavello.bsky.social",
-        "display_name": "B! 🐝 Cavello (they/them)",
+        "display_name": "B! 🐝 Cavello",
         "created_at": "2024-11-29T18:59:19.008Z",
         "description": "activist, aspiring-polymath, problematic feminist working to better this world\n@b_cavello@mastodon.publicinterest.town\navatar: Portrait of B against colorful background\nbanner: Collage of creative commons illustrations",
         "followers_count": 0,
@@ -1034,25 +1060,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:l4hl2ujfixsaoknbjv3dlj5p",
-        "handle": "hoverkitty.bsky.social",
-        "display_name": "Brian Hendrickson",
-        "created_at": "2023-08-20T18:09:22.878Z",
-        "description": "proptech founder https://radious.pro - created the official pickleball ratings system, gold medalist 2025 World Championships + 2023 US Open / pickleball - sports photog/owner of Bullet Cat @bulletcatmeme.bsky.social",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-05T13:41:02.028152+00:00"
+    "fetch_timestamp": "2026-11-05T23:00:20.951123+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-05T08:03:21.816000+00:00",
+    "last_post_timestamp": "2026-11-05T21:17:57.073000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
