@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-06T13:25:15.266060+00:00",
+  "fetch_timestamp": "2026-11-06T22:30:36.598684+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2641,
+    "total_followers_count": 2642,
     "total_following_count": 1994,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:6siswjc5x6ncx4t6nd6cjah5",
+        "handle": "swiag.bsky.social",
+        "display_name": "Just Another News Junkie",
+        "created_at": "2024-11-04T19:10:33.713Z",
+        "description": "Moved to BlueSky after 10 years of using the other platform. I don't expect to post much. Just looking for a way to be a part of the world, stay informed and learn a thing or two. Thank you to all the wonderful people posting here!",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1060,25 +1073,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:vf7dqlzfukksgsrdirneqihm",
-        "handle": "albertoforesti.bsky.social",
-        "display_name": "Alberto Foresti",
-        "created_at": "2026-10-04T01:27:51.673Z",
-        "description": "ML PhD student @ EURECOM. Interested in diffusion models, Schrödinger bridges, optimal transport & information theory.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-06T13:25:15.659437+00:00"
+    "fetch_timestamp": "2026-11-06T22:30:37.458205+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-06T08:26:01.302000+00:00",
+    "last_post_timestamp": "2026-11-06T19:22:04.187000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
