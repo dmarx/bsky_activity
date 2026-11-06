@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-06T04:05:00.170057+00:00",
+  "fetch_timestamp": "2026-11-06T13:25:15.266060+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2637,
+    "total_followers_count": 2641,
     "total_following_count": 1994,
     "followers": [
       {
@@ -13,6 +13,58 @@
         "handle": "justmask.bsky.social",
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:r7ilhsdmxzxtin2ut6zxpefu",
+        "handle": "ds-wen.bsky.social",
+        "display_name": "wen👩🏻‍💻",
+        "created_at": "2024-09-03T07:32:43.830Z",
+        "description": "👋 senior data scientist. i do = data science + ai + lifelong learning with a growth mindset\n",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:q675zkhhrg3k5wtpcp457akk",
+        "handle": "nhirschfeld.bsky.social",
+        "display_name": "Na'aman Hirschfeld",
+        "created_at": "2024-11-30T14:39:01.108Z",
+        "description": "Co-Founder & CTO @ xberg.io. Document AI and extraction, polyglot Rust cores. Building basemind. Creator of Litestar & Polyfactory. Open source. Opinionated and strongly typed.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:2owppfhidcvuc25lwiug6ett",
+        "handle": "beckynures.bsky.social",
+        "display_name": "",
+        "created_at": "2026-11-05T13:03:39.664Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:x3xqnf452ytcso47ossxzli3",
+        "handle": "janelle96.bsky.social",
+        "display_name": "",
+        "created_at": "2026-11-06T06:24:25.465Z",
         "description": null,
         "followers_count": 0,
         "follows_count": 0,
@@ -1021,51 +1073,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:wkoo7ijsb3r5sautesksjxj5",
-        "handle": "nepobigo.bsky.social",
-        "display_name": "Interesting",
-        "created_at": "2023-10-16T03:47:59.904Z",
-        "description": "Hey there 🌈",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:gm526mm4tdrhinfo62qo3ny5",
-        "handle": "freyapeak.bsky.social",
-        "display_name": "Freya Peak",
-        "created_at": "2026-08-06T04:46:10.827Z",
-        "description": "A mountain never bows, nor does it lose its height when no one climbs it. Stay true to your path—whether in biotech, medicine, technology, clean energy, or lithium—and never let others define your worth",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:4zsj6nz2httyjvrojcaiigjw",
-        "handle": "mphamner.bsky.social",
-        "display_name": "NorthStar",
-        "created_at": "2024-11-17T16:55:55.972Z",
-        "description": "“I am constant as the northern star!” William Shakespeare \n\nshe/her! Always speak truth to power! Democrat, wife of Vietnam vet, professional (D.Sc.) woman still working, not ever going back! Opinions are my own! \n🇺🇸 💔 🇺🇦 🇨🇦 🇲🇽 💙 📎🧪",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-06T04:05:00.685181+00:00"
+    "fetch_timestamp": "2026-11-06T13:25:15.659437+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-06T01:50:14+00:00",
+    "last_post_timestamp": "2026-11-06T08:26:01.302000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
