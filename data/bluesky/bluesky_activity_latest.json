@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-09T03:35:04.838157+00:00",
+  "fetch_timestamp": "2026-11-09T14:39:12.321480+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2642,
+    "total_followers_count": 2643,
     "total_following_count": 1994,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:jab7x7su7isqtaewya734w4l",
+        "handle": "khacn.bsky.social",
+        "display_name": "KharYsma Coins (KHACN)",
+        "created_at": "2026-11-07T11:46:08.563Z",
+        "description": "KHACN, utility token of the KharYsma art ecosystem, coming to Base, bridged 1:1 from Ethereum (reserve provable on-chain). Automated account run by the project: data posts, launch news, answers to mentions. The team never DMs first and never asks for a rec",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1073,25 +1086,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:ledvwwvt3eyow2qdvy5ysobm",
-        "handle": "mmc123.bsky.social",
-        "display_name": "Country Over Party 🌵",
-        "created_at": "2024-04-25T22:41:27.483Z",
-        "description": "5th generation Arizonan. Politically homeless (former Republican). Member of The Church of Jesus Christ of Latter-day Saints\n@ComeUntoChrist ",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-09T03:35:05.622587+00:00"
+    "fetch_timestamp": "2026-11-09T14:39:12.730390+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-09T03:33:54.521000+00:00",
+    "last_post_timestamp": "2026-11-09T08:51:16.445000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
