@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2026-11-10T13:56:08.680696+00:00",
+  "fetch_timestamp": "2026-11-10T22:38:53.604039+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:h2butxex4ttwdrrtbumzqwhj",
+        "handle": "paragonaimag.bsky.social",
+        "display_name": "Paragon",
+        "created_at": "2026-10-17T17:14:51.078Z",
+        "description": "Paragon is an independent magazine tracking only the revolutionary developments shaping AI's future. Daily signals, deep analysis, and a public prediction record we're willing to be scored on. Signal, never noise.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1125,25 +1138,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:bkzrq7mqx2y62aepym5k3k3o",
-        "handle": "vguinea.eurosky.social",
-        "display_name": "vguinea 🇪🇺",
-        "created_at": "2024-11-14T21:49:14.772Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-10T13:56:09.441476+00:00"
+    "fetch_timestamp": "2026-11-10T22:38:54.394914+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-10T07:39:39.858000+00:00",
+    "last_post_timestamp": "2026-11-10T20:16:38.616000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
