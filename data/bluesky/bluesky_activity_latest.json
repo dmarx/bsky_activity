@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2026-11-13T13:36:17.383563+00:00",
+  "fetch_timestamp": "2026-11-13T22:59:58.495723+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:7b6u6kvzyxho5aqhvzbgemjc",
+        "handle": "ogblockhead.bsky.social",
+        "display_name": "OG Blockhead",
+        "created_at": "2024-11-13T14:07:42.224Z",
+        "description": " \"I am not concerned to justify the perpetrators of violence but to enquire into the function of the violence of the working classes in contemporary socialism.\"-- Georges Sorel",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -169,7 +182,7 @@
         "handle": "paulquin.com",
         "display_name": "Paul Quin",
         "created_at": "2024-11-15T22:49:26.158Z",
-        "description": "Committed to integrity, fairness, inclusivity, and justice. Against racism, prejudice, and propaganda.",
+        "description": "Committed to integrity, fairness and justice.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -676,7 +689,7 @@
         "handle": "2ninea.bsky.social",
         "display_name": "2nineA - 2026 Retaliation Tour",
         "created_at": "2024-02-23T15:42:58.050Z",
-        "description": "Former US Army PSYOP Paratrooper\n\nCybersecurity, Privacy, AI Governance\n\nRegistered Independent\n\nAntifa-Adjacent\n\nSocialist-Curious\n\n#APT666 #Exiles #AISec #chess\n\nStudying Chess Openings and Endgames on Chessly.com\n\nNow Playing:  Path of Exile 2",
+        "description": "Former US Army PSYOP Paratrooper\n\nCybersecurity, Privacy, AI Governance\n\nRegistered Independent\n\nAntifa-Adjacent\n\nSocialist-Curious\n\n#APT666 #Exiles #AISec #chess\n\nStudying Chess Openings and Endgames on Chessly.com\n\nNow Playing:  Wrath of the Righteous",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1151,25 +1164,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:jl5s7l7e4b4ycdkwig3cas75",
-        "handle": "tommis.fi",
-        "display_name": "Tommi Somersuo",
-        "created_at": "2023-08-31T14:03:39.977Z",
-        "description": "CTO at ALM Partners | Technology, ICT and AI\n\nOffline: Runner, angler, RES/SRA, Tibetan Terrier owner.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-13T13:36:18.184337+00:00"
+    "fetch_timestamp": "2026-11-13T22:59:59.280727+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-13T04:32:36.845000+00:00",
+    "last_post_timestamp": "2026-11-13T22:38:29.149000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
