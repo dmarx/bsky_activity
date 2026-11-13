@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-13T03:59:54.944704+00:00",
+  "fetch_timestamp": "2026-11-13T13:36:17.383563+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2664,
+    "total_followers_count": 2665,
     "total_following_count": 1994,
     "followers": [
       {
@@ -13,6 +13,19 @@
         "handle": "justmask.bsky.social",
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:4ovvlt3pxns66nqfwtlvkznu",
+        "handle": "giqu.bsky.social",
+        "display_name": "",
+        "created_at": "2024-11-12T12:16:02.337Z",
         "description": null,
         "followers_count": 0,
         "follows_count": 0,
@@ -711,19 +724,6 @@
         "follow_date": null
       },
       {
-        "did": "did:plc:fk4x5kl5prgt5blq3yzl6vss",
-        "handle": "velew12728.bsky.social",
-        "display_name": "Vero",
-        "created_at": "2026-10-13T00:46:11.573Z",
-        "description": "Lover of sunshine, fresh air, and honest conversations. 🌻 No filters, just me.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
         "did": "did:plc:7l3adw4mvno26yufjzw6mgil",
         "handle": "cassandrasaidso.bsky.social",
         "display_name": "Cassandra in the 305",
@@ -1164,25 +1164,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:tc34bvrweskmgi25npng7anc",
-        "handle": "re-shawn.bsky.social",
-        "display_name": "",
-        "created_at": "2026-10-14T05:34:16.577Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-13T03:59:55.582723+00:00"
+    "fetch_timestamp": "2026-11-13T13:36:18.184337+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-13T03:03:50.971000+00:00",
+    "last_post_timestamp": "2026-11-13T04:32:36.845000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
