@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-14T12:41:21.988090+00:00",
+  "fetch_timestamp": "2026-11-14T21:47:41.413439+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2666,
+    "total_followers_count": 2665,
     "total_following_count": 1994,
     "followers": [
       {
@@ -157,19 +157,6 @@
         "display_name": "Alane Suhr",
         "created_at": "2023-08-16T02:01:29.213Z",
         "description": "Assistant Prof, UC Berkeley EECS, research on language, language use, and language technologies\n\nI am not a language model.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:5uexuke6dhio5356chr4h7s4",
-        "handle": "johnhtran.bsky.social",
-        "display_name": "H. John Tran",
-        "created_at": "2024-11-23T04:23:56.609Z",
-        "description": "The story behind the story.\n\nSignals on money, power, people & consequences.\n🔴 Harm · 🟠 Pressure · 🟡 Emerging\n🟢 Positive · 🔵 Structural",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1164,12 +1151,25 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
+      },
+      {
+        "did": "did:plc:3mkmawtelml6rwbe4g2mzyks",
+        "handle": "cynthiadunlop.bsky.social",
+        "display_name": "Cynthia Dunlop",
+        "created_at": "2024-02-07T23:19:37.814Z",
+        "description": "ScyllaDB | P99 CONF | \"Writing for Developers: Blogs That Get Read\" book (https://github.com/scynthiadunlop/WritingForDevelopersBook)",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-14T12:41:22.387547+00:00"
+    "fetch_timestamp": "2026-11-14T21:47:41.867536+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-14T09:14:30.998000+00:00",
+    "last_post_timestamp": "2026-11-14T20:02:06.196000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
