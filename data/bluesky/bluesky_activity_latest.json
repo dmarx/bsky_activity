@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-16T14:15:03.464169+00:00",
+  "fetch_timestamp": "2026-11-17T01:16:09.823440+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2666,
+    "total_followers_count": 2665,
     "total_following_count": 1994,
     "followers": [
       {
@@ -243,6 +243,19 @@
         "follow_date": null
       },
       {
+        "did": "did:plc:rgrkxhsdosprp6bdxq7w2mj7",
+        "handle": "wuehdusooddbhs.bsky.social",
+        "display_name": "",
+        "created_at": "2026-11-08T16:48:55.568Z",
+        "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
         "did": "did:plc:tqtyw54tl47qeob5gsov67dz",
         "handle": "sesso.bsky.social",
         "display_name": "k-means demon hunter",
@@ -417,19 +430,6 @@
         "display_name": "Just Another News Junkie",
         "created_at": "2024-11-04T19:10:33.713Z",
         "description": "Moved to BlueSky after 10 years of using the other platform. I don't expect to post much. Just looking for a way to be a part of the world, stay informed and learn a thing or two. Thank you to all the wonderful people posting here!",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:r7ilhsdmxzxtin2ut6zxpefu",
-        "handle": "ds-wen.bsky.social",
-        "display_name": "wen👩🏻‍💻",
-        "created_at": "2024-09-03T07:32:43.830Z",
-        "description": "👋 senior data scientist. i do = data science + ai + lifelong learning with a growth mindset\n",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -689,7 +689,7 @@
         "handle": "2ninea.bsky.social",
         "display_name": "2nineA - Noob Fella",
         "created_at": "2024-02-23T15:42:58.050Z",
-        "description": "Former US Army PSYOP Paratrooper\n\nNow Cybersecurity Analyst, AI Governance\n\nAutonomous Swarm Programmer\n\nSlava Ukraini - Heroyam Slava - #NAFO\n\nDMs open",
+        "description": "Former US Army PSYOP Paratrooper\n\nNow Cybersecurity Analyst, AI Governance\n\nAutonomous Swarm Programmer\n\nSlava Ukraini - Heroyam Slava - #NAFO\n\nDMs open - pr0n welcome - no cryptocurrency\n\nMute \"Follower Tax\" to suppress k-pop and gangsta rap content.",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1151,12 +1151,25 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
+      },
+      {
+        "did": "did:plc:3mkmawtelml6rwbe4g2mzyks",
+        "handle": "cynthiadunlop.bsky.social",
+        "display_name": "Cynthia Dunlop",
+        "created_at": "2024-02-07T23:19:37.814Z",
+        "description": "ScyllaDB | P99 CONF | \"Writing for Developers: Blogs That Get Read\" book (https://github.com/scynthiadunlop/WritingForDevelopersBook)",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-16T14:15:04.038758+00:00"
+    "fetch_timestamp": "2026-11-17T01:16:10.548414+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-16T09:35:14.212000+00:00",
+    "last_post_timestamp": "2026-11-17T01:04:01.992000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
