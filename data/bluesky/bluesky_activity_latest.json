@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-18T23:41:31.193750+00:00",
+  "fetch_timestamp": "2026-11-19T04:57:23.552661+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2668,
+    "total_followers_count": 2670,
     "total_following_count": 1994,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:mg3lhaaiohgczwovr5crquzw",
+        "handle": "watermlonmusk.bsky.social",
+        "display_name": "Watermelon Musk 🍉 | Tech & Thrillers",
+        "created_at": "2026-10-25T04:28:32.968Z",
+        "description": "Tech tinkerer, late-night builder & psychological thriller enthusiast. 🍉\nCurating viral tech trends, dark mode dev flow & unputdownable fiction.\n\n📖 Novel: Mile 44 (The Meridian Sequence)\n🌙 Tool: Super Dark Mode Extension",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:ohrwdxgfqr5fd4z7fazu3zcp",
+        "handle": "submittabledaily.bsky.social",
+        "display_name": "Daily Submittable Deadlines",
+        "created_at": "2025-08-10T04:03:05.963Z",
+        "description": "Best writing and poetry festivals to submit to each day on submittable.\n\nhttps://wildsoundwritingfestival.submittable.com/projects",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -269,19 +295,6 @@
         "follow_date": null
       },
       {
-        "did": "did:plc:rgrkxhsdosprp6bdxq7w2mj7",
-        "handle": "wuehdusooddbhs.bsky.social",
-        "display_name": "",
-        "created_at": "2026-11-08T16:48:55.568Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
         "did": "did:plc:tqtyw54tl47qeob5gsov67dz",
         "handle": "sesso.bsky.social",
         "display_name": "k-means demon hunter",
@@ -364,7 +377,7 @@
         "handle": "ramon-astudillo.bsky.social",
         "display_name": "Ramon Astudillo",
         "created_at": "2023-07-27T10:34:21.075Z",
-        "description": "Principal Research Scientist at IBM's Foundations of AI. 15y of Deep Learning (ASR, MT, LLM post-training, runtime) across academia, YC-startup and Big Tech. 00s Berlin, 10s Lisbon, 20s NYC. Opinions my own and non stationary. ramon-astudillo.github.io.com",
+        "description": "Principal Research Scientist at IBM's Foundations of AI. 15y of Deep Learning (ASR, MT, LLM post-training, TTT) across academia, YC-startup and Big Tech. 00s Berlin, 10s Lisbon, 20s NYC. Opinions my own and non stationary. ramon-astudillo.github.io.com",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1112,38 +1125,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:ghwikxokwu7h7punwyvsqxxc",
-        "handle": "chriswolfvision.bsky.social",
-        "display_name": "Christian Wolf",
-        "created_at": "2024-02-08T06:51:01.391Z",
-        "description": "Principal Scientist at Naver Labs Europe, Lead of Spatial AI team. AI for Robotics, Computer Vision, Machine Learning. Hobby Cyclist. Austrian in France. https://chriswolfvision.github.io/www/",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:pjgovzpeo3r7zxddj4qca7gv",
-        "handle": "dgrinwald.bsky.social",
-        "display_name": "Dennis Grinwald",
-        "created_at": "2024-11-28T11:15:09.809Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-18T23:41:31.968733+00:00"
+    "fetch_timestamp": "2026-11-19T04:57:24.389213+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-18T20:58:18.739000+00:00",
+    "last_post_timestamp": "2026-11-19T01:12:22.527000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
