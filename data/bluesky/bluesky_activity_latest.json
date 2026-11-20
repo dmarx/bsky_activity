@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-20T00:00:03.007638+00:00",
+  "fetch_timestamp": "2026-11-20T06:03:02.732968+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2670,
+    "total_followers_count": 2669,
     "total_following_count": 1994,
     "followers": [
       {
@@ -1140,10 +1140,10 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-20T00:00:03.714680+00:00"
+    "fetch_timestamp": "2026-11-20T06:03:03.233727+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-19T23:52:11.930000+00:00",
+    "last_post_timestamp": "2026-11-20T02:26:16.306000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
