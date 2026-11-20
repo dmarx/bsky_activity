@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-19T14:52:51.159125+00:00",
+  "fetch_timestamp": "2026-11-20T00:00:03.007638+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2669,
+    "total_followers_count": 2670,
     "total_following_count": 1994,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:sqcsgtwslztmdlezxpltlz4r",
+        "handle": "biologyjoe87.bsky.social",
+        "display_name": "Joe Brennan",
+        "created_at": "2024-12-06T18:21:31.009Z",
+        "description": "Community ecology & theoretical population biology 🪴🧬 🧮\nEcological, evolutionary, and environmental mechanisms of coexistence 🤝, community assembly ⬆️ , and community disassembly ⬇️\nUC Davis Population Biology PhD Candidate 🐄\n\nhttps://biologyjoe87.github.io/",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:ix2f3msunwk55l5hme3q5swq",
+        "handle": "ash243x.bsky.social",
+        "display_name": "Alexandria ⛯",
+        "created_at": "2023-04-30T17:46:54.138Z",
+        "description": "Industrial Engineer 🏭 Eldest Sibling 🏳️‍⚧️ Vegan 🥗 Mechanophile 🤖 ΘΔ🐇",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -165,19 +191,6 @@
         "follow_date": null
       },
       {
-        "did": "did:plc:dkqxzae66jjngwx3ks4xde4c",
-        "handle": "buildingbetter.bsky.social",
-        "display_name": "Darrell | Building Better Men",
-        "created_at": "2025-12-30T05:05:50.290Z",
-        "description": "Sharing the journey of positive masculinity - being strong enough to be gentle, confident enough to admit mistakes.\n\nMen supporting men. Outdoors, fitness, building things. You don't have to have it all figured out. The work is the point.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
         "did": "did:plc:r5kglb3m4zp3a55a2pn6o4qb",
         "handle": "zoterofan.bsky.social",
         "display_name": "zotero_enjoyer",
@@ -274,6 +287,19 @@
         "display_name": "FAIND",
         "created_at": "2026-11-09T17:53:54.965Z",
         "description": "AI news, hour by hour, always with the source. Independent, free, no ads. Italian, English, French, German.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:rgrkxhsdosprp6bdxq7w2mj7",
+        "handle": "wuehdusooddbhs.bsky.social",
+        "display_name": "",
+        "created_at": "2026-11-08T16:48:55.568Z",
+        "description": null,
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1112,25 +1138,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:ghwikxokwu7h7punwyvsqxxc",
-        "handle": "chriswolfvision.bsky.social",
-        "display_name": "Christian Wolf",
-        "created_at": "2024-02-08T06:51:01.391Z",
-        "description": "Principal Scientist at Naver Labs Europe, Lead of Spatial AI team. AI for Robotics, Computer Vision, Machine Learning. Hobby Cyclist. Austrian in France. https://chriswolfvision.github.io/www/",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-19T14:52:51.961147+00:00"
+    "fetch_timestamp": "2026-11-20T00:00:03.714680+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-19T06:56:25.873000+00:00",
+    "last_post_timestamp": "2026-11-19T23:52:11.930000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
