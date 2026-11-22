@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-22T03:57:45.871355+00:00",
+  "fetch_timestamp": "2026-11-22T13:45:07.783863+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2676,
+    "total_followers_count": 2677,
     "total_following_count": 1994,
     "followers": [
       {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:tht2ywppmzyuctwfft4l35ah",
+        "handle": "phalpern.bsky.social",
+        "display_name": "Paul Halpern",
+        "created_at": "2023-08-27T00:49:21.821Z",
+        "description": "Physicist and Science Writer. Author of nineteen books, most recently THE GREAT ATOM DEBATE: ERNST MACH, LUDWIG BOLTZMANN, AND THE BATTLE FOR THE ESSENCE OF REALITY https://greatatomdebate.com/",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1151,22 +1164,9 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:e6yvr5edeq5n5mgrsob454hs",
-        "handle": "alephale.bsky.social",
-        "display_name": "",
-        "created_at": "2026-07-28T16:34:13.621Z",
-        "description": null,
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-22T03:57:46.741296+00:00"
+    "fetch_timestamp": "2026-11-22T13:45:08.341344+00:00"
   },
   "incremental_fetch": {
     "last_post_timestamp": "2026-11-22T01:22:36.378000+00:00",
