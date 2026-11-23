@@ -1,5 +1,5 @@
 {
-  "fetch_timestamp": "2026-11-23T04:39:12.246756+00:00",
+  "fetch_timestamp": "2026-11-23T16:47:01.554564+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
@@ -14,6 +14,19 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:sxnd7k6yhqot4qu5ultit272",
+        "handle": "frankiej1454.bsky.social",
+        "display_name": "Master Frankie",
+        "created_at": "2026-11-21T08:18:00.456Z",
+        "description": "Superior BNWO Alpha Master Owning whitebois |BBC Worship |Total Submission, Kneel & Tribute DM to serve \n\n#BNWO #BBC #QOS #Snowbunny #Blacked",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -144,19 +157,6 @@
         "display_name": "Alexandria ⛯",
         "created_at": "2023-04-30T17:46:54.138Z",
         "description": "Industrial Engineer 🏭 Eldest Sibling 🏳️‍⚧️ Vegan 🥗 Mechanophile 🤖 ΘΔ🐇",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:mg3lhaaiohgczwovr5crquzw",
-        "handle": "watermlonmusk.bsky.social",
-        "display_name": "Watermelon Musk 🍉 | Tech & Thrillers",
-        "created_at": "2026-10-25T04:28:32.968Z",
-        "description": "Tech tinkerer, late-night builder & psychological thriller enthusiast. 🍉\nCurating viral tech trends, dark mode dev flow & unputdownable fiction.\n\n📖 Novel: Mile 44 (The Meridian Sequence)\n🌙 Tool: Super Dark Mode Extension",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -507,7 +507,7 @@
         "handle": "khacn.bsky.social",
         "display_name": "KharYsma Coins (KHACN)",
         "created_at": "2026-11-07T11:46:08.563Z",
-        "description": "KHACN, utility token of the KharYsma art ecosystem, coming to Base, bridged 1:1 from Ethereum (reserve provable on-chain). Automated account run by the project: data posts, launch news, answers to mentions. The team never DMs first and never asks for a rec",
+        "description": "KHACN, utility token of the KharYsma art ecosystem, coming to Base on 15 Dec 2026 (public auction 14:00 UTC, moved from 1 Dec), bridged 1:1 from Ethereum (reserve provable on-chain). Automated account run by the project: data posts, launch news, answers to",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1144,7 +1144,7 @@
         "handle": "vardon.world",
         "display_name": "Vardon Hamdiu | Sparkable",
         "created_at": "2023-07-04T13:25:38.166Z",
-        "description": "Executive Director, @sparkable.cc\n\nPeacebuilding | Healthier Social Media | Tech & Democracy | Prosocial Design | Human Rights",
+        "description": "Executive Director, @sparkable.cc\n\nPeacebuilding | Healthier Social Media | Tech & Democracy | Prosocial Design | Human Rights\n\n📍 Based in 🇨🇭 Switzerland",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -1153,10 +1153,10 @@
         "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-23T04:39:12.814383+00:00"
+    "fetch_timestamp": "2026-11-23T16:47:02.362338+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-23T01:33:47.345000+00:00",
+    "last_post_timestamp": "2026-11-23T16:26:28.758000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
