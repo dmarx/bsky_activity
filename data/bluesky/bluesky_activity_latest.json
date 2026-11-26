@@ -1,11 +1,11 @@
 {
-  "fetch_timestamp": "2026-11-25T16:25:00.314911+00:00",
+  "fetch_timestamp": "2026-11-26T01:17:10.958227+00:00",
   "profile_handle": "digthatdata.bsky.social",
   "posts": [],
   "followers_metadata": {
     "profile_handle": "digthatdata.bsky.social",
     "profile_did": "did:plc:yeplumkwwcfqh5gr7burql3e",
-    "total_followers_count": 2679,
+    "total_followers_count": 2681,
     "total_following_count": 1995,
     "followers": [
       {
@@ -14,6 +14,32 @@
         "display_name": "Mask",
         "created_at": "2025-04-04T20:57:25.265Z",
         "description": null,
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:bv6rh6gxdcx5q3y6x6b5qwcl",
+        "handle": "kareemsoliman.bsky.social",
+        "display_name": "Kareem Soliman",
+        "created_at": "2026-06-19T09:11:09.257Z",
+        "description": "Sydney-based independent researcher. Psychometrics, AI evaluation, and the explore-exploit problem hiding inside everything. ADHD runs the lab. I measure latent constructs from how agents actually behave over time. Building in public, mistakes included.",
+        "followers_count": 0,
+        "follows_count": 0,
+        "posts_count": 0,
+        "i_follow_them": false,
+        "mutual_follow": false,
+        "follow_date": null
+      },
+      {
+        "did": "did:plc:b6qsknhgy2ao7smutzqvpuh7",
+        "handle": "carolinekhoury.bsky.social",
+        "display_name": "Caroline Khoury",
+        "created_at": "2024-10-30T00:07:22.158Z",
+        "description": "I'm just a woman walking alone towards my goal. Democracy 👍✅ 🚫 Crypto 🚫 Pornography 🚫 Trump 💢 🚫 MAGA",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -52,7 +78,7 @@
         "handle": "agentique.ch",
         "display_name": null,
         "created_at": "2026-11-23T19:38:00.760Z",
-        "description": null,
+        "description": "Practical AI news for builders, picked daily from labs, engineers and researchers. Weekly issue: agentique.ch",
         "followers_count": 0,
         "follows_count": 0,
         "posts_count": 0,
@@ -776,19 +802,6 @@
         "follow_date": null
       },
       {
-        "did": "did:plc:f24tsebpdyg5quaf55hwebtm",
-        "handle": "lollylizzy.bsky.social",
-        "display_name": "Lolly",
-        "created_at": "2026-10-28T18:47:21.971Z",
-        "description": "I don't charge or bite, I'm just here to explore.",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
         "did": "did:plc:lv6sho2ft4lnultdfltqz657",
         "handle": "ayanetworks.bsky.social",
         "display_name": "",
@@ -1138,38 +1151,12 @@
         "i_follow_them": false,
         "mutual_follow": false,
         "follow_date": null
-      },
-      {
-        "did": "did:plc:ufoi26zwcok6qiftsfzfudse",
-        "handle": "laineymaine.bsky.social",
-        "display_name": "Lainey",
-        "created_at": "2025-07-25T08:35:10.264Z",
-        "description": "I know, I need a bio",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
-      },
-      {
-        "did": "did:plc:7o5fvmrv5rgd55zmn7okvfoz",
-        "handle": "jie-immunology.bsky.social",
-        "display_name": "",
-        "created_at": "2024-12-11T02:55:21.314Z",
-        "description": "Harrison professor of medicine at UVA. We study respiratory immunity and immunopathology. Working on COVID, Influenza, Aging, T cells, macrophages, lung regeneration and tumorigenesis. https://www.immunology.virginia.edu/Sun/publications.php",
-        "followers_count": 0,
-        "follows_count": 0,
-        "posts_count": 0,
-        "i_follow_them": false,
-        "mutual_follow": false,
-        "follow_date": null
       }
     ],
-    "fetch_timestamp": "2026-11-25T16:25:01.088807+00:00"
+    "fetch_timestamp": "2026-11-26T01:17:11.429886+00:00"
   },
   "incremental_fetch": {
-    "last_post_timestamp": "2026-11-25T16:20:35.903000+00:00",
+    "last_post_timestamp": "2026-11-26T00:44:02.777000+00:00",
     "new_posts_count": 0,
     "is_initial_fetch": false
   }
